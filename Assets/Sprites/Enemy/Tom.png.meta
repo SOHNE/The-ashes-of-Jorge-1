@@ -1,0 +1,5693 @@
+fileFormatVersion: 2
+guid: 73d074b2f14b249708f067b4b26e1c4e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1796865340239105866
+    second: Tom_0
+  - first:
+      213: -3715644905269324517
+    second: Tom_1
+  - first:
+      213: 2351984933828162710
+    second: Tom_2
+  - first:
+      213: -5226544480802909331
+    second: Tom_3
+  - first:
+      213: 6818073564435369542
+    second: Tom_4
+  - first:
+      213: -847733120390156298
+    second: Tom_5
+  - first:
+      213: 5358648039395475078
+    second: Tom_6
+  - first:
+      213: -6336369463661012435
+    second: Tom_8
+  - first:
+      213: 7608310004149614024
+    second: Tom_9
+  - first:
+      213: -6414802467777637459
+    second: Tom_10
+  - first:
+      213: 4437993462324482652
+    second: Tom_11
+  - first:
+      213: -3982751904653173184
+    second: Tom_12
+  - first:
+      213: -3781839047233002710
+    second: Tom_13
+  - first:
+      213: 2271638938681977325
+    second: Tom_14
+  - first:
+      213: -7801710578036674619
+    second: Tom_17
+  - first:
+      213: 7380942572821998894
+    second: Tom_18
+  - first:
+      213: -7722463261644205341
+    second: Tom_19
+  - first:
+      213: 3175504446084478749
+    second: Tom_20
+  - first:
+      213: 1810613756927734467
+    second: Tom_21
+  - first:
+      213: 7083487734895772011
+    second: Tom_22
+  - first:
+      213: -7480949315794771272
+    second: Tom_23
+  - first:
+      213: -1453425039443955110
+    second: Tom_24
+  - first:
+      213: -8633493188480994291
+    second: Tom_25
+  - first:
+      213: -3188574598124153152
+    second: Tom_34
+  - first:
+      213: -8148903917428311976
+    second: Tom_35
+  - first:
+      213: -539670780359234203
+    second: Tom_36
+  - first:
+      213: -6683818272490410112
+    second: Tom_37
+  - first:
+      213: 5300356259827999399
+    second: Tom_38
+  - first:
+      213: -7027134225329469779
+    second: Tom_39
+  - first:
+      213: -5780508974990663355
+    second: Tom_40
+  - first:
+      213: -4088908026017791742
+    second: Tom_41
+  - first:
+      213: -7392019739688096911
+    second: Tom_42
+  - first:
+      213: -4989309880489658301
+    second: Tom_43
+  - first:
+      213: 1915525088064731753
+    second: Tom_46
+  - first:
+      213: -2971060052976056244
+    second: Tom_47
+  - first:
+      213: 8441090109229673356
+    second: Tom_48
+  - first:
+      213: 39596474451161309
+    second: Tom_49
+  - first:
+      213: 804176155411035501
+    second: Tom_50
+  - first:
+      213: -2312854287372987202
+    second: Tom_51
+  - first:
+      213: -5083697766192178364
+    second: Tom_52
+  - first:
+      213: 3378466662312531723
+    second: Tom_53
+  - first:
+      213: -3552770263669530843
+    second: Tom_54
+  - first:
+      213: 3597610173571471901
+    second: Tom_55
+  - first:
+      213: 8504859973577410705
+    second: Tom_56
+  - first:
+      213: 1264088548219495997
+    second: Tom_57
+  - first:
+      213: -5677415038102869522
+    second: Tom_58
+  - first:
+      213: -8879040349888148676
+    second: Tom_59
+  - first:
+      213: -4176133679029895330
+    second: Tom_60
+  - first:
+      213: -317305321338576179
+    second: Tom_61
+  - first:
+      213: -486866322478596996
+    second: Tom_62
+  - first:
+      213: -7562749960710864889
+    second: Tom_63
+  - first:
+      213: 3622211090388865709
+    second: Tom_64
+  - first:
+      213: 2889127153673430060
+    second: Tom_65
+  - first:
+      213: 917463513904647471
+    second: Tom_66
+  - first:
+      213: -4301638971305511856
+    second: Tom_67
+  - first:
+      213: -3663076430815873692
+    second: Tom_68
+  - first:
+      213: -4460377607632714437
+    second: Tom_69
+  - first:
+      213: -7152308143137460499
+    second: Tom_70
+  - first:
+      213: -148241533025658107
+    second: Tom_71
+  - first:
+      213: 2773581077811510564
+    second: Tom_72
+  - first:
+      213: -6288984469032816328
+    second: Tom_73
+  - first:
+      213: 191866935955644693
+    second: Tom_74
+  - first:
+      213: -3012577349603809951
+    second: Tom_75
+  - first:
+      213: -5881413675904175840
+    second: Tom_76
+  - first:
+      213: -4693006706347186168
+    second: Tom_77
+  - first:
+      213: -6047395217561903697
+    second: Tom_78
+  - first:
+      213: 3848611954063265828
+    second: Tom_79
+  - first:
+      213: 3036651455199979038
+    second: Tom_80
+  - first:
+      213: -2560836083294582746
+    second: Tom_81
+  - first:
+      213: 3417361993728314462
+    second: Tom_82
+  - first:
+      213: 299029561064378024
+    second: Tom_83
+  - first:
+      213: 7523425103232309159
+    second: Tom_84
+  - first:
+      213: 3986466689702594350
+    second: Tom_85
+  - first:
+      213: -6415887892756956327
+    second: Tom_86
+  - first:
+      213: 6257310796917211057
+    second: Tom_87
+  - first:
+      213: 1768885792724710857
+    second: Tom_88
+  - first:
+      213: -4001955089877070798
+    second: Tom_89
+  - first:
+      213: -18867471137000831
+    second: Tom_90
+  - first:
+      213: 202759797567336866
+    second: Tom_91
+  - first:
+      213: -1507380331562029312
+    second: Tom_92
+  - first:
+      213: 4397310463141738706
+    second: Tom_93
+  - first:
+      213: -2543493331895824087
+    second: Tom_94
+  - first:
+      213: 8177759191744775901
+    second: Tom_95
+  - first:
+      213: -3593572530427108910
+    second: Tom_96
+  - first:
+      213: -8958336629654531099
+    second: Tom_97
+  - first:
+      213: -8596817200013894629
+    second: Tom_98
+  - first:
+      213: 4366718960620493233
+    second: Tom_99
+  - first:
+      213: -4293331287964924235
+    second: Tom_100
+  - first:
+      213: 2204758390926182219
+    second: Tom_101
+  - first:
+      213: -6699411780242359734
+    second: Tom_102
+  - first:
+      213: 3256527888981954818
+    second: Tom_103
+  - first:
+      213: -5704606924517176698
+    second: Tom_104
+  - first:
+      213: -2664472775877018555
+    second: Tom_105
+  - first:
+      213: -6509545355788618550
+    second: Tom_106
+  - first:
+      213: -7865917796577483877
+    second: Tom_107
+  - first:
+      213: 2693009201987517009
+    second: Tom_108
+  - first:
+      213: -8638532880529701953
+    second: Tom_109
+  - first:
+      213: 2288588240800725139
+    second: Tom_110
+  - first:
+      213: 1589021485373688840
+    second: Tom_111
+  - first:
+      213: 1460468670562714675
+    second: Tom_112
+  - first:
+      213: -1898635828020814547
+    second: Tom_113
+  - first:
+      213: -7786232664707223878
+    second: Tom_114
+  - first:
+      213: -2321654538398881194
+    second: Tom_115
+  - first:
+      213: 833582610120049564
+    second: Tom_116
+  - first:
+      213: 3577691184106312143
+    second: Tom_117
+  - first:
+      213: -4733740037992988062
+    second: Tom_118
+  - first:
+      213: 6052715326678158519
+    second: Tom_119
+  - first:
+      213: -1384445423220255881
+    second: Tom_120
+  - first:
+      213: 7624809921771575776
+    second: Tom_121
+  - first:
+      213: -7157701373594915845
+    second: Tom_122
+  - first:
+      213: -3684828037370441545
+    second: Tom_123
+  - first:
+      213: -6707733072717519673
+    second: Tom_124
+  - first:
+      213: -7479463931415411104
+    second: Tom_125
+  - first:
+      213: -3787103364505851832
+    second: Tom_126
+  - first:
+      213: -2334677272011632605
+    second: Tom_127
+  - first:
+      213: -2052050192757768851
+    second: Tom_128
+  - first:
+      213: 9094204888117308137
+    second: Tom_129
+  - first:
+      213: -1111995341413416726
+    second: Tom_130
+  - first:
+      213: 6359173078178718234
+    second: Tom_131
+  - first:
+      213: 2992110714239883362
+    second: Tom_132
+  - first:
+      213: 1602887135133299321
+    second: Tom_133
+  - first:
+      213: -1447246891373418978
+    second: Tom_134
+  - first:
+      213: -5264315029891446971
+    second: Tom_135
+  - first:
+      213: 1387639670824383563
+    second: Tom_136
+  - first:
+      213: -2270546475486898306
+    second: Tom_137
+  - first:
+      213: 8316808834623424182
+    second: Tom_138
+  - first:
+      213: 7582166253815977494
+    second: Tom_139
+  - first:
+      213: -3342999193158886394
+    second: Tom_140
+  - first:
+      213: 1717573756236528188
+    second: Tom_141
+  - first:
+      213: -6011424576929937291
+    second: Tom_142
+  - first:
+      213: 688168894889738243
+    second: Tom_143
+  - first:
+      213: 4205301214433503554
+    second: Tom_144
+  - first:
+      213: 2305989211375243773
+    second: Tom_145
+  - first:
+      213: -6498913492288137741
+    second: Tom_146
+  - first:
+      213: 7690894905250570937
+    second: Tom_147
+  - first:
+      213: 9161073289914606874
+    second: Tom_148
+  - first:
+      213: 6441340340174731489
+    second: Tom_149
+  - first:
+      213: 9077865006368227498
+    second: Tom_150
+  - first:
+      213: -3803134654609479641
+    second: Tom_151
+  - first:
+      213: -4571346788039109178
+    second: Tom_152
+  - first:
+      213: -3822186048019234851
+    second: Tom_153
+  - first:
+      213: -8948622193706206767
+    second: Tom_154
+  - first:
+      213: -1250328138444483354
+    second: Tom_155
+  - first:
+      213: -6841278380616208936
+    second: Tom_156
+  - first:
+      213: 2585323654788595327
+    second: Tom_157
+  - first:
+      213: 494224149573475298
+    second: Tom_158
+  - first:
+      213: 4218628570948910744
+    second: Tom_159
+  - first:
+      213: 9032353944872683752
+    second: Tom_160
+  - first:
+      213: 3829888466152229266
+    second: Tom_161
+  - first:
+      213: 8103810119254102795
+    second: Tom_162
+  - first:
+      213: -5042320913656768453
+    second: Tom_163
+  - first:
+      213: -3220817714426154793
+    second: Tom_164
+  - first:
+      213: -4363061805685886538
+    second: Tom_165
+  - first:
+      213: -2240195635609350558
+    second: Tom_166
+  - first:
+      213: 7362746194846847963
+    second: Tom_167
+  - first:
+      213: 6853047447403194540
+    second: Tom_168
+  - first:
+      213: -7097745289664209665
+    second: Tom_169
+  - first:
+      213: 7292751957393672779
+    second: Tom_170
+  - first:
+      213: 1402775600626045407
+    second: Tom_171
+  - first:
+      213: 1758854422861779493
+    second: Tom_172
+  - first:
+      213: -4684581223762249249
+    second: Tom_173
+  - first:
+      213: 7692517894765394532
+    second: Tom_174
+  - first:
+      213: 3198735709477521753
+    second: Tom_175
+  - first:
+      213: -3572745119563648428
+    second: Tom_176
+  - first:
+      213: -6698596272189073564
+    second: Tom_177
+  - first:
+      213: -6956471622428444470
+    second: Tom_178
+  - first:
+      213: -1787080623497020699
+    second: Tom_179
+  - first:
+      213: 3956619776509486328
+    second: Tom_180
+  - first:
+      213: 4393694043648609262
+    second: Tom_181
+  - first:
+      213: -9187906873453543608
+    second: Tom_182
+  - first:
+      213: 2591069358238125320
+    second: Tom_183
+  - first:
+      213: 290721038617972250
+    second: Tom_184
+  - first:
+      213: 8086413858225493073
+    second: Tom_185
+  - first:
+      213: 2807254271775728338
+    second: Tom_186
+  - first:
+      213: 7818479739147090706
+    second: Tom_187
+  - first:
+      213: -5177821130995429642
+    second: Tom_188
+  - first:
+      213: 2471922033321596937
+    second: Tom_189
+  - first:
+      213: 9034721860715470619
+    second: Tom_190
+  - first:
+      213: 5215136241708523871
+    second: Tom_191
+  - first:
+      213: -8826611141421161948
+    second: Tom_192
+  - first:
+      213: -8185348338572241881
+    second: Tom_193
+  - first:
+      213: 8057017524529474987
+    second: Tom_194
+  - first:
+      213: 5676720858035676282
+    second: Tom_195
+  - first:
+      213: -9133178882878613802
+    second: Tom_196
+  - first:
+      213: 8809508997374496642
+    second: Tom_197
+  - first:
+      213: -7267638080907259760
+    second: Tom_198
+  - first:
+      213: 4768062517071625541
+    second: Tom_199
+  - first:
+      213: -7130134561494021445
+    second: Tom_200
+  - first:
+      213: -2606650206996309609
+    second: Tom_201
+  - first:
+      213: -7060152433955294558
+    second: Tom_202
+  - first:
+      213: -4186561467117192048
+    second: Tom_203
+  - first:
+      213: 1302465539791601396
+    second: Tom_204
+  - first:
+      213: 3642900061867220442
+    second: Tom_205
+  - first:
+      213: -5947971317442799097
+    second: Tom_206
+  - first:
+      213: 6035454731426848549
+    second: Tom_207
+  - first:
+      213: 5249994440729156487
+    second: Tom_208
+  - first:
+      213: -5134355635185619685
+    second: Tom_209
+  - first:
+      213: -7182346169164215678
+    second: Tom_210
+  - first:
+      213: 6011272512115955012
+    second: Tom_211
+  - first:
+      213: -8143264914411140444
+    second: Tom_212
+  - first:
+      213: 5087045565633233209
+    second: Tom_213
+  - first:
+      213: -4579839584239775894
+    second: Tom_214
+  - first:
+      213: 2602951845020975032
+    second: Tom_215
+  - first:
+      213: -3770262256598879450
+    second: Tom_216
+  - first:
+      213: 7716003009355770998
+    second: Tom_217
+  - first:
+      213: 1463446065324512825
+    second: Tom_218
+  - first:
+      213: -5909830279899137095
+    second: Tom_219
+  - first:
+      213: -5129003206030436308
+    second: Tom_220
+  - first:
+      213: 6140124846293744948
+    second: Tom_221
+  - first:
+      213: -5026562031033270993
+    second: Tom_222
+  - first:
+      213: 6040581143068810661
+    second: Tom_223
+  - first:
+      213: -4620291381179153529
+    second: Tom_224
+  - first:
+      213: 4038927803527199173
+    second: Tom_225
+  - first:
+      213: -4221334090497528304
+    second: Tom_226
+  - first:
+      213: 53143986048685116
+    second: Tom_227
+  - first:
+      213: -1635275483428379103
+    second: Tom_228
+  - first:
+      213: -2104201758649413029
+    second: Tom_229
+  - first:
+      213: 2784819679575323431
+    second: Tom_230
+  - first:
+      213: -7812851364522407975
+    second: Tom_231
+  - first:
+      213: -6158963698902105620
+    second: Tom_232
+  - first:
+      213: 6324022497062642523
+    second: Tom_233
+  - first:
+      213: -3260488657169539679
+    second: Tom_234
+  - first:
+      213: -804674812623364893
+    second: Tom_235
+  - first:
+      213: 2311658260997178173
+    second: Tom_236
+  - first:
+      213: -580660205500345146
+    second: Tom_237
+  - first:
+      213: -2247471034951038047
+    second: Tom_238
+  - first:
+      213: -4085989594350190823
+    second: Tom_239
+  - first:
+      213: -1904046094333389152
+    second: Tom_240
+  - first:
+      213: -5530782013335667794
+    second: Tom_241
+  - first:
+      213: 4848691122901356940
+    second: Tom_242
+  - first:
+      213: -5249283429710067296
+    second: Tom_243
+  - first:
+      213: 5269871310548956225
+    second: Tom_244
+  - first:
+      213: 6223029181698726629
+    second: Tom_245
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tom_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3433
+        width: 65
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a3cb2a094864904b844182e6e19004
+      internalID: -1796865340239105866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 3433
+        width: 68
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2da986177315406a8e08f0d9e220159
+      internalID: -3715644905269324517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 3433
+        width: 62
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2666df7d457bd4619904e5826f8d8649
+      internalID: 2351984933828162710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_3
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 3433
+        width: 73
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c518235e89e834f9d900120e4b076d4c
+      internalID: -5226544480802909331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_4
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 3433
+        width: 73
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d09fe32e658e41a8a0ccbf9bee9d3ad
+      internalID: 6818073564435369542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_5
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 3433
+        width: 73
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dad9aaaf397b46acbf5e91fed33c2ad
+      internalID: -847733120390156298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_6
+      rect:
+        serializedVersion: 2
+        x: 2305
+        y: 3553
+        width: 11
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd97d3ab47cd4bc3a439f81bab460eb
+      internalID: 5358648039395475078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_8
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 3433
+        width: 66
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8aea465020be4176ad3f390347bd389
+      internalID: -6336369463661012435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_9
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 3433
+        width: 72
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d55abca433614f76b0896d299ce06b3
+      internalID: 7608310004149614024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_10
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 3433
+        width: 87
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7924cb3b33314cdc9827cce86a1e609
+      internalID: -6414802467777637459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_11
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 3433
+        width: 83
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757801c6a456445b1afc96001e6d513c
+      internalID: 4437993462324482652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_12
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 3433
+        width: 87
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67913af9812f246868ab5cbcd4fc7f2e
+      internalID: -3982751904653173184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_13
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 3433
+        width: 84
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66addcd17bcfe4dec9589b2b090fa64d
+      internalID: -3781839047233002710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_14
+      rect:
+        serializedVersion: 2
+        x: 2319
+        y: 3541
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f6ae22f39444eea8dd155e6657c945
+      internalID: 2271638938681977325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_17
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 3299
+        width: 62
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28705b95db864e64b9ac16c77dd8d3c
+      internalID: -7801710578036674619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_18
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 3299
+        width: 62
+        height: 131
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fbffdcf6551c42faa100766bead8237
+      internalID: 7380942572821998894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_19
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 3296
+        width: 62
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9035028c96e439bbe69b8b73deecd2
+      internalID: -7722463261644205341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_20
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 3296
+        width: 62
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bfe0be3d3ae49be954b4fd492a3715
+      internalID: 3175504446084478749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_21
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 3296
+        width: 63
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b33e39c539c42cda055b96b11840f0
+      internalID: 1810613756927734467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_22
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 3296
+        width: 88
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff9515f6b11a4b18910a363790c6915
+      internalID: 7083487734895772011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_23
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 3299
+        width: 85
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16056cfd189c4c97b19698c4ab8433b
+      internalID: -7480949315794771272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_24
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 3296
+        width: 87
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9765a19d9c64be9a8c56a8d346ed72
+      internalID: -1453425039443955110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_25
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 3296
+        width: 84
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbef63b75e98f45148908901d4f42db4
+      internalID: -8633493188480994291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_34
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3296
+        width: 68
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb802570b8244a35b01d42f9d4b78a3
+      internalID: -3188574598124153152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_35
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 3299
+        width: 63
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341cdd1c26b8e4cb9b87f0fcb86c362a
+      internalID: -8148903917428311976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_36
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 3298
+        width: 62
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e07dd861e5143df8d67699bdbc1444
+      internalID: -539670780359234203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_37
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 3296
+        width: 62
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55393b1dbaec8458fae838dd3d92ec39
+      internalID: -6683818272490410112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_38
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 3296
+        width: 72
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be25d09d2e5d242359c815ba371fb492
+      internalID: 5300356259827999399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_39
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 3299
+        width: 63
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e8411cb940a4e2499e48dab30325d3
+      internalID: -7027134225329469779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_40
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 3299
+        width: 63
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea6db43f068b408695fc95b2a121f8b
+      internalID: -5780508974990663355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_41
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 3296
+        width: 129
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84625a8c14c5a48ec8f9c67a64baf260
+      internalID: -4088908026017791742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_42
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 3299
+        width: 91
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653f5734012354716a92c8675acc03b2
+      internalID: -7392019739688096911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_43
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 3167
+        width: 205
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0869518a6e0c41e685300b6b171790a
+      internalID: -4989309880489658301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_46
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3164
+        width: 92
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4237dfe2d80244ec8773bb79d3eb539
+      internalID: 1915525088064731753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_47
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 3164
+        width: 94
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc00818d678845dc864db6665ba114e
+      internalID: -2971060052976056244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_48
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 3171
+        width: 101
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05093a90126b4b4d9eaa9faadb22038
+      internalID: 8441090109229673356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_49
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 3169
+        width: 92
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e467bc52b7e24f24b5a080426c984dd
+      internalID: 39596474451161309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_50
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 3169
+        width: 93
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b93ca7adc2204d49bbd93d99fc62444
+      internalID: 804176155411035501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_51
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 3169
+        width: 92
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1898030ec6aa467a97234078344bd4b
+      internalID: -2312854287372987202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_52
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 3167
+        width: 98
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2540aef92e4fe439f8d8b00c50ab7418
+      internalID: -5083697766192178364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_53
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 3165
+        width: 96
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33699ec1533b04aceb42796f9f17de5c
+      internalID: 3378466662312531723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_54
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 3165
+        width: 101
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bdd7fd975c894669b7b01cabb1984b3
+      internalID: -3552770263669530843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_55
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 3165
+        width: 94
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc515d0ea9e444c9abf7a22b4af6e7ae
+      internalID: 3597610173571471901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_56
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 3172
+        width: 105
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1f4eef13786485aa6962127cea94a4
+      internalID: 8504859973577410705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_57
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 3169
+        width: 102
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c3b0bb33af54e97849234aa4b57adc
+      internalID: 1264088548219495997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_58
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 3169
+        width: 102
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42abbc93aa84a4f4d96de6c73944dd1f
+      internalID: -5677415038102869522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_59
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 3165
+        width: 107
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d57de9c8af384590b6185d4bb21ad36
+      internalID: -8879040349888148676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_60
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 3165
+        width: 92
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3710f49566032401ea3fc36aaf183c7c
+      internalID: -4176133679029895330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_61
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 3165
+        width: 97
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def805c9452fa47c684b96029b14acde
+      internalID: -317305321338576179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_62
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 3172
+        width: 104
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86b2b54054b3445f8dd8c382cb62b1b
+      internalID: -486866322478596996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_63
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 3169
+        width: 101
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e557a34987546008656d0dfef9af07
+      internalID: -7562749960710864889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_64
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 3169
+        width: 94
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646c944b8ec154b8490dc6cb71c0e5f0
+      internalID: 3622211090388865709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_65
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 3169
+        width: 96
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd5ebcc4edc94271a92ab77ddc4f159
+      internalID: 2889127153673430060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_66
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 3167
+        width: 99
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20981beac17fa4ec79c3e2e894e94ee3
+      internalID: 917463513904647471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_67
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 3165
+        width: 94
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23cf4bda3f734c998ef9b1cdbc469c1
+      internalID: -4301638971305511856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_68
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2993
+        width: 96
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c1b3cdcd92a4b4bb50f0efd0f86a09
+      internalID: -3663076430815873692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_69
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 3011
+        width: 92
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9787036d0d0c942719bfa98af1cc0312
+      internalID: -4460377607632714437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_70
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 3011
+        width: 94
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae623d7d06c94ee58c5001ae9ef809a
+      internalID: -7152308143137460499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_71
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 3039
+        width: 96
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad7ffcb060b8420592670280166562b
+      internalID: -148241533025658107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_72
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 3042
+        width: 99
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2059aef01ca5142458d5518f34390efb
+      internalID: 2773581077811510564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_73
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 3045
+        width: 108
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69e403926f434f69b2668bf94735a4a
+      internalID: -6288984469032816328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_74
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 3018
+        width: 190
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61dd3d2e61494ac38498f16707876dd
+      internalID: 191866935955644693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_75
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 2993
+        width: 96
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d4ee548f9be42c787f6a89e1c76383
+      internalID: -3012577349603809951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_76
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2854
+        width: 63
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e573303c3d0d4fb5ba85257a4794e34
+      internalID: -5881413675904175840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_77
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2854
+        width: 95
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e924d75a8b4e4803bc6cf7060b8b85c
+      internalID: -4693006706347186168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_78
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 2854
+        width: 170
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817ecf8c232c74b219edf7545ca8a707
+      internalID: -6047395217561903697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_79
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 2854
+        width: 64
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb6a763a598343b4b8a0635d917ba18
+      internalID: 3848611954063265828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_80
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 2851
+        width: 99
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78dca1b424cd74d9e8002648992dbb8a
+      internalID: 3036651455199979038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_81
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 2854
+        width: 90
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e0a23f4a99e40c5bda4c3f868436b7
+      internalID: -2560836083294582746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_82
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 2859
+        width: 77
+        height: 131
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897e6b96e22a14a269a636d42d8959c3
+      internalID: 3417361993728314462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_83
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 2854
+        width: 73
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b88fa245c3c4e139d0bb471a37648c
+      internalID: 299029561064378024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_84
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2696
+        width: 82
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0770cccfa9a445992e6f3e38b342a8
+      internalID: 7523425103232309159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_85
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 2696
+        width: 98
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c53e8308731e4a84a5e9ea29af34a3e
+      internalID: 3986466689702594350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_86
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 2696
+        width: 108
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a58b193ffe98488f9658edc1e2e2546
+      internalID: -6415887892756956327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_87
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 2696
+        width: 110
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c681e8de98e04b7684ab62aa9320b59
+      internalID: 6257310796917211057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_88
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 2705
+        width: 101
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecea7af19470d4d3db7f1f08f94e82dd
+      internalID: 1768885792724710857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_89
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 2705
+        width: 84
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103d66fff944e4c4d8c1423df1fe6b33
+      internalID: -4001955089877070798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_90
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 2696
+        width: 82
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bef17fab3c3b4e14944b136547f1a11
+      internalID: -18867471137000831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_91
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 2703
+        width: 70
+        height: 148
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7702f8f2d6d90424f9a75c0e5684af7a
+      internalID: 202759797567336866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_92
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 2696
+        width: 91
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715024e34966a4efb8eca01e335728db
+      internalID: -1507380331562029312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_93
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 2696
+        width: 72
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581aab18e2d5a4257a36e2d6a7bf3905
+      internalID: 4397310463141738706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_94
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 2696
+        width: 115
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b3411ddf1db412880d7d60ee88ba7e
+      internalID: -2543493331895824087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_95
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 2696
+        width: 119
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19971a13cd3e4cffa9d1ea001763c1e
+      internalID: 8177759191744775901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_96
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 2696
+        width: 146
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795ae4c89916e45e3b505bc2269ed0c1
+      internalID: -3593572530427108910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_97
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 2696
+        width: 123
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ace08b6f3da4b9482b3d67c793b2fc
+      internalID: -8958336629654531099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_98
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 2696
+        width: 86
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af334abdb1c8a4f549bb20d10a6b7494
+      internalID: -8596817200013894629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_99
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2564
+        width: 82
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0983576a2e5eb4f6db8485168fd3cf9a
+      internalID: 4366718960620493233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_100
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 2564
+        width: 83
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8b5b01cea9e448d8de895f83f1df39
+      internalID: -4293331287964924235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_101
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 2564
+        width: 97
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0960d4933e1d4ac4bdc68b002b8d6bf
+      internalID: 2204758390926182219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_102
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 2564
+        width: 94
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a5e8a0aec3448489351f095af8f1f4
+      internalID: -6699411780242359734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_103
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 2564
+        width: 143
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419e934be17bd44a0aecfde75c6e79ab
+      internalID: 3256527888981954818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_104
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 2564
+        width: 127
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ca9db66d042490e9474923d353d25f
+      internalID: -5704606924517176698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_105
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 2564
+        width: 99
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384966a4f60604672a9596c28ed5bc81
+      internalID: -2664472775877018555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_106
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 2564
+        width: 85
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9794feb673f7546548fc4070acffe579
+      internalID: -6509545355788618550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_107
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 2564
+        width: 108
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da1ade4aff39427c882e690e944de57
+      internalID: -7865917796577483877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_108
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 2564
+        width: 118
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b935e4a2d10904ee3ace273ce87e2dae
+      internalID: 2693009201987517009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_109
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 2564
+        width: 115
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d90c17d92652412ba75fbcc5dd36694
+      internalID: -8638532880529701953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_110
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 2564
+        width: 84
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9c354faf7a84650b31f914961b4f9f
+      internalID: 2288588240800725139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_111
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2434
+        width: 77
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed8354a62edd45498b4f5f3516a5738
+      internalID: 1589021485373688840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_112
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2435
+        width: 120
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea94dbd9c13c4dcca78851e11c88ae6
+      internalID: 1460468670562714675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_113
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 2435
+        width: 115
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19291ac1d46984354a22ef576ea7efb3
+      internalID: -1898635828020814547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_114
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 2434
+        width: 78
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e801b0d542f4549ec884db8cc0f44431
+      internalID: -7786232664707223878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_115
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 2435
+        width: 62
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdbee66135d44069932e22feebe38fe
+      internalID: -2321654538398881194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_116
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2291
+        width: 80
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2d536067d8348b8bc4741f2f5577f5
+      internalID: 833582610120049564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_117
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 2291
+        width: 80
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44168ac79d854ffb9c3ceb83dc51db5
+      internalID: 3577691184106312143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_118
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 2291
+        width: 120
+        height: 143
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d75576a2979c45f4ab2e435c5e7d784
+      internalID: -4733740037992988062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_119
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 2291
+        width: 118
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272c5eb40e9f5442385e881628cfd433
+      internalID: 6052715326678158519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_120
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 2291
+        width: 110
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1997cfcd29114a8089c78383689c5a9
+      internalID: -1384445423220255881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_121
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 2291
+        width: 78
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee0da57e47a040e2a6bb7d04fedb4ca
+      internalID: 7624809921771575776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_122
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2135
+        width: 105
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f1178c25e8f4da4b98b1d39cdfadb4
+      internalID: -7157701373594915845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_123
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 2135
+        width: 108
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c324d74ef66df4227b0f7e2f6361d8fb
+      internalID: -3684828037370441545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_124
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 2135
+        width: 125
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5cb4e1364ac460f8358457fda9622e
+      internalID: -6707733072717519673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_125
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 2135
+        width: 124
+        height: 139
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883a0afadf07a4d629b730ba5712a0a3
+      internalID: -7479463931415411104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_126
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 2128
+        width: 244
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a97a92e98aa48ec93dd9791545f948
+      internalID: -3787103364505851832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_127
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 2208
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afec44f4eb934be983149cfcb4b100f
+      internalID: -2334677272011632605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_128
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 2211
+        width: 6
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d453bb235004f41efaec08083fef5dec
+      internalID: -2052050192757768851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_129
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 2135
+        width: 141
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbf3c848453a4d0cada6fbd007dd4da
+      internalID: 9094204888117308137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_130
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 2135
+        width: 92
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8918634e3fb0f447aad3c7e6e36e2943
+      internalID: -1111995341413416726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_131
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 2135
+        width: 85
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cedee3684e904e86bf97a5e3fdcf850
+      internalID: 6359173078178718234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_132
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 2135
+        width: 87
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af529fb242bcd42c6a42cc58cd20931e
+      internalID: 2992110714239883362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_133
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 2135
+        width: 82
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5cd420dfe7e847fa97a813713b3c363
+      internalID: 1602887135133299321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_134
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 2131
+        width: 63
+        height: 131
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e338f975060a648f2ba6beed5986b831
+      internalID: -1447246891373418978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_135
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 2131
+        width: 160
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c7e3892c6c04a55a95468767fdb797
+      internalID: -5264315029891446971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_136
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 2204
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c986dd2d52d8c4f79b4679cd63c4a3a7
+      internalID: 1387639670824383563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_137
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 2150
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb91ec119cc6e44beaf2ddd6a8e0f7b6
+      internalID: -2270546475486898306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_138
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 2131
+        width: 160
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf003962da1e41578dc8d89dedb7431
+      internalID: 8316808834623424182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_139
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 2159
+        width: 10
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea0acb7150f34a449f6156dc8d200f6
+      internalID: 7582166253815977494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_140
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 2131
+        width: 159
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52830aa124ff049ebbfa711b81ab6590
+      internalID: -3342999193158886394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_141
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 2131
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e535398d53d41a09bf50b931e1a6bd
+      internalID: 1717573756236528188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_142
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 2126
+        width: 11
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10901ab1ae0ea465182f3260206cce3f
+      internalID: -6011424576929937291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_143
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2013
+        width: 141
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c93ea6c8ff34c3da48d222b5fb9387
+      internalID: 688168894889738243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_144
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2013
+        width: 143
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f026d04f0b7014cdfb0412694a2dff0a
+      internalID: 4205301214433503554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_145
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 2001
+        width: 85
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15443403464d24092aced8d81c4340bd
+      internalID: 2305989211375243773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_146
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1997
+        width: 81
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494f3a1ab6e5142338b53459b98a31f9
+      internalID: -6498913492288137741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_147
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1997
+        width: 66
+        height: 131
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d835f6678613b45dfa413a8555e40eb2
+      internalID: 7690894905250570937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_148
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1876
+        width: 105
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742ffdb532bb14be3ae1310f7ff0e131
+      internalID: 9161073289914606874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_149
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1881
+        width: 77
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e485bc1c7b35d48cb954b711cabc4640
+      internalID: 6441340340174731489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_150
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1891
+        width: 122
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea49000a1199b405990b190785302757
+      internalID: 9077865006368227498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_151
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1898
+        width: 120
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b0e803b35ca4fb685d9115cff3bf06
+      internalID: -3803134654609479641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_152
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1898
+        width: 117
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69d6fc1390324e53bc186fec5374f53
+      internalID: -4571346788039109178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_153
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1737
+        width: 85
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4fa9b0ffafb4fde9cdf95d2e7b62e4
+      internalID: -3822186048019234851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_154
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1737
+        width: 87
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292bdf31a34d04b55bd002432917dbb8
+      internalID: -8948622193706206767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_155
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1737
+        width: 101
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b81e6eac1aa405c92d4367f677d7fd
+      internalID: -1250328138444483354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_156
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1737
+        width: 91
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937ce4fb7d6174dff910c8c55029c041
+      internalID: -6841278380616208936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_157
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1737
+        width: 89
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3376eb1a20242268a9a5c71e68efd7
+      internalID: 2585323654788595327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_158
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1604
+        width: 89
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3fb02c76fdf94c8c9a424286d739ff2
+      internalID: 494224149573475298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_159
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1604
+        width: 84
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf9f6956479b45359b6a1e618ef37cc
+      internalID: 4218628570948910744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_160
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1604
+        width: 84
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c083cdbf676934037986924fcc699cf5
+      internalID: 9032353944872683752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_161
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1604
+        width: 84
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6fc8363ffc04ed998cc7b6661a9a51
+      internalID: 3829888466152229266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_162
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1604
+        width: 78
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cb5aacc1d0b449ea52d7535ee7dcc7
+      internalID: 8103810119254102795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_163
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1604
+        width: 113
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a343d356cc26f44ba8a21476a921f818
+      internalID: -5042320913656768453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_164
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1604
+        width: 108
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc8202a61efe4b7c98d7bf59fefdb26
+      internalID: -3220817714426154793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_165
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1604
+        width: 104
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89392fe9feb3144d49e1c7584c46a02c
+      internalID: -4363061805685886538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_166
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1604
+        width: 84
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffacadec611e497cbcd9a4cfb6f3591
+      internalID: -2240195635609350558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_167
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1604
+        width: 63
+        height: 131
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed4f9468a57047be8433688aaecd7dc
+      internalID: 7362746194846847963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_168
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1460
+        width: 71
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f53356a7c8074ee5a1b3a8ff2275184
+      internalID: 6853047447403194540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_169
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1460
+        width: 73
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e409716656557421c8786980f05795ff
+      internalID: -7097745289664209665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_170
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1460
+        width: 82
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8966686bb384f948ed75342fc9edb4
+      internalID: 7292751957393672779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_171
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1460
+        width: 80
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e518506004b04e27b54a1f9f182c587
+      internalID: 1402775600626045407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_172
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1460
+        width: 69
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4959b92841000435ca85af41e5db143a
+      internalID: 1758854422861779493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_173
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1460
+        width: 73
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fa323471ef948fb9bedc71f702fbb6
+      internalID: -4684581223762249249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_174
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1465
+        width: 103
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c506ab8c22848fe83687c74549a4bc
+      internalID: 7692517894765394532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_175
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1465
+        width: 72
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc7f61982670424f947505939298f12
+      internalID: 3198735709477521753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_176
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1465
+        width: 150
+        height: 134
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b68862a07106434e905e3577fe3b41c
+      internalID: -3572745119563648428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_177
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1465
+        width: 80
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56e15afd29754a589dbe2e75ed8ca90
+      internalID: -6698596272189073564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_178
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1460
+        width: 73
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20e1ecb53f2c494198d09c413adee47
+      internalID: -6956471622428444470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_179
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1349
+        width: 94
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc96a2c00d084650910377b9a7f1a22
+      internalID: -1787080623497020699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_180
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1229
+        width: 145
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d933048d0ce44564b3feb29a709d8cf
+      internalID: 3956619776509486328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_181
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1229
+        width: 70
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a872fa67f03674308a26efcb1c0ce5ee
+      internalID: 4393694043648609262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_182
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1097
+        width: 87
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b8245709aa5407e9900a3607e57163
+      internalID: -9187906873453543608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_183
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1090
+        width: 101
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0516824628df45bba59781d6c2885b0
+      internalID: 2591069358238125320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_184
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1090
+        width: 106
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313a161d18f704ded9b366dc7ac472de
+      internalID: 290721038617972250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_185
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1085
+        width: 94
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e995d5922b58d49b5af3da10e971b7c8
+      internalID: 8086413858225493073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_186
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1085
+        width: 65
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2685d41cd8994b47b8874279e6d4a82
+      internalID: 2807254271775728338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_187
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1085
+        width: 113
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d809add70ec34dd1b210bd8fc3f2df5
+      internalID: 7818479739147090706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_188
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1085
+        width: 113
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fb413f4e9724198bb9948663bad2fe
+      internalID: -5177821130995429642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_189
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1085
+        width: 98
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3c368c2257841aaaa35ef6eaec0222
+      internalID: 2471922033321596937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_190
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1085
+        width: 105
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26bb4c48cfce544188a7291d50bbc649
+      internalID: 9034721860715470619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_191
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1085
+        width: 101
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37eeb275aefd648829916e65843a25b3
+      internalID: 5215136241708523871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_192
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 966
+        width: 92
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5ce4d7f5d794f2485adef4adbaf0b0
+      internalID: -8826611141421161948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_193
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 960
+        width: 78
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf01324c4f61492b883f563e7a98b6b
+      internalID: -8185348338572241881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_194
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 961
+        width: 78
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037743f413c4e402583c26bcf030da0e
+      internalID: 8057017524529474987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_195
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 961
+        width: 87
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f553f2215c548414c8de3de398e0a8dd
+      internalID: 5676720858035676282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_196
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 968
+        width: 97
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c6c17c0a64942dc9cf6b8b6095cc50
+      internalID: -9133178882878613802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_197
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 650
+        width: 233
+        height: 377
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6aa9f6b54844efdb326070f40b2d43
+      internalID: 8809508997374496642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_198
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 831
+        width: 78
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bcc24fb29b724135a2ea18d2e5c3267
+      internalID: -7267638080907259760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_199
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 831
+        width: 80
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27e945cf353947a188ef68cbb3e1b19
+      internalID: 4768062517071625541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_200
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 838
+        width: 101
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a1617ba273048bea1e874e33ac9edb
+      internalID: -7130134561494021445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_201
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 833
+        width: 92
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e47d49d4e0d47cfaa06da0298ba0e7
+      internalID: -2606650206996309609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_202
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 829
+        width: 87
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30abf2740ab545bd8fc8ed9b3d2cc22
+      internalID: -7060152433955294558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_203
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 855
+        width: 120
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581ab7a8a1bb94db792a80a3fa11fdbf
+      internalID: -4186561467117192048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_204
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 661
+        width: 82
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5275e5789be1f43e5ac582ed794d699d
+      internalID: 1302465539791601396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_205
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 671
+        width: 119
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f383aebff824f5aa2f8cc1397629cf
+      internalID: 3642900061867220442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_206
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 701
+        width: 136
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b0cdedd4d704613aba10548dd868f9
+      internalID: -5947971317442799097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_207
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 713
+        width: 134
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff9f5aac7b014cc39cf992269807d05
+      internalID: 6035454731426848549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_208
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 709
+        width: 120
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da747c1c615c46df9fe7a524fd36c84
+      internalID: 5249994440729156487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_209
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 701
+        width: 101
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb0082a758ae439da1d9bac7b494322
+      internalID: -5134355635185619685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_210
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 701
+        width: 100
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689625a2f7bf346e8b16d3200d2eda1a
+      internalID: -7182346169164215678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_211
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 701
+        width: 101
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a90af42fc024f48a549e618274a505
+      internalID: 6011272512115955012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_212
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 701
+        width: 101
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57aa3829b54c48fab1cdf06df38e92b
+      internalID: -8143264914411140444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_213
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 652
+        width: 136
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4efdfa722facb4e9ab5c9dac72808ef8
+      internalID: 5087045565633233209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_214
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 657
+        width: 137
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c9b29c46df64bd6a3e9a0c5072d4df
+      internalID: -4579839584239775894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_215
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 650
+        width: 137
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1c542d905c04f9997a347cf43201c8
+      internalID: 2602951845020975032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_216
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 643
+        width: 142
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5191a468942a347b59f8c81cdf79fc68
+      internalID: -3770262256598879450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_217
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 647
+        width: 146
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fef17f775df849fc852c681d72a2517
+      internalID: 7716003009355770998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_218
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 417
+        width: 122
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e709497eff15e442d8bd3c3f868c5e8d
+      internalID: 1463446065324512825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_219
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 506
+        width: 78
+        height: 134
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4987dd97ad9c14e08bd606995f9d2284
+      internalID: -5909830279899137095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_220
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 506
+        width: 68
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fd7d95602ec4689a9bb7ed2d16e964
+      internalID: -5129003206030436308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_221
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 506
+        width: 91
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc79e7c95483948b28089ae7e33fe24d
+      internalID: 6140124846293744948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_222
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 417
+        width: 139
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1945f0d70d5764a2b846d0aa830ec10a
+      internalID: -5026562031033270993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_223
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 422
+        width: 290
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bff313728174aacb21464720d01a88
+      internalID: 6040581143068810661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_224
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 341
+        width: 143
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd40de68de9f456886c6b2943339ef6
+      internalID: -4620291381179153529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_225
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 339
+        width: 143
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1438d6d29dc234fd08522ad1586400f3
+      internalID: 4038927803527199173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_226
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 335
+        width: 138
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f5aa1575ddd49eeb072738e404f06f
+      internalID: -4221334090497528304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_227
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 278
+        width: 97
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef640e23f06ee41ed9570fc5574d7dd3
+      internalID: 53143986048685116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_228
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 278
+        width: 122
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a237a11bd59a4451817c6cf41b737f5
+      internalID: -1635275483428379103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_229
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 264
+        width: 116
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3c56a65229f47a08f2435865e36af5
+      internalID: -2104201758649413029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_230
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 318
+        width: 148
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a31f5c85c384fea9966b5d553d6bf5
+      internalID: 2784819679575323431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_231
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 191
+        width: 143
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ed13311d9b84ccb9b1b0462497323c
+      internalID: -7812851364522407975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_232
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 186
+        width: 143
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2f1986ea1dd4c8ab523328d82a5ba6
+      internalID: -6158963698902105620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_233
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 183
+        width: 138
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5d5834f5efc47789e99705cc86292b
+      internalID: 6324022497062642523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_234
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 125
+        width: 97
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c994705000cd4829813d611319e2b5c
+      internalID: -3260488657169539679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_235
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 127
+        width: 124
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f6936512b7a4825a7c99ba0279dcb0
+      internalID: -804674812623364893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_236
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 111
+        width: 115
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07739871030a7407dab70180bdfe283a
+      internalID: 2311658260997178173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_237
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 80
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3f092a4fc884b97879eaa7dee0ebac
+      internalID: -580660205500345146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_238
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 0
+        width: 80
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc582a07223584ba79b9f3a5640748c6
+      internalID: -2247471034951038047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_239
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 0
+        width: 85
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad98a52b67d0f478fabe695c7119be78
+      internalID: -4085989594350190823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_240
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 0
+        width: 80
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d875028252f4947e483c99d7f0d8a77d
+      internalID: -1904046094333389152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_241
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 0
+        width: 80
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f039c5a74a7134e86831ce6989e86c54
+      internalID: -5530782013335667794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_242
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 0
+        width: 82
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49777c281c40a4f2989a288cebe7e5d5
+      internalID: 4848691122901356940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_243
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 0
+        width: 78
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a882d6f2b79dd4eed8919facc169422b
+      internalID: -5249283429710067296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_244
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 0
+        width: 79
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99a1d79abf2b4fc388cfa45fb5115d9
+      internalID: 5269871310548956225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_245
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 0
+        width: 75
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9eec1428906430ba2116e77cf27fe1
+      internalID: 6223029181698726629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 814119d81642848db97885459c7e28e3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

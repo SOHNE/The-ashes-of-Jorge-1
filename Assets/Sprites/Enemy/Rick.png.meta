@@ -1,0 +1,2789 @@
+fileFormatVersion: 2
+guid: ea8fc38f6e6d84112a052d989a3032d7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8198393618177738103
+    second: Rick_0
+  - first:
+      213: -7472587050863771214
+    second: Rick_1
+  - first:
+      213: 808966552311695064
+    second: Rick_2
+  - first:
+      213: -5108915757755693401
+    second: Rick_3
+  - first:
+      213: 5339026865667938585
+    second: Rick_4
+  - first:
+      213: 3449055682731069179
+    second: Rick_5
+  - first:
+      213: -6534003211525799605
+    second: Rick_6
+  - first:
+      213: -257270705604160134
+    second: Rick_7
+  - first:
+      213: 8956631166217762736
+    second: Rick_8
+  - first:
+      213: -2859159491169822945
+    second: Rick_9
+  - first:
+      213: 1653270894396745255
+    second: Rick_10
+  - first:
+      213: -6801251234678638992
+    second: Rick_11
+  - first:
+      213: 5718001173750313876
+    second: Rick_12
+  - first:
+      213: 3978562316087313180
+    second: Rick_13
+  - first:
+      213: -7349183933088843104
+    second: Rick_15
+  - first:
+      213: -7006566786278915933
+    second: Rick_16
+  - first:
+      213: 134700049369913878
+    second: Rick_19
+  - first:
+      213: 4914507647995228338
+    second: Rick_20
+  - first:
+      213: 8868728782718612772
+    second: Rick_21
+  - first:
+      213: 6058261694849064359
+    second: Rick_22
+  - first:
+      213: -6609772928379604077
+    second: Rick_23
+  - first:
+      213: -2152225000593940604
+    second: Rick_24
+  - first:
+      213: -2174066314092982523
+    second: Rick_33
+  - first:
+      213: -4262707598491072013
+    second: Rick_34
+  - first:
+      213: -6410270775741190611
+    second: Rick_37
+  - first:
+      213: 4076701200778813899
+    second: Rick_38
+  - first:
+      213: -1608441086540783868
+    second: Rick_39
+  - first:
+      213: -8969517527283650575
+    second: Rick_40
+  - first:
+      213: 6910634723161102211
+    second: Rick_41
+  - first:
+      213: 4140895376412696787
+    second: Rick_42
+  - first:
+      213: -4101489299460658315
+    second: Rick_43
+  - first:
+      213: -1418821819474286549
+    second: Rick_44
+  - first:
+      213: 3082200149995114404
+    second: Rick_45
+  - first:
+      213: 8986432982232480449
+    second: Rick_46
+  - first:
+      213: -3612009311650065653
+    second: Rick_47
+  - first:
+      213: -4133479386428898039
+    second: Rick_48
+  - first:
+      213: -8028708652602972694
+    second: Rick_49
+  - first:
+      213: -1562231396254589930
+    second: Rick_50
+  - first:
+      213: 1314948165396767406
+    second: Rick_51
+  - first:
+      213: 6752804200726975172
+    second: Rick_52
+  - first:
+      213: -1013669404229951280
+    second: Rick_53
+  - first:
+      213: 6207792487040309943
+    second: Rick_54
+  - first:
+      213: 5716449314038647480
+    second: Rick_55
+  - first:
+      213: 4533748183428734060
+    second: Rick_56
+  - first:
+      213: 1743121717645927059
+    second: Rick_57
+  - first:
+      213: -2356753330469434016
+    second: Rick_58
+  - first:
+      213: 8500715877895849604
+    second: Rick_59
+  - first:
+      213: 7967372913964459215
+    second: Rick_60
+  - first:
+      213: 4012596105940825802
+    second: Rick_61
+  - first:
+      213: -2776579794090010879
+    second: Rick_62
+  - first:
+      213: -297457714678701092
+    second: Rick_63
+  - first:
+      213: 8757534508765739883
+    second: Rick_64
+  - first:
+      213: 1591118449190117426
+    second: Rick_65
+  - first:
+      213: -1292043963550022009
+    second: Rick_66
+  - first:
+      213: 2557364863311775463
+    second: Rick_67
+  - first:
+      213: -195950448041733545
+    second: Rick_68
+  - first:
+      213: -1137964569297428672
+    second: Rick_69
+  - first:
+      213: 4397569250458946420
+    second: Rick_70
+  - first:
+      213: -2758260556284940632
+    second: Rick_71
+  - first:
+      213: 9007124347765572270
+    second: Rick_72
+  - first:
+      213: 238540623989877107
+    second: Rick_73
+  - first:
+      213: 1554867861836584023
+    second: Rick_74
+  - first:
+      213: -4196489241671112183
+    second: Rick_75
+  - first:
+      213: -6057657491444726787
+    second: Rick_76
+  - first:
+      213: -1693062674196122685
+    second: Rick_77
+  - first:
+      213: -2052476003476769981
+    second: Rick_78
+  - first:
+      213: 670963474955405400
+    second: Rick_79
+  - first:
+      213: 7659418744529266329
+    second: Rick_80
+  - first:
+      213: -5029772972474737996
+    second: Rick_81
+  - first:
+      213: -7452566044932535197
+    second: Rick_82
+  - first:
+      213: 2363754923340467465
+    second: Rick_83
+  - first:
+      213: -7998135228608125818
+    second: Rick_84
+  - first:
+      213: 7253545277428440171
+    second: Rick_85
+  - first:
+      213: 5059486528410764993
+    second: Rick_86
+  - first:
+      213: 8802504800312945785
+    second: Rick_87
+  - first:
+      213: -4813162691484103096
+    second: Rick_88
+  - first:
+      213: 1262007146295380490
+    second: Rick_89
+  - first:
+      213: -1597183813000635174
+    second: Rick_90
+  - first:
+      213: 6894170056475367865
+    second: Rick_91
+  - first:
+      213: -1985040438065848506
+    second: Rick_92
+  - first:
+      213: -8337688221808603337
+    second: Rick_93
+  - first:
+      213: 2262416620477568339
+    second: Rick_94
+  - first:
+      213: -3353869523923235684
+    second: Rick_95
+  - first:
+      213: -3548002086499232985
+    second: Rick_96
+  - first:
+      213: 397629200337381071
+    second: Rick_97
+  - first:
+      213: -7493097531559932993
+    second: Rick_98
+  - first:
+      213: -5672715415536223658
+    second: Rick_99
+  - first:
+      213: 5732879362255252544
+    second: Rick_100
+  - first:
+      213: 6965918197265124714
+    second: Rick_101
+  - first:
+      213: -8992464453755888460
+    second: Rick_102
+  - first:
+      213: -7803723572865819732
+    second: Rick_103
+  - first:
+      213: 4342347739824477772
+    second: Rick_104
+  - first:
+      213: -4276158077246503092
+    second: Rick_105
+  - first:
+      213: 8361371483300130479
+    second: Rick_106
+  - first:
+      213: -2720901143416085015
+    second: Rick_107
+  - first:
+      213: -5071111769775542862
+    second: Rick_108
+  - first:
+      213: -8502622080028209055
+    second: Rick_109
+  - first:
+      213: 4493337539080813755
+    second: Rick_110
+  - first:
+      213: 759590502166831315
+    second: Rick_111
+  - first:
+      213: -2521626659745881830
+    second: Rick_112
+  - first:
+      213: 8973606343199071945
+    second: Rick_113
+  - first:
+      213: 2582423690624824555
+    second: Rick_114
+  - first:
+      213: 4155653714745256859
+    second: Rick_115
+  - first:
+      213: -3200974887498164597
+    second: Rick_116
+  - first:
+      213: 9223057262022736714
+    second: Rick_117
+  - first:
+      213: -8403138841126397645
+    second: Rick_118
+  - first:
+      213: -952436558015224284
+    second: Rick_119
+  - first:
+      213: 7367445710306270071
+    second: Rick_120
+  - first:
+      213: 6604746510393088289
+    second: Rick_121
+  - first:
+      213: -2516668962292289693
+    second: Rick_122
+  - first:
+      213: 5089122626353725587
+    second: Rick_123
+  - first:
+      213: 4009743075707304624
+    second: Rick_124
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rick_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 4449
+        width: 219
+        height: 297
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a359b7d2a2c46e09a6e7ac63cb6bb7
+      internalID: -8198393618177738103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_1
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 4449
+        width: 224
+        height: 283
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e1b7ef8aa6d453896b8cfc396cd101
+      internalID: -7472587050863771214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_2
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 4449
+        width: 224
+        height: 293
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b223cfb967bf45cf883c2f17a558f2d
+      internalID: 808966552311695064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_3
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 4449
+        width: 219
+        height: 302
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac381a0dd4a14488ab50f704b92c1b4
+      internalID: -5108915757755693401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_4
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 4549
+        width: 363
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89db80db4df84e29b831ee90025873c
+      internalID: 5339026865667938585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_5
+      rect:
+        serializedVersion: 2
+        x: 3543
+        y: 4549
+        width: 363
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f0a5afca6f5460b9053560520b6660
+      internalID: 3449055682731069179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_6
+      rect:
+        serializedVersion: 2
+        x: 3938
+        y: 4453
+        width: 298
+        height: 289
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9df86adb83d49c8955a3987c032212
+      internalID: -6534003211525799605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_7
+      rect:
+        serializedVersion: 2
+        x: 4248
+        y: 4453
+        width: 300
+        height: 289
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8718f8e34d44bd4bd742736f1e599d
+      internalID: -257270705604160134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_8
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 4123
+        width: 207
+        height: 314
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2748cb1e696f496d8207649843daa99
+      internalID: 8956631166217762736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_9
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 4127
+        width: 209
+        height: 301
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675c9a1dbfd3c4a70a0b349f40f07d75
+      internalID: -2859159491169822945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_10
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 4127
+        width: 218
+        height: 305
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54e2f59f7013405bae7e1e3b36e764e
+      internalID: 1653270894396745255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_11
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 4132
+        width: 228
+        height: 305
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a4a0e7344dc4b098f1386efe3909aa
+      internalID: -6801251234678638992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_12
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 4123
+        width: 218
+        height: 305
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15cf2bfb08f9d4376bc95a892bfe9189
+      internalID: 5718001173750313876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_13
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 4123
+        width: 207
+        height: 314
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c405cb59106467c82e75cbc0f18276
+      internalID: 3978562316087313180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_15
+      rect:
+        serializedVersion: 2
+        x: 3934
+        y: 4144
+        width: 267
+        height: 293
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03351e2737e184e359a3c634e7110b38
+      internalID: -7349183933088843104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_16
+      rect:
+        serializedVersion: 2
+        x: 4234
+        y: 4148
+        width: 337
+        height: 259
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96ba5d49baf84963bf636cb8ced996f
+      internalID: -7006566786278915933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_19
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 3818
+        width: 254
+        height: 289
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4a7da294306437a82d0f79b1eb542a
+      internalID: 134700049369913878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_20
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 3809
+        width: 237
+        height: 298
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e54f609426041d2b39276ab1860ba0
+      internalID: 4914507647995228338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_21
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 3792
+        width: 184
+        height: 315
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8f25f17ded44d99a3ff2692dfc9d52
+      internalID: 8868728782718612772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_22
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 3818
+        width: 248
+        height: 289
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33935779aeca4803a1b2e369639c283
+      internalID: 6058261694849064359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_23
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 3809
+        width: 228
+        height: 298
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6175ee766ff41659414b8b2f53ae0c
+      internalID: -6609772928379604077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_24
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 3804
+        width: 183
+        height: 312
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35029dcf1938a43679242dddd56b93a4
+      internalID: -2152225000593940604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_33
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 3792
+        width: 188
+        height: 284
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fd1532a387d433da215751c6a0afe4
+      internalID: -2174066314092982523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_34
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 3804
+        width: 188
+        height: 277
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06274129e8bd14af4a202f761a742b73
+      internalID: -4262707598491072013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_37
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 3453
+        width: 272
+        height: 314
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efd32f64011a49559df8cf761791d9b
+      internalID: -6410270775741190611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_38
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 3443
+        width: 270
+        height: 315
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadbf83e6c15a4797a7e92ef89cca7bf
+      internalID: 4076701200778813899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_39
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 3443
+        width: 268
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99374335f43db4272aa735af57a8a280
+      internalID: -1608441086540783868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_40
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 3427
+        width: 275
+        height: 354
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb846605b96aa478d9942ad568f557cc
+      internalID: -8969517527283650575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_41
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 3427
+        width: 275
+        height: 354
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e264065e57534fcf87a2123bf300c5f
+      internalID: 6910634723161102211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_42
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 3427
+        width: 275
+        height: 349
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e7eefee141c4d47b8a895e36d8d90f
+      internalID: 4140895376412696787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_43
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 3378
+        width: 209
+        height: 249
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb97613615deb4000a5b4dec8067ba43
+      internalID: -4101489299460658315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_44
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 3099
+        width: 228
+        height: 268
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac24e0ef4a34469093ee8ae675d1a84
+      internalID: -1418821819474286549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_45
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 3078
+        width: 288
+        height: 263
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb0a34da9e4f4d27bb234d2775bec4d
+      internalID: 3082200149995114404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_46
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 3069
+        width: 228
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6fcdefe2fc6460ca27a9ba7433ae38
+      internalID: 8986432982232480449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_47
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 3069
+        width: 219
+        height: 298
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1ce2579996c4387964a837574012fd
+      internalID: -3612009311650065653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_48
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2743
+        width: 223
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c47f92d4b8d4cd0a0e09907534be51
+      internalID: -4133479386428898039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_49
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 2743
+        width: 233
+        height: 314
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab91b7fc0d5f4b8287eaf211966182c
+      internalID: -8028708652602972694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_50
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 2743
+        width: 293
+        height: 270
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06e060b82e9e4f639df62ab440e96a9
+      internalID: -1562231396254589930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_51
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 2743
+        width: 279
+        height: 263
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f054183b1bf40148b05360c17f5dca
+      internalID: 1314948165396767406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_52
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 2743
+        width: 244
+        height: 289
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ad51706d2c349e8a75666fa4c2d1bb
+      internalID: 6752804200726975172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_53
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2429
+        width: 202
+        height: 302
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53bce833c4304f9da42c97b8fa546d4
+      internalID: -1013669404229951280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_54
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 2429
+        width: 205
+        height: 298
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759c775451f81454b840fcaff672a4c2
+      internalID: 6207792487040309943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_55
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 2429
+        width: 205
+        height: 302
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2beb28b025ddc42828c4dd7185d08db8
+      internalID: 5716449314038647480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_56
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2117
+        width: 254
+        height: 300
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4b29c755d734d78866450f29777ada
+      internalID: 4533748183428734060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_57
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 2117
+        width: 247
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b841d08678f4c9b91aef2656e3369a
+      internalID: 1743121717645927059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_58
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 2117
+        width: 254
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668e0f32cb5c74078b46dde62146f7be
+      internalID: -2356753330469434016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_59
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 2117
+        width: 284
+        height: 235
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526ea53cb673e4d52a1ba082599474f6
+      internalID: 8500715877895849604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_60
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 2117
+        width: 277
+        height: 240
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf536e0adeed424a851542379840f0a
+      internalID: 7967372913964459215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_61
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 2117
+        width: 240
+        height: 275
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289309c36de214fa4bb111811a716c50
+      internalID: 4012596105940825802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_62
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 2117
+        width: 233
+        height: 249
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55c47450118c4e82901f3e49bf9d23a
+      internalID: -2776579794090010879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_63
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1673
+        width: 207
+        height: 300
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070854dcb2e30403cbab439e46609626
+      internalID: -297457714678701092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_64
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1733
+        width: 309
+        height: 280
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af62290f4c904da0bcb66d18a6b50a0
+      internalID: 8757534508765739883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_65
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1778
+        width: 353
+        height: 235
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058e9106be58e4d15aa7374b14fcb21d
+      internalID: 1591118449190117426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_66
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1859
+        width: 349
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302bf481c872a40d1b78f167855b135f
+      internalID: -1292043963550022009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_67
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 1843
+        width: 340
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47dbd24619eca42c9bea9289db9b57c8
+      internalID: 2557364863311775463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_68
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 1812
+        width: 268
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293e597ae6df24c0fbd6342a3484e4ec
+      internalID: -195950448041733545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_69
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 1689
+        width: 234
+        height: 193
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a39a27f9b5c4dd8976e03beb769c54
+      internalID: -1137964569297428672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_70
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 1698
+        width: 312
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e22e6515c2644d5c9d28aa574da1dff
+      internalID: 4397569250458946420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_71
+      rect:
+        serializedVersion: 2
+        x: 2477
+        y: 1708
+        width: 335
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8fdf66c46cd4a81847e85557e53d59
+      internalID: -2758260556284940632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_72
+      rect:
+        serializedVersion: 2
+        x: 2824
+        y: 1712
+        width: 333
+        height: 149
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c32b6ad77a647e5a4c334f710bb86b
+      internalID: 9007124347765572270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_73
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 1689
+        width: 319
+        height: 172
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f8148c7029c4bae9beeeecd51bfe28
+      internalID: 238540623989877107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_74
+      rect:
+        serializedVersion: 2
+        x: 3499
+        y: 1682
+        width: 349
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3569f3fd01d424ba2935994ab341fb
+      internalID: 1554867861836584023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_75
+      rect:
+        serializedVersion: 2
+        x: 3859
+        y: 1682
+        width: 347
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0b5050e79ff4788ad9169e8e33711d
+      internalID: -4196489241671112183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_76
+      rect:
+        serializedVersion: 2
+        x: 4217
+        y: 1678
+        width: 354
+        height: 134
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef653dd2eb3d420e908a7191a858c23
+      internalID: -6057657491444726787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_77
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1342
+        width: 302
+        height: 215
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97762e55c8f234814be38fc91998cb89
+      internalID: -1693062674196122685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_78
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1342
+        width: 263
+        height: 215
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1c1463eb6974009a97e1017e16e42b
+      internalID: -2052476003476769981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_79
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1342
+        width: 275
+        height: 215
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25fb67c5f6f143eaa646939b3ccface
+      internalID: 670963474955405400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_80
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1342
+        width: 288
+        height: 205
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec938904d95c444e99bb0542497a373
+      internalID: 7659418744529266329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_81
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 1342
+        width: 253
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c08990b54cbf4bd1b8e90b0f0ae9475
+      internalID: -5029772972474737996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_82
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 1342
+        width: 219
+        height: 254
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712793cc1b4f4482f93e757ad99715be
+      internalID: -7452566044932535197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_83
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 1342
+        width: 219
+        height: 301
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb8c7be993544a7abdb0a1fd5e7775f
+      internalID: 2363754923340467465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_84
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 1342
+        width: 219
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c66aaf37e084b6a8d0242404d1faea
+      internalID: -7998135228608125818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_85
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1133
+        width: 358
+        height: 198
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741ef4c5c6f2e4d2f8c1f6710be6822d
+      internalID: 7253545277428440171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_86
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1138
+        width: 358
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4141f9019a347d39c2d1580c7a631f
+      internalID: 5059486528410764993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_87
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 1138
+        width: 358
+        height: 144
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f609e2f76e944f0f8be7b41ec498df7
+      internalID: 8802504800312945785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_88
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 1138
+        width: 354
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed80b08d498146aca736e050a604543
+      internalID: -4813162691484103096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_89
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 689
+        width: 233
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d6779b93345487087660357a1b1e40
+      internalID: 1262007146295380490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_90
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 672
+        width: 214
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fac455f84a22492fb0a8e5387c79411
+      internalID: -1597183813000635174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_91
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 672
+        width: 219
+        height: 301
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76e87688733b43b483fff42864d4b73
+      internalID: 6894170056475367865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_92
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 677
+        width: 203
+        height: 279
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b69438e222024915ac9a937b8d08a04
+      internalID: -1985040438065848506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_93
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 693
+        width: 228
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea1c1de346d441698a89bbe25372b22
+      internalID: -8337688221808603337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_94
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 672
+        width: 214
+        height: 315
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5483a3869dd3f42c196c9208c6e96aad
+      internalID: 2262416620477568339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_95
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 672
+        width: 218
+        height: 315
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615296f3783e64d248659bc341f650f9
+      internalID: -3353869523923235684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_96
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 712
+        width: 228
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17698c1e1de0c4badba56a28d42857ad
+      internalID: -3548002086499232985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_97
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 703
+        width: 235
+        height: 279
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfdf30a34224d4dd59d531a16349fb57
+      internalID: 397629200337381071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_98
+      rect:
+        serializedVersion: 2
+        x: 2119
+        y: 684
+        width: 212
+        height: 298
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d001a6ccbbd7440db4aadc9fb8c5ce5
+      internalID: -7493097531559932993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_99
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 768
+        width: 330
+        height: 219
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71469cbd44b984d50934a64801e87ca1
+      internalID: -5672715415536223658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_100
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 503
+        width: 349
+        height: 139
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9ce7ca1180b4720aab0d81b387f1dc
+      internalID: 5732879362255252544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_101
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 498
+        width: 349
+        height: 149
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff23a3f0eaba466b8f63bf02a37f645
+      internalID: 6965918197265124714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_102
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 489
+        width: 349
+        height: 153
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309bb4ef9a4a64056aacac2ac07cf038
+      internalID: -8992464453755888460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_103
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 368
+        width: 233
+        height: 274
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0892782b975dd401dba75d31af02b286
+      internalID: -7803723572865819732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_104
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 368
+        width: 304
+        height: 235
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e326137e4dbed412fa7641381540ee5f
+      internalID: 4342347739824477772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_105
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 319
+        width: 277
+        height: 314
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388cd91f3f7df4fe8a5025283356824b
+      internalID: -4276158077246503092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_106
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 389
+        width: 345
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f020fe31aff48ccaa6ab082cf33229
+      internalID: 8361371483300130479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_107
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 503
+        width: 349
+        height: 139
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5615353768648abb52bd0546d388f1
+      internalID: -2720901143416085015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_108
+      rect:
+        serializedVersion: 2
+        x: 2729
+        y: 498
+        width: 349
+        height: 149
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc1cd93a285b4bc081f4818ecc230c1
+      internalID: -5071111769775542862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_109
+      rect:
+        serializedVersion: 2
+        x: 3089
+        y: 489
+        width: 347
+        height: 153
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3564d9ba6b94a85a66b2e83ab98576
+      internalID: -8502622080028209055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_110
+      rect:
+        serializedVersion: 2
+        x: 3447
+        y: 368
+        width: 235
+        height: 274
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b062bf3cab343bdbfe4e927d4982e0
+      internalID: 4493337539080813755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_111
+      rect:
+        serializedVersion: 2
+        x: 3694
+        y: 368
+        width: 302
+        height: 235
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78936589d826847d5a9c6eb3015efb31
+      internalID: 759590502166831315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_112
+      rect:
+        serializedVersion: 2
+        x: 4008
+        y: 319
+        width: 279
+        height: 314
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56902fdc3c274d87a0ff00c8c1c7a6a
+      internalID: -2521626659745881830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_113
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 14
+        width: 214
+        height: 284
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cecc09b5165944a738a9f404a2ad8997
+      internalID: 8973606343199071945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_114
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 14
+        width: 214
+        height: 288
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9e56c6679bb433ba82b1e83202fa2b
+      internalID: 2582423690624824555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_115
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 14
+        width: 214
+        height: 293
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c153b1ad325a2475985e195624e913f3
+      internalID: 4155653714745256859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_116
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 14
+        width: 214
+        height: 284
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0c4836fdcc949639055e246e11651f
+      internalID: -3200974887498164597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_117
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 14
+        width: 212
+        height: 277
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61579dacfe4046faa25258a223590b0
+      internalID: 9223057262022736714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_118
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 14
+        width: 219
+        height: 293
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b887c3d96209412b8fcf16b0c1365ff
+      internalID: -8403138841126397645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_119
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 14
+        width: 214
+        height: 293
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2223ec9f969a84815b99bac5a375f3d5
+      internalID: -952436558015224284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_120
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 14
+        width: 218
+        height: 293
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639eefdc3038e41f2bf2ec997862015f
+      internalID: 7367445710306270071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_121
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 14
+        width: 214
+        height: 293
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478cbcee925ba457ab2d8ac64c7a243a
+      internalID: 6604746510393088289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_122
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 14
+        width: 314
+        height: 272
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d32c8f6669e4a6b8d0deff669dba35
+      internalID: -2516668962292289693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_123
+      rect:
+        serializedVersion: 2
+        x: 2394
+        y: 14
+        width: 307
+        height: 277
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fad5ab397b6d4426ae87c9407339cf6
+      internalID: 5089122626353725587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rick_124
+      rect:
+        serializedVersion: 2
+        x: 2712
+        y: 14
+        width: 310
+        height: 284
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845f491a595124e63b91481b69f25986
+      internalID: 4009743075707304624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0bd431496fb9f4e4bac8a941aeca3a4b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

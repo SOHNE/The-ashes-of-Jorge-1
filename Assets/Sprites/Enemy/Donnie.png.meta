@@ -1,0 +1,3203 @@
+fileFormatVersion: 2
+guid: 33aae81a07fbf4fccb78e2bc3e8d988c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 268623130486246800
+    second: Donnie_0
+  - first:
+      213: 8916125049789742088
+    second: Donnie_1
+  - first:
+      213: -4240571244698531112
+    second: Donnie_2
+  - first:
+      213: -6438824458716687644
+    second: Donnie_3
+  - first:
+      213: -3097752120164342631
+    second: Donnie_4
+  - first:
+      213: 3415692357736573115
+    second: Donnie_5
+  - first:
+      213: 5120559727781534008
+    second: Donnie_6
+  - first:
+      213: 5271858532984237591
+    second: Donnie_7
+  - first:
+      213: -8766847948907365686
+    second: Donnie_8
+  - first:
+      213: 71140435067822418
+    second: Donnie_9
+  - first:
+      213: 5873833212590671413
+    second: Donnie_10
+  - first:
+      213: 2123198487755429168
+    second: Donnie_11
+  - first:
+      213: 334136111953757888
+    second: Donnie_12
+  - first:
+      213: -8061882643557563061
+    second: Donnie_13
+  - first:
+      213: -2512996386571350627
+    second: Donnie_14
+  - first:
+      213: -8132696164146658774
+    second: Donnie_15
+  - first:
+      213: -1834064669922315006
+    second: Donnie_16
+  - first:
+      213: -2308784171456589154
+    second: Donnie_17
+  - first:
+      213: 8086504316313551153
+    second: Donnie_18
+  - first:
+      213: -1964851132118701862
+    second: Donnie_19
+  - first:
+      213: 4345483641009953948
+    second: Donnie_20
+  - first:
+      213: -4680028465466839667
+    second: Donnie_21
+  - first:
+      213: -1812590315525659869
+    second: Donnie_22
+  - first:
+      213: 1885052462727356704
+    second: Donnie_23
+  - first:
+      213: -1229000723648239734
+    second: Donnie_24
+  - first:
+      213: 7322469208693959233
+    second: Donnie_25
+  - first:
+      213: -8549395630841845774
+    second: Donnie_26
+  - first:
+      213: 7662134785171250416
+    second: Donnie_27
+  - first:
+      213: 5553719418021198767
+    second: Donnie_28
+  - first:
+      213: -4346066431738456294
+    second: Donnie_29
+  - first:
+      213: -7347316501959256858
+    second: Donnie_30
+  - first:
+      213: 910726178240330715
+    second: Donnie_31
+  - first:
+      213: 2866551289356542812
+    second: Donnie_32
+  - first:
+      213: 2278721392564078092
+    second: Donnie_33
+  - first:
+      213: -4808375701676886660
+    second: Donnie_34
+  - first:
+      213: 1720261982373788280
+    second: Donnie_35
+  - first:
+      213: 5000820550553935968
+    second: Donnie_36
+  - first:
+      213: 1641402651300823051
+    second: Donnie_37
+  - first:
+      213: 3707347972317139494
+    second: Donnie_38
+  - first:
+      213: 5090538088521439925
+    second: Donnie_39
+  - first:
+      213: -6069832868424132886
+    second: Donnie_40
+  - first:
+      213: 6884472520648780029
+    second: Donnie_41
+  - first:
+      213: 4228472269956618196
+    second: Donnie_42
+  - first:
+      213: -4514521863531249962
+    second: Donnie_43
+  - first:
+      213: -1801841304054464447
+    second: Donnie_44
+  - first:
+      213: -1766285561226750272
+    second: Donnie_45
+  - first:
+      213: -6403823838027760402
+    second: Donnie_46
+  - first:
+      213: 2582033624625095597
+    second: Donnie_47
+  - first:
+      213: 1329409902920239805
+    second: Donnie_48
+  - first:
+      213: 7063940974459705759
+    second: Donnie_49
+  - first:
+      213: 8725513877686791744
+    second: Donnie_50
+  - first:
+      213: -844941455499982287
+    second: Donnie_51
+  - first:
+      213: -2097120281002914654
+    second: Donnie_52
+  - first:
+      213: -934512789361519274
+    second: Donnie_53
+  - first:
+      213: 777245148498619166
+    second: Donnie_54
+  - first:
+      213: 5289553073165555964
+    second: Donnie_55
+  - first:
+      213: 136435945816232844
+    second: Donnie_56
+  - first:
+      213: 1628021398013369717
+    second: Donnie_57
+  - first:
+      213: -392815866133930958
+    second: Donnie_58
+  - first:
+      213: -5753091863589883927
+    second: Donnie_59
+  - first:
+      213: -6577835099286503183
+    second: Donnie_60
+  - first:
+      213: 4808273750754695493
+    second: Donnie_61
+  - first:
+      213: 4368037710648886211
+    second: Donnie_62
+  - first:
+      213: -7783496288618022729
+    second: Donnie_63
+  - first:
+      213: 34492943995580458
+    second: Donnie_64
+  - first:
+      213: 1925007074245380750
+    second: Donnie_65
+  - first:
+      213: 4353847712903719336
+    second: Donnie_66
+  - first:
+      213: -9081418340380735166
+    second: Donnie_67
+  - first:
+      213: -6610247500110679499
+    second: Donnie_68
+  - first:
+      213: -1302955115870356744
+    second: Donnie_69
+  - first:
+      213: 14598924682990895
+    second: Donnie_70
+  - first:
+      213: -8085053547494756814
+    second: Donnie_71
+  - first:
+      213: -1100028323260626445
+    second: Donnie_72
+  - first:
+      213: 1643218504796744727
+    second: Donnie_73
+  - first:
+      213: -3385782056240886927
+    second: Donnie_74
+  - first:
+      213: 3016400080924654143
+    second: Donnie_75
+  - first:
+      213: -8760413795665766728
+    second: Donnie_76
+  - first:
+      213: 5847220992790659607
+    second: Donnie_77
+  - first:
+      213: -3571618615256683711
+    second: Donnie_78
+  - first:
+      213: 416996936618670806
+    second: Donnie_79
+  - first:
+      213: -2752012800270857425
+    second: Donnie_80
+  - first:
+      213: 5548406689076635720
+    second: Donnie_81
+  - first:
+      213: -948361141644357825
+    second: Donnie_82
+  - first:
+      213: 3663949694310313589
+    second: Donnie_83
+  - first:
+      213: -8504023010134978746
+    second: Donnie_84
+  - first:
+      213: -1802741007439447388
+    second: Donnie_85
+  - first:
+      213: 2507660868552617569
+    second: Donnie_86
+  - first:
+      213: 992236013257933607
+    second: Donnie_87
+  - first:
+      213: 3550535999565035733
+    second: Donnie_88
+  - first:
+      213: 9153125928106527518
+    second: Donnie_89
+  - first:
+      213: -3876906951735405574
+    second: Donnie_90
+  - first:
+      213: -2227273696608131583
+    second: Donnie_91
+  - first:
+      213: -3143994243564053791
+    second: Donnie_92
+  - first:
+      213: -4689078729897241570
+    second: Donnie_93
+  - first:
+      213: -4172058617561652537
+    second: Donnie_94
+  - first:
+      213: -1613349828360593209
+    second: Donnie_95
+  - first:
+      213: -2543467447792430379
+    second: Donnie_96
+  - first:
+      213: -5110040657489228456
+    second: Donnie_97
+  - first:
+      213: -1569280483078609257
+    second: Donnie_98
+  - first:
+      213: 415726246957069202
+    second: Donnie_99
+  - first:
+      213: -8791154356416706243
+    second: Donnie_100
+  - first:
+      213: 6565224389396622576
+    second: Donnie_101
+  - first:
+      213: 8006232622439377385
+    second: Donnie_102
+  - first:
+      213: 6152177100239803077
+    second: Donnie_103
+  - first:
+      213: -2383304959302508174
+    second: Donnie_104
+  - first:
+      213: -7774350740604541086
+    second: Donnie_105
+  - first:
+      213: 9139561059423840985
+    second: Donnie_106
+  - first:
+      213: -3008297482577943607
+    second: Donnie_107
+  - first:
+      213: 7089285930578953712
+    second: Donnie_108
+  - first:
+      213: -7728275207810309730
+    second: Donnie_109
+  - first:
+      213: 1657256947671190029
+    second: Donnie_110
+  - first:
+      213: -146669984292887419
+    second: Donnie_111
+  - first:
+      213: -4826231327655002464
+    second: Donnie_112
+  - first:
+      213: 6230494538874599812
+    second: Donnie_113
+  - first:
+      213: 8969440263421760071
+    second: Donnie_114
+  - first:
+      213: -8518288727289033935
+    second: Donnie_115
+  - first:
+      213: 2647452756347238403
+    second: Donnie_116
+  - first:
+      213: 4481291851553772386
+    second: Donnie_117
+  - first:
+      213: -4680219699877867494
+    second: Donnie_118
+  - first:
+      213: 2270475450036043197
+    second: Donnie_119
+  - first:
+      213: -7109552315380612173
+    second: Donnie_120
+  - first:
+      213: 1402997677173469940
+    second: Donnie_121
+  - first:
+      213: -2797464502198307408
+    second: Donnie_122
+  - first:
+      213: -1561649510470649059
+    second: Donnie_123
+  - first:
+      213: -426413331395258527
+    second: Donnie_124
+  - first:
+      213: 8914524307254055432
+    second: Donnie_125
+  - first:
+      213: -3671868865260746913
+    second: Donnie_126
+  - first:
+      213: -6181819263407643935
+    second: Donnie_127
+  - first:
+      213: -7520375515937835393
+    second: Donnie_128
+  - first:
+      213: 6907499428842709375
+    second: Donnie_129
+  - first:
+      213: -8355450468480500469
+    second: Donnie_130
+  - first:
+      213: 6750870433112119671
+    second: Donnie_131
+  - first:
+      213: -642558077396133507
+    second: Donnie_132
+  - first:
+      213: 8510812166244359512
+    second: Donnie_133
+  - first:
+      213: 7677225224749033091
+    second: Donnie_134
+  - first:
+      213: -1278646204604450409
+    second: Donnie_135
+  - first:
+      213: -5217030226692657563
+    second: Donnie_136
+  - first:
+      213: 7535367232980043560
+    second: Donnie_137
+  - first:
+      213: 6479968773586035900
+    second: Donnie_138
+  - first:
+      213: -797141653974910517
+    second: Donnie_139
+  - first:
+      213: -4360384793811855092
+    second: Donnie_140
+  - first:
+      213: 566014268273573293
+    second: Donnie_141
+  - first:
+      213: 2050229119801790025
+    second: Donnie_142
+  - first:
+      213: -7379797877495521590
+    second: Donnie_143
+  - first:
+      213: -5654868649354936619
+    second: Donnie_144
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 142
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Donnie_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1370
+        width: 53
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae78857bb685e46c6bf256de8d6085a2
+      internalID: 268623130486246800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1370
+        width: 52
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1eaa45adfe6c4c74b4332b5a35b95e1
+      internalID: 8916125049789742088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_2
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1370
+        width: 52
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674b66075ef3641ab87056bf47296844
+      internalID: -4240571244698531112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_3
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1370
+        width: 52
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac8275b86880402fa249f5628d90471
+      internalID: -6438824458716687644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1287
+        width: 66
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b645dbdd42e4513a629bfd56bc9448
+      internalID: 334136111953757888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_13
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1287
+        width: 68
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e40de27d09814c2bad035d2b2cafb0f
+      internalID: -8061882643557563061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_14
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1287
+        width: 64
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76d140ac797446acb05ed442ae1f082
+      internalID: -2512996386571350627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_15
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1287
+        width: 58
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eada2758eb39044569a8d6d337b1b14e
+      internalID: -8132696164146658774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_16
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1287
+        width: 54
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfbf7fa8b2884a8bb147c539c6cac72
+      internalID: -1834064669922315006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_17
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1287
+        width: 53
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94739a5f852934f059cbc387a34e94e9
+      internalID: -2308784171456589154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_18
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1286
+        width: 56
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a334dab476414ba394a8c5a7f80c0aa
+      internalID: 8086504316313551153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_19
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1288
+        width: 62
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b32332e4b13545d79047e05fe5308ba
+      internalID: -1964851132118701862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1204
+        width: 55
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db871a67fe5e492d9e4650f5281264f
+      internalID: -7347316501959256858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_31
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1204
+        width: 54
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8257f276a842476782069e591bacb53
+      internalID: 910726178240330715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_32
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1204
+        width: 53
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f650abfaf904e1fbb16a81144654a2
+      internalID: 2866551289356542812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_33
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1204
+        width: 52
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ea862a95420445eb516e1588f864c1
+      internalID: 2278721392564078092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_34
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1204
+        width: 52
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f9f2a7ef6a0424ba98ce88779fca3d
+      internalID: -4808375701676886660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_35
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1204
+        width: 52
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6247cd69358b84aa7828996bb4b066af
+      internalID: 1720261982373788280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_36
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1204
+        width: 53
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc3f3bd106814aebb576d08429b5ce3
+      internalID: 5000820550553935968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_37
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1204
+        width: 54
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de2a3344fbf94372a838f7cb1f63d00
+      internalID: 1641402651300823051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_38
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1204
+        width: 52
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460fd24b3a7f142da9a8f0de6be21262
+      internalID: 3707347972317139494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_39
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1204
+        width: 53
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074b22013791c421c9d3cb017fe7629f
+      internalID: 5090538088521439925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_40
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1204
+        width: 54
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be31e2e7693fa458880b4e5a3cea2667
+      internalID: -6069832868424132886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_41
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1113
+        width: 61
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2376735e1b0314497936835b6d0d5e34
+      internalID: 6884472520648780029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_42
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1119
+        width: 41
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06906203dfd144dcbbc120de6e8e7a68
+      internalID: 4228472269956618196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_43
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1121
+        width: 43
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d814cd36a714feb8d273d866ecba2b
+      internalID: -4514521863531249962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_44
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1127
+        width: 53
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153f0439f75d04cbf95c176c0edbc2b5
+      internalID: -1801841304054464447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_45
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1136
+        width: 69
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121fff0cf3a8b41cf90184c0759b6566
+      internalID: -1766285561226750272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_46
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1113
+        width: 66
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3e923a120cb42f0af2f2d2ff5573c2
+      internalID: -6403823838027760402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_47
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1115
+        width: 69
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a2db150f2ea4c409ec6210f7309d85
+      internalID: 2582033624625095597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_48
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1114
+        width: 66
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2b269bc16d7479cb0d0e88a5902f33
+      internalID: 1329409902920239805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_49
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1114
+        width: 73
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd812a5e2cd04570a713de0ead0d18f
+      internalID: 7063940974459705759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_50
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1114
+        width: 71
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc3c93b6684f40ee8cf6040368edae4
+      internalID: 8725513877686791744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_51
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1019
+        width: 53
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b79f729c4cac4879b0c9fde74cd0ede
+      internalID: -844941455499982287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_52
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1019
+        width: 50
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712aaeaf4928343399d01762f73dce89
+      internalID: -2097120281002914654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_53
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1019
+        width: 50
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5985cff3bee02449ca8b7cf8b188795e
+      internalID: -934512789361519274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_54
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1019
+        width: 51
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8121bdf4a82b347399dce375e6056159
+      internalID: 777245148498619166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_55
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1019
+        width: 79
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4523ba352c84ba69403f6c82bd882f
+      internalID: 5289553073165555964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_56
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1019
+        width: 76
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa89e3a6a078f41a6845a0ef1f123b31
+      internalID: 136435945816232844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_57
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1019
+        width: 74
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243fd930d0c554630a2c3b53d45fc303
+      internalID: 1628021398013369717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_58
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1019
+        width: 74
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b101a69c1d5424c8a8273d385294d983
+      internalID: -392815866133930958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_59
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1019
+        width: 68
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ae9399f74ab46b29e21bdc153f85aa
+      internalID: -5753091863589883927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_60
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1019
+        width: 58
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5e1561bedf6418abe9596ed20200d7
+      internalID: -6577835099286503183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_61
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1019
+        width: 53
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8739e4b77187b4511814bb5f37028530
+      internalID: 4808273750754695493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_62
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 937
+        width: 55
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561209d04147c408b849bc1f5c8cbd51
+      internalID: 4368037710648886211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_63
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 937
+        width: 55
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959f6d955436a427aa92f129c7be72da
+      internalID: -7783496288618022729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_64
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 937
+        width: 57
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b34087f72dc54fb9a2300bc7c5bbf37
+      internalID: 34492943995580458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_65
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 939
+        width: 54
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0587905e516477887b489331810554
+      internalID: 1925007074245380750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_66
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 938
+        width: 55
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cee40800c0da4a60a9937b92b9f73df
+      internalID: 4353847712903719336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_67
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 937
+        width: 55
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e516f0480694617b54b450018fb1d2
+      internalID: -9081418340380735166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_68
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 937
+        width: 53
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94939d6fbd844ce387aa10ab2bddb5b
+      internalID: -6610247500110679499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_69
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 851
+        width: 63
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6922e760d6204058a664b1f4ba0f1d0
+      internalID: -1302955115870356744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_70
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 856
+        width: 66
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48667ad1dfda74ff093c6f623c166540
+      internalID: 14598924682990895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_71
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 855
+        width: 62
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bb6624f213044169a9205bb27dcd9e
+      internalID: -8085053547494756814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_72
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 856
+        width: 55
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03ee85f477c24d3389ffd1ce7f15401
+      internalID: -1100028323260626445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_73
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 856
+        width: 55
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f33326728e94b7abfb9cbff5a7b656
+      internalID: 1643218504796744727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_74
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 855
+        width: 65
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8805e984a363f477297967cadbfc0659
+      internalID: -3385782056240886927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_75
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 856
+        width: 60
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2e61b789e914610841704af6b4ad07
+      internalID: 3016400080924654143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_76
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 856
+        width: 55
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88c800e1f8614c969f6ce9b8d338a94
+      internalID: -8760413795665766728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_77
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 760
+        width: 56
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d62a9ae9695a4eaea31bf3c30a257fc
+      internalID: 5847220992790659607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_78
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 775
+        width: 65
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3d0082c349d43519f1a9a5e6f896e9
+      internalID: -3571618615256683711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_79
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 797
+        width: 76
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bc46c299ae7438c9547fea8a87d1b9
+      internalID: 416996936618670806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_80
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 789
+        width: 67
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fdd5dcd13af40e2a9efbb86a45357c
+      internalID: -2752012800270857425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_81
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 780
+        width: 66
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3397398a68e6b44ee8a055eaa86a469c
+      internalID: 5548406689076635720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_82
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 698
+        width: 76
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47deb99323d1453aa98d278eb9368ca
+      internalID: -948361141644357825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_83
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 696
+        width: 74
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2738f3500e07445f2bf627f02c5c9caf
+      internalID: 3663949694310313589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_84
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 701
+        width: 80
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d978a5e8808249a298126157b14750b
+      internalID: -8504023010134978746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_85
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 700
+        width: 83
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1402b2d971c4e48f5a0039b7b04f6755
+      internalID: -1802741007439447388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_86
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 696
+        width: 83
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b592f1213f362464f81defa163eca050
+      internalID: 2507660868552617569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_87
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 698
+        width: 81
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f66f74462f04053ac9455ae8067526
+      internalID: 992236013257933607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_88
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 699
+        width: 82
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0479c6f2e0f1c4751a8ed70b9a416dfd
+      internalID: 3550535999565035733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_89
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 699
+        width: 83
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb77d53e16284a159bfe1022171c7c7
+      internalID: 9153125928106527518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_90
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 699
+        width: 83
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c2ad3dc8f154e1bad230a94e70337e
+      internalID: -3876906951735405574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_91
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 613
+        width: 83
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4710c64835fa4204a4ba3c5085a0543
+      internalID: -2227273696608131583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_92
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 615
+        width: 74
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d13f75abb18849f48c291393a8c5d90
+      internalID: -3143994243564053791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_93
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 617
+        width: 78
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2061f70a609464a639edac12075f8bf3
+      internalID: -4689078729897241570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_94
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 617
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080a06817b4bd4f5f8c7619ddd419363
+      internalID: -4172058617561652537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_95
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 616
+        width: 68
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9259b9c55ea46ffa516ad39b9469d7
+      internalID: -1613349828360593209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_96
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 616
+        width: 58
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ee68f0516d448548803e429026c457
+      internalID: -2543467447792430379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_97
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 623
+        width: 47
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa50111f63980404499bf4c8a0c7b291
+      internalID: -5110040657489228456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_98
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 622
+        width: 46
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfceb80925e25482ca5c1fa4d8ad89e0
+      internalID: -1569280483078609257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_99
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 622
+        width: 76
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67bbcf56d36bc45339ef353d4b1c5139
+      internalID: 415726246957069202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_100
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 623
+        width: 74
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2839e2d6ad7e84d92b1ea45b379f3512
+      internalID: -8791154356416706243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_101
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 623
+        width: 79
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa16411330834c36b513df6ccc9285e
+      internalID: 6565224389396622576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_102
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 624
+        width: 54
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463ff39935c7e4ff79abe8cfe96495d1
+      internalID: 8006232622439377385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_103
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 532
+        width: 51
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d549e09a2bd3042c3a20bbdf24f45940
+      internalID: 6152177100239803077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_104
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 532
+        width: 52
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc111de27d3340eba386a55184f753d
+      internalID: -2383304959302508174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_105
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 532
+        width: 54
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7381ae3fd7fb342909e40907a84ff69a
+      internalID: -7774350740604541086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_106
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 532
+        width: 52
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9653b012b7d4d9a81440401cdee72a
+      internalID: 9139561059423840985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_107
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 472
+        width: 83
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7b91aa404cd407c9e9073709eb306b
+      internalID: -3008297482577943607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_108
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 467
+        width: 75
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410e547f347fe49599ec2159cb5d5701
+      internalID: 7089285930578953712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_109
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 467
+        width: 82
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902dd8bfd64e74183b19c9d5edb3ba8a
+      internalID: -7728275207810309730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_110
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 418
+        width: 83
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77eb81a43e65453da0a5a06b49581c3
+      internalID: 1657256947671190029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_111
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 417
+        width: 74
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e62e5473761a48b69d1388bc4fc08f3
+      internalID: -146669984292887419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_112
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 420
+        width: 90
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378fc8bf41e0b43e889d9829e2df1afe
+      internalID: -4826231327655002464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_113
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 419
+        width: 83
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0457d9d3cb35a4254b7ed9d0c21e29a2
+      internalID: 6230494538874599812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_114
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 330
+        width: 55
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e05260178f546238da574607a279a2
+      internalID: 8969440263421760071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_115
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 333
+        width: 43
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bec14cb0dbe4bdd87f2f7778aab494
+      internalID: -8518288727289033935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_116
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 343
+        width: 49
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1738b691457b047a9b45b26dd1ca6af2
+      internalID: 2647452756347238403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_117
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 342
+        width: 50
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3900ceed68d7c4cd2afb31b3f863da4c
+      internalID: 4481291851553772386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_118
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 331
+        width: 54
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77d8bba65efb400a8df0510b95f0daf
+      internalID: -4680219699877867494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_119
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 255
+        width: 55
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0531f0811048940d4932c6c3f2657f2d
+      internalID: 2270475450036043197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_120
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 255
+        width: 54
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd03c8bb88da34bbf99943aa26875f8b
+      internalID: -7109552315380612173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_121
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 261
+        width: 49
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2431f39f83d8a42dd94077072dd647a9
+      internalID: 1402997677173469940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_122
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 258
+        width: 50
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551cb6fed9bb748d3a6a50136c189c9f
+      internalID: -2797464502198307408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_123
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 255
+        width: 43
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a518e0075a80f496296b69bd3c752008
+      internalID: -1561649510470649059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_124
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 262
+        width: 70
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c674fe08d61f451caa2e3e0b86b62ab
+      internalID: -426413331395258527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_125
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 183
+        width: 45
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224afd766739148c4988ded2b66bde93
+      internalID: 8914524307254055432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_126
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 183
+        width: 45
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b330f1284e347b0b62cba2de2ce19b
+      internalID: -3671868865260746913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_127
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 98
+        width: 53
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f220fb712204fc09bb412c5f489515
+      internalID: -6181819263407643935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_128
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 98
+        width: 53
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc03910e4d674e8dba6c9d77e8c6e0e
+      internalID: -7520375515937835393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_129
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 95
+        width: 78
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f728ff9fb69f741f3847356cf4c70d7a
+      internalID: 6907499428842709375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_130
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 95
+        width: 78
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1d1a94c8cf742b2aa46fb5d066967d
+      internalID: -8355450468480500469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_131
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 111
+        width: 91
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42cec472ae9f4653a6dc4b0dc388b46
+      internalID: 6750870433112119671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_132
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 111
+        width: 91
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d03dc382a4848c7b366b8513b12a58
+      internalID: -642558077396133507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_133
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 11
+        width: 48
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd9964ecb1614db587e2c956885ac55
+      internalID: 8510812166244359512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_134
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 11
+        width: 48
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a53a0291945344eb901da51fbd82db7
+      internalID: 7677225224749033091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_135
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 11
+        width: 45
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199f7fed776e841439a35c82e435b40d
+      internalID: -1278646204604450409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_136
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 11
+        width: 45
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a34762a71c9944a89ab602e0e3a6a9b
+      internalID: -5217030226692657563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_137
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 11
+        width: 45
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20bfd9a7ac7534b8e8d2748f692a1bbe
+      internalID: 7535367232980043560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_138
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 11
+        width: 45
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7460ee752c1a414982a13ae339a093a
+      internalID: 6479968773586035900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_139
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 11
+        width: 45
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f3ec67811014ff0927639fc3d9904c
+      internalID: -797141653974910517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_140
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 11
+        width: 45
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d72264e1362c4847b2591169ec1afed
+      internalID: -4360384793811855092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_141
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 11
+        width: 45
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af812a5be78964dad9138a81dfa77b12
+      internalID: 566014268273573293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_142
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 11
+        width: 47
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9add4951a66b5430ab7c2c3ff5a2f1c3
+      internalID: 2050229119801790025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_143
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 11
+        width: 46
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a44e78eb9ad54a70ae110b5efc3e435
+      internalID: -7379797877495521590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donnie_144
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 11
+        width: 45
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c86beb42e744442f9b9b2ee950b9588
+      internalID: -5654868649354936619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 659e69dab04704391879c48bb05ba86b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
