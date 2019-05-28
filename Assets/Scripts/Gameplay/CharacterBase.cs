@@ -118,7 +118,8 @@ public class CharacterBase : MonoBehaviour {
 
         OnAttack(damage);
 
-        currentSpeed = 0;
+        if (OnGround) { currentSpeed = 0; }
+
         anim.SetTrigger("Attack");
         nextAttack = Time.time + attackRate;
     }
@@ -183,19 +184,22 @@ public class CharacterBase : MonoBehaviour {
     /// </summary>
     protected void MoveHandler(float x, float z, float y = 0) {
         DamageLimiter();
+
         if (damaged) { return; }
+        if (gameObject.CompareTag("Player")) { CheckGroundStatus(); }
+
 
         x *= currentSpeed;
         z *= OnGround ? currentSpeed : 1;
+        if (float.IsNaN(z)) { z = 0; }
 
         rb.velocity = new Vector3(x, y, z);
+
 
         if ((x > 0 && !facingRight) || (x < 0 && facingRight)) { Flip(); }
 
         AnimSpeed();
         JumpControl();
-
-        if (gameObject.CompareTag("Player")) { CheckGroundStatus(); }
 
         // Limita a movimentação do eixo x do personagem para apenas o mundo visivel pela câmera
         float minWidth = Camera.main.ScreenToWorldPoint(new Vector3(0, 0, 10)).x;
@@ -204,7 +208,7 @@ public class CharacterBase : MonoBehaviour {
         rb.position = new Vector3(
             Mathf.Clamp(rb.position.x, minWidth + .75f, maxWidth - .75f),
             rb.position.y,
-            rb.position.z);
+            Mathf.Clamp(rb.position.z, -3.5f, 2f));
     }
 
     protected void DamageLimiter() {

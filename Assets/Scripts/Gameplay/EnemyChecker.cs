@@ -6,30 +6,44 @@ public class EnemyChecker : MonoBehaviour {
     [SerializeField] private int Current;
     public int Max;
     public bool isMax;
-    public List<Enemy> Fighting;
 
-
-    private void Disable() {
-        GameObject[] all = GameObject.FindGameObjectsWithTag("Enemy");
-        for (int i = 0; i < all.Length; i++) {
-
+    Transform GetClosestEnemy(GameObject[] enemies) {
+        Transform tMin = null;
+        float minDist = Mathf.Infinity;
+        Vector3 currentPos = transform.position;
+        foreach (GameObject t in enemies) {
+            float dist = Vector3.Distance(t.transform.position, currentPos);
+            if (dist < minDist) {
+                tMin = t.transform;
+                minDist = dist;
+            }
         }
+        return tMin;
+    }
 
+    private void Awake() {
+        GameObject[] a = GameObject.FindGameObjectsWithTag("Enemy");
+    }
+
+    private void Update() {
+        //Debug.Log(GetClosestEnemy(GameObject.FindGameObjectsWithTag("Enemy")).gameObject);
     }
 
     private void OnTriggerEnter(Collider other) {
         if (!other.CompareTag("Enemy")) { return; }
+        if (Current >= 2) { return; }
         Current++;
-        Fighting.Add(other.gameObject.GetComponent<Enemy>());
-        Disable();
+
+        other.GetComponent<Enemy>().Attacking = true;
     }
     private void OnTriggerExit(Collider other) {
         if (!other.CompareTag("Enemy")) { return; }
         Current--;
-        Fighting.Remove(other.gameObject.GetComponent<Enemy>());
-        Disable();
 
+        other.GetComponent<Enemy>().Attacking = false;
+    }
+
+    private void OnTriggerStay(Collider other) {
+        if (other.GetComponent<Enemy>().Attacking) { }
     }
 }
-
-

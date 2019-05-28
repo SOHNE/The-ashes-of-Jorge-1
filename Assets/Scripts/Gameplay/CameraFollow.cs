@@ -68,12 +68,6 @@ public class CameraFollow : MonoBehaviour {
 
 		// Set the camera's position to the target position with the same z component.
 		transform.position = new Vector3(targetX, transform.position.y, transform.position.z);
-
-		// Camera Keeper
-
-		//Vector3 kposition = GetComponentInParent<Transform>().position;
-
-		GetComponentInParent<Transform>().position = new Vector3(targetX, transform.position.y, transform.position.z);
 	}
 }
 

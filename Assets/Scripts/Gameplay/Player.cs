@@ -37,9 +37,7 @@ public class Player : CharacterBase {
 
         anim.SetBool("Input", !I.x.Equals(0) || !I.z.Equals(0));
 
-        if (!OnGround) { return; }
-
-        if (Input.GetButtonDown("Jump")) { Jump(); }
+        if (Input.GetButtonDown("Jump") && OnGround) { Jump(); }
 
         if (Input.GetButtonDown("Fire1")) { Attack(); }
 

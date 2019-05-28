@@ -44,6 +44,16 @@ sysinfo.txt
 # Icon must end with two \r
 Icon
 
+# OS Generated
+# ============
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+[Tt]humbs.db
+[Dd]esktop.ini
 
 # Thumbnails
 ._*
@@ -63,4 +73,16 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Visual Studio / MonoDevelop generated
+# =====================================
+[Ee]xported[Oo]bj/
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
 

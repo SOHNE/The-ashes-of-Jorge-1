@@ -16,6 +16,8 @@ public class Enemy : CharacterBase {
     private bool HB_show;
     protected int posLife;
 
+    public bool Attacking;
+
     private void HealthBar() {
         if (HB_show) { return; }
         HB_show = true;
@@ -25,6 +27,8 @@ public class Enemy : CharacterBase {
 
     #region "Code"
     private void Start() {
+        //Target = GameObject.FindGameObjectWithTag("Player").transform;//GameObject.FindGameObjectsWithTag("EnemyPoints")[Random.Range(0, 2)].transform;
+
         //GetComponentInChildren<HealthBar>().MaxHealthPoints = maxHealth;
         //GetComponentInChildren<HealthBar>().Hurt(0);
 
@@ -43,27 +47,30 @@ public class Enemy : CharacterBase {
     void FixedUpdate() {
         if (isDead) { return; }
 
-        forcaH = TargetDistance.x / Mathf.Abs(TargetDistance.x);
-
-        if (walkTimer > Random.Range(1f, 2f)) {
-            forcaZ = Random.Range(-1, 2);
-            walkTimer = 0;
+        if (!Attacking) {
+            if (walkTimer > Random.Range(1f, 2f)) {
+                forcaZ = Random.Range(-1, 2);
+                if (Camera.main.WorldToScreenPoint(transform.position).x > 40 && Camera.main.WorldToScreenPoint(transform.position).x < 900) {
+                    //forcaH = Random.Range(-1, 2);
+                }
+                walkTimer = 0;
+            }
+        } else {
+            forcaZ = TargetDistance.z / Mathf.Abs(TargetDistance.z);
+            forcaH = TargetDistance.x / Mathf.Abs(TargetDistance.x);
         }
 
         if (Mathf.Abs(TargetDistance.x) < stopDistance) { forcaH = 0; }
+        //if (Mathf.Abs(TargetDistance.z) < stopDistance) { forcaZ = 0; }
 
         MoveHandler(forcaH, forcaZ);
+
+        if (!Attacking) { return; }
 
         bool attack = Mathf.Abs(TargetDistance.x) < 1.5f && Mathf.Abs(TargetDistance.z) < 1f;
         if (attack && Time.time > nextAttack) {
             Attack();
         }
-
-        rb.position = new Vector3(
-            rb.position.x,
-            rb.position.y,
-            Mathf.Clamp(rb.position.z, -3.8f, 2.3f));
-
     }
 
     private void OnCollisionEnter(Collision other) {
@@ -74,7 +81,7 @@ public class Enemy : CharacterBase {
 
         //if (posLife >= 2) { anim.SetTrigger("Destroy"); return; }
 
-        string triggerName = "Revive"; //Random.Range(0, 6) <= 1 ? "Destroy" : "Revive";
+        string triggerName = Random.Range(0, 6) <= 4 ? "Destroy" : "Revive";
 
         anim.SetTrigger(triggerName);
     }
