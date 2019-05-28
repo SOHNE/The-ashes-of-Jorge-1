@@ -32,7 +32,7 @@ public class GameManager : MonoBehaviour {
         //
 
         cam = Camera.main.GetComponent<CameraFollow>();
-        wave = GameObject.FindGameObjectWithTag("WaveController").GetComponent<WaveManager>();
+        
         //UI_PlayerHP = GameObject.Find("P_HP").GetComponent<Slider>();
     }
 

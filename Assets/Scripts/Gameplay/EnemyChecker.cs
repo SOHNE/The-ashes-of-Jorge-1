@@ -43,7 +43,4 @@ public class EnemyChecker : MonoBehaviour {
         other.GetComponent<Enemy>().Attacking = false;
     }
 
-    private void OnTriggerStay(Collider other) {
-        if (other.GetComponent<Enemy>().Attacking) { }
-    }
 }

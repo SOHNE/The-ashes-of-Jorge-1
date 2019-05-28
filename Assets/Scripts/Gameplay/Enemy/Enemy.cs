@@ -47,17 +47,18 @@ public class Enemy : CharacterBase {
     void FixedUpdate() {
         if (isDead) { return; }
 
+        forcaH = TargetDistance.x / Mathf.Abs(TargetDistance.x);
+
         if (!Attacking) {
             if (walkTimer > Random.Range(1f, 2f)) {
                 forcaZ = Random.Range(-1, 2);
                 if (Camera.main.WorldToScreenPoint(transform.position).x > 40 && Camera.main.WorldToScreenPoint(transform.position).x < 900) {
-                    //forcaH = Random.Range(-1, 2);
+                    forcaH = Random.Range(-1, 2);
                 }
                 walkTimer = 0;
             }
         } else {
             forcaZ = TargetDistance.z / Mathf.Abs(TargetDistance.z);
-            forcaH = TargetDistance.x / Mathf.Abs(TargetDistance.x);
         }
 
         if (Mathf.Abs(TargetDistance.x) < stopDistance) { forcaH = 0; }
@@ -119,7 +120,7 @@ public class Enemy : CharacterBase {
     }
 
     private void MountHealthBar() {
-        GameObject prefab = (GameObject)Resources.Load("Prefab/HealthBar");
+        GameObject prefab = (GameObject) Resources.Load("Prefab/HealthBar");
         Transform WS = GameObject.Find("-- World Space").transform;
 
         HB = Instantiate(prefab, WS);

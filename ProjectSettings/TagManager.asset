@@ -11,6 +11,7 @@ TagManager:
   - Ground
   - UIController
   - EnemyPoints
+  - Maestro
   layers:
   - Default
   - TransparentFX
