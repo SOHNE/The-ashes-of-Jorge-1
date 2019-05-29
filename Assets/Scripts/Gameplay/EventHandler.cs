@@ -20,7 +20,7 @@ public class EventHandler : MonoBehaviour {
     /// </summary>
     void Awake() {
         _GM = GameObject.FindGameObjectWithTag("GameController").GetComponent<GameManager>();
-        CharacterSpace = GameObject.Find("----- Characters").transform;
+        CharacterSpace = GameObject.Find("Others").transform;
     }
     public int id;
     private void Update() {

@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: 76b7e6049db574c2d8a8111381d95b97
+guid: d9564ec4d2fd24d8096b99f8bcd45ff9
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7017853201098927596
-    second: kick jump_0
+      213: -7962809353837629190
+    second: Jorge Kick Jump_0
+  - first:
+      213: 4633137833389999584
+    second: Jorge Kick Jump_1
+  - first:
+      213: 2360023075724614768
+    second: Jorge Kick Jump_2
+  - first:
+      213: 5889514157018673578
+    second: Jorge Kick Jump_3
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -48,7 +57,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 120
+  spritePixelsToUnits: 142
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -66,7 +75,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 2
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -77,7 +86,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 2
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -87,11 +96,53 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: kick jump_0
+      name: Jorge Kick Jump_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 10
+        x: 33
+        y: 936
+        width: 70
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b57ff7b3f58475080803600bc6337d
+      internalID: -7962809353837629190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorge Kick Jump_1
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 928
+        width: 70
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06ed7c04f1674689b5a914952e5bce5
+      internalID: 4633137833389999584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorge Kick Jump_2
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 938
         width: 120
         height: 100
       alignment: 7
@@ -101,8 +152,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f182fcce1b710463899701c51bad6cfb
-      internalID: 7017853201098927596
+      spriteID: 362510d57426a41168d977b00abf8258
+      internalID: 2360023075724614768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorge Kick Jump_3
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 936
+        width: 110
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382e40c55edfc4be5a0ec27a8efafbd0
+      internalID: 5889514157018673578
       vertices: []
       indices: 
       edges: []
@@ -110,7 +182,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 1dde5b42726ce49c3a16d6a4a73d22fe
+    spriteID: d516532200a4f40109ce764d9f73d7e5
     internalID: 0
     vertices: []
     indices: 

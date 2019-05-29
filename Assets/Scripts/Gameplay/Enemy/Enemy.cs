@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class Enemy : CharacterBase {
     #region "Vars"
@@ -10,9 +8,9 @@ public class Enemy : CharacterBase {
 
     protected float forcaZ, forcaH;
     protected Transform Target => GameObject.FindGameObjectWithTag("Player").transform;
-    protected Vector3 TargetDistance => Target.position - transform.position;
+    public Vector3 TargetDistance => Target.position - transform.position;
 
-    private GameObject HB;
+    protected GameObject HB;
     private bool HB_show;
     protected int posLife;
 
@@ -52,14 +50,14 @@ public class Enemy : CharacterBase {
         if (!Attacking) {
             if (walkTimer > Random.Range(1f, 2f)) {
                 forcaZ = Random.Range(-1, 2);
-                if (Camera.main.WorldToScreenPoint(transform.position).x > 40 && Camera.main.WorldToScreenPoint(transform.position).x < 900) {
-                    forcaH = Random.Range(-1, 2);
-                }
+                forcaH = Random.Range(-2, 3);
                 walkTimer = 0;
             }
         } else {
             forcaZ = TargetDistance.z / Mathf.Abs(TargetDistance.z);
         }
+
+        if (float.IsNaN(forcaZ)) { forcaZ = 0; }
 
         if (Mathf.Abs(TargetDistance.x) < stopDistance) { forcaH = 0; }
         //if (Mathf.Abs(TargetDistance.z) < stopDistance) { forcaZ = 0; }
@@ -119,8 +117,8 @@ public class Enemy : CharacterBase {
         HB.SetActive(true);
     }
 
-    private void MountHealthBar() {
-        GameObject prefab = (GameObject) Resources.Load("Prefab/HealthBar");
+    protected void MountHealthBar() {
+        GameObject prefab = (GameObject)Resources.Load("Prefab/HealthBar");
         Transform WS = GameObject.Find("-- World Space").transform;
 
         HB = Instantiate(prefab, WS);

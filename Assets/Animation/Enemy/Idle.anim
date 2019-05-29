@@ -80,14 +80,14 @@ AnimationClip:
   m_HasMotionFloatCurves: 0
   m_Events:
   - time: 0
-    functionName: Recover
+    functionName: ResetSpeed
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
     intParameter: 0
     messageOptions: 0
-  - time: 0
-    functionName: ResetSpeed
+  - time: 0.11111111
+    functionName: Recover
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0

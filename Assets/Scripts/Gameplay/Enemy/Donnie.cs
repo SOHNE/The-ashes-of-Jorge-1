@@ -5,31 +5,53 @@ using UnityEngine;
 public class Donnie : Enemy {
 
     private void Start() {
-        maxHealth = 3;
         currentHealth = maxHealth;
-        this.stopDistance = 3f;
+        
     }
 
-    private void Update() {
-        walkTimer += Time.time;
+    private void Update()
+    {
+        if (HB) { HB.transform.position = Camera.main.WorldToScreenPoint(transform.position + new Vector3(0, 3, 0)); }
+
+        walkTimer += Time.deltaTime;
         anim.SetBool("isDead", isDead);
     }
 
-   void FixedUpdate() {
+    void FixedUpdate()
+    {
         if (isDead) { return; }
 
-        float forcaH = TargetDistance.x / Mathf.Abs(TargetDistance.x);
-        float forcaZ = TargetDistance.z / Mathf.Abs(TargetDistance.z);
+        forcaH = TargetDistance.x / Mathf.Abs(TargetDistance.x);
+
+        if (!Attacking)
+        {
+            if (walkTimer > Random.Range(1f, 2f))
+            {
+                forcaZ = Random.Range(-1, 2);
+                if (Camera.main.WorldToScreenPoint(transform.position).x > 40 && Camera.main.WorldToScreenPoint(transform.position).x < 900)
+                {
+                    forcaH = Random.Range(-1, 2);
+                }
+                walkTimer = 0;
+            }
+        }
+        else
+        {
+            forcaZ = TargetDistance.z / Mathf.Abs(TargetDistance.z);
+        }
 
         if (Mathf.Abs(TargetDistance.x) < stopDistance) { forcaH = 0; }
-        if (Mathf.Abs(TargetDistance.z) < stopDistance) { forcaZ = 0; }
 
+        MoveHandler(forcaH, forcaZ);
 
-        if (!damaged) { MoveHandler(forcaH, forcaZ); }
+        if (!Attacking) { return; }
 
-        bool attack = Mathf.Abs(TargetDistance.x) < 3f && Mathf.Abs(TargetDistance.z) < 1f;
-        if (attack && Time.time > nextAttack) {
+        bool attack = Mathf.Abs(TargetDistance.x) < 1.7f && Mathf.Abs(TargetDistance.z) < 1f;
+        if (attack && Time.time > nextAttack)
+        {
             Attack();
         }
     }
+
+    
 }

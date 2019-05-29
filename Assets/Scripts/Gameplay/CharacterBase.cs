@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 /// <summary>
 /// The main Character class
@@ -186,12 +184,12 @@ public class CharacterBase : MonoBehaviour {
         DamageLimiter();
 
         if (damaged) { return; }
-        if (gameObject.CompareTag("Player")) { CheckGroundStatus(); }
+        if (CompareTag("Player")) {
+            CheckGroundStatus(); }
 
 
         x *= currentSpeed;
         z *= OnGround ? currentSpeed : 1;
-        if (float.IsNaN(z)) { z = 0; }
 
         rb.velocity = new Vector3(x, y, z);
 
@@ -202,11 +200,13 @@ public class CharacterBase : MonoBehaviour {
         JumpControl();
 
         // Limita a movimentação do eixo x do personagem para apenas o mundo visivel pela câmera
-        float minWidth = Camera.main.ScreenToWorldPoint(new Vector3(0, 0, 10)).x;
-        float maxWidth = Camera.main.ScreenToWorldPoint(new Vector3(Screen.width, 0, 10)).x;
+        var minWidth = Camera.main.ScreenToWorldPoint(new Vector3(0, 0, 10)).x;
+        var maxWidth = Camera.main.ScreenToWorldPoint(new Vector3(Screen.width, 0, 10)).x;
+
+        var LimitX = CompareTag("Player") ? Mathf.Clamp(rb.position.x, minWidth + .75f, maxWidth - .75f) : rb.position.x;
 
         rb.position = new Vector3(
-            Mathf.Clamp(rb.position.x, minWidth + .75f, maxWidth - .75f),
+            LimitX,
             rb.position.y,
             Mathf.Clamp(rb.position.z, -3.5f, 2f));
     }
@@ -220,7 +220,6 @@ public class CharacterBase : MonoBehaviour {
         damaged = false;
         anim.Play("Idle");
         damageTimer = 0;
-
     }
 
     /* 
