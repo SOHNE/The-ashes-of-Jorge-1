@@ -22,7 +22,7 @@ public class Player : CharacterBase {
 
     void Update() {
         comboTimer += Time.deltaTime;
-        if (!combo.Equals(0) && comboTimer >= 3f) { GameObject.FindObjectOfType<UIManager>().ComboOut(); }
+        //if (!combo.Equals(0) && comboTimer >= 3f) { GameObject.FindObjectOfType<UIManager>().ComboOut(); }
         GameObject.Find("Combo").GetComponentInChildren<TextMeshProUGUI>().text = "COMBO:\r\n\t" + combo.ToString();
     }
 
@@ -61,13 +61,13 @@ public class Player : CharacterBase {
         ComboCounter();
 
         if (combo < 3) { return; }
-        GameObject.FindObjectOfType<UIManager>().ComboIn();
+        //GameObject.FindObjectOfType<UIManager>().ComboIn();
 
     }
 
     protected override void OnHit(int damage) {
         GameObject.Find("HPB").GetComponent<HealthBar>().Hurt(damage);
-        GameObject.FindObjectOfType<UIManager>().ComboOut();
+        //GameObject.FindObjectOfType<UIManager>().ComboOut();
     }
 
     protected override void OnAttack(int damage) {
