@@ -1,10 +1,8 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class EnemyPointer : MonoBehaviour {
 
-    private bool used;
+    [SerializeField] private bool used;
     public bool isUsed { get => used; }
 
     private void OnTriggerEnter(Collider other) {

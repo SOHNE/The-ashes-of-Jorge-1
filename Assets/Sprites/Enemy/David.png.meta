@@ -1,0 +1,6473 @@
+fileFormatVersion: 2
+guid: 38049c262986ce9418c535f3921175db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1378467978875269810
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_0
+  - first:
+      213: -3532571347047487722
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_1
+  - first:
+      213: -2652300063276771558
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_2
+  - first:
+      213: 9102071736986851198
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_3
+  - first:
+      213: 6076736088447762283
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_4
+  - first:
+      213: -2849863178292962423
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_5
+  - first:
+      213: 5901880907435110609
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_6
+  - first:
+      213: -4837854189677758808
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_7
+  - first:
+      213: 8777181468016946252
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_8
+  - first:
+      213: 6346624152833937678
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_9
+  - first:
+      213: -8139957396001561429
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_10
+  - first:
+      213: 5937422644229057881
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_11
+  - first:
+      213: 4424100149327872170
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_12
+  - first:
+      213: -383777152634100146
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_13
+  - first:
+      213: -1717605037394131024
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_14
+  - first:
+      213: 6846477096587324593
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_15
+  - first:
+      213: 3346713170974374584
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_16
+  - first:
+      213: -3045592064004710634
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_17
+  - first:
+      213: -1856226485229132201
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_18
+  - first:
+      213: -4137430370302186566
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_19
+  - first:
+      213: -7234906624324192332
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_20
+  - first:
+      213: 5988258792657087027
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_21
+  - first:
+      213: 8219857941027400671
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_22
+  - first:
+      213: -3049727812993738106
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_23
+  - first:
+      213: -2715340380243898928
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_24
+  - first:
+      213: 4298264519202893587
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_25
+  - first:
+      213: -7500055590385577764
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_26
+  - first:
+      213: 3204109581161084283
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_27
+  - first:
+      213: -9151738023279648055
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_28
+  - first:
+      213: 920180390677380859
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_29
+  - first:
+      213: 4789269755330407450
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_30
+  - first:
+      213: -139606116540071552
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_31
+  - first:
+      213: 574472147468764011
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_32
+  - first:
+      213: -5689137213045173946
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_33
+  - first:
+      213: -7514749524417581567
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_34
+  - first:
+      213: -1193422979666910655
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_35
+  - first:
+      213: 8374884945038388288
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_36
+  - first:
+      213: 2081699300055502091
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_37
+  - first:
+      213: 8048730182124188537
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_38
+  - first:
+      213: 5653915989185269182
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_39
+  - first:
+      213: 6390143431685069310
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_40
+  - first:
+      213: 5440961984636856479
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_41
+  - first:
+      213: -2845510456798157186
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_42
+  - first:
+      213: -404041562630748981
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_43
+  - first:
+      213: -6220324557311640159
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_44
+  - first:
+      213: -4818069846643290558
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_45
+  - first:
+      213: -3090853856535575585
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_46
+  - first:
+      213: -1559037740233523245
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_47
+  - first:
+      213: 2184585863646111183
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_48
+  - first:
+      213: 3894526121389034268
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_49
+  - first:
+      213: -2453845268762969175
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_50
+  - first:
+      213: -5337015419540740333
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_51
+  - first:
+      213: 604233614787715288
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_52
+  - first:
+      213: 8659565083035287015
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_53
+  - first:
+      213: 5370259982724236240
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_54
+  - first:
+      213: 4082315267866774040
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_55
+  - first:
+      213: 4148918788557028822
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_56
+  - first:
+      213: 3820346949252893816
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_57
+  - first:
+      213: -4127533085012284027
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_58
+  - first:
+      213: 2131872357843428158
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_59
+  - first:
+      213: 6730459570664744107
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_60
+  - first:
+      213: -5018406167932304754
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_61
+  - first:
+      213: -4357078682268244877
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_62
+  - first:
+      213: -1102348707725001577
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_63
+  - first:
+      213: -1299745350303178786
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_64
+  - first:
+      213: -6783737539990283044
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_65
+  - first:
+      213: 9005085212808173596
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_66
+  - first:
+      213: -1537055213878702587
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_67
+  - first:
+      213: 7179231497524438598
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_68
+  - first:
+      213: 1903499937547725667
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_69
+  - first:
+      213: -1984697571046245652
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_70
+  - first:
+      213: -6551376462361339462
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_71
+  - first:
+      213: 2068181759437744889
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_72
+  - first:
+      213: 3179386500258011229
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_73
+  - first:
+      213: -2181783802871083236
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_74
+  - first:
+      213: -5406332808465048525
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_75
+  - first:
+      213: -684380389746928943
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_76
+  - first:
+      213: 6146825462404966674
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_77
+  - first:
+      213: -7987146343336439444
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_78
+  - first:
+      213: 2950876579225743359
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_79
+  - first:
+      213: -4740008526691426544
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_80
+  - first:
+      213: 1886669964485476075
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_81
+  - first:
+      213: -648504243966714951
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_82
+  - first:
+      213: -6149651731223225484
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_83
+  - first:
+      213: 4231585750901568959
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_84
+  - first:
+      213: -185743125286569737
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_85
+  - first:
+      213: -5827065921369732414
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_86
+  - first:
+      213: 201063719029881233
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_87
+  - first:
+      213: -7464482366261159019
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_88
+  - first:
+      213: -1796143357800635798
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_89
+  - first:
+      213: -842883383363637934
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_90
+  - first:
+      213: -7782783208061588584
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_91
+  - first:
+      213: -4140932792353218351
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_92
+  - first:
+      213: 2991585623483590737
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_93
+  - first:
+      213: 7097559183575199814
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_94
+  - first:
+      213: 5760079456865554933
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_95
+  - first:
+      213: -8863364200112848526
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_96
+  - first:
+      213: 4298110768670899898
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_97
+  - first:
+      213: -3488612572907033082
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_98
+  - first:
+      213: -3096401372344082906
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_99
+  - first:
+      213: 1342533896768370376
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_100
+  - first:
+      213: -3559634889106331417
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_101
+  - first:
+      213: 2572097950881103434
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_102
+  - first:
+      213: -4961458842424344153
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_103
+  - first:
+      213: 8449282364811944277
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_104
+  - first:
+      213: -7803573933604619049
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_105
+  - first:
+      213: 3111238936765791935
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_106
+  - first:
+      213: 1025908118255811631
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_107
+  - first:
+      213: -2363567777109650811
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_108
+  - first:
+      213: 6503607914527341792
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_109
+  - first:
+      213: -6783017028991293398
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_110
+  - first:
+      213: -4683819884173553781
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_111
+  - first:
+      213: -2529915620755620754
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_112
+  - first:
+      213: 4376527001924890890
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_113
+  - first:
+      213: -5179068303314978587
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_114
+  - first:
+      213: -5215927700356355803
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_115
+  - first:
+      213: 4241921106042791401
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_116
+  - first:
+      213: 5203662645651127822
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_117
+  - first:
+      213: -8072881409637791307
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_118
+  - first:
+      213: -6632117154902521342
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_119
+  - first:
+      213: -7951245309633903090
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_120
+  - first:
+      213: 3089595907441712726
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_121
+  - first:
+      213: 3511049568861201359
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_122
+  - first:
+      213: 6467350029885031857
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_123
+  - first:
+      213: 6164456163010328028
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_124
+  - first:
+      213: 493879427555762231
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_125
+  - first:
+      213: 5193991640310041462
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_126
+  - first:
+      213: -3455137050967699190
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_127
+  - first:
+      213: -5883011015476615316
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_128
+  - first:
+      213: 4193706352176173650
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_129
+  - first:
+      213: 3231170132725535232
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_130
+  - first:
+      213: -6746660713543908698
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_131
+  - first:
+      213: 1087055216941636030
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_132
+  - first:
+      213: 7815015500678948
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_133
+  - first:
+      213: 1797859923714204383
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_134
+  - first:
+      213: -8297761532592984340
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_135
+  - first:
+      213: -1928551275669944233
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_136
+  - first:
+      213: 834930637307090290
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_137
+  - first:
+      213: -2333039803202897932
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_138
+  - first:
+      213: 3672089343336549084
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_139
+  - first:
+      213: -897052840948737983
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_140
+  - first:
+      213: 7079303526977253379
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_141
+  - first:
+      213: 8065151971197617282
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_142
+  - first:
+      213: -4258571836053499959
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_143
+  - first:
+      213: -3794434166929592363
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_144
+  - first:
+      213: 7589298238436048724
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_145
+  - first:
+      213: -3979198108306767610
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_146
+  - first:
+      213: -1965320910310112502
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_147
+  - first:
+      213: -7700532161541777710
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_148
+  - first:
+      213: 4338036411403204406
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_149
+  - first:
+      213: -677874950002412252
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_150
+  - first:
+      213: -193032826396457013
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_151
+  - first:
+      213: -7633843046510202842
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_152
+  - first:
+      213: -2622073249245401533
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_153
+  - first:
+      213: 7699744328981046786
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_154
+  - first:
+      213: -221313589972154376
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_155
+  - first:
+      213: 3369973867073397284
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_156
+  - first:
+      213: 2865510899579877402
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_157
+  - first:
+      213: -3142475795678764927
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_158
+  - first:
+      213: -411429384980792009
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_159
+  - first:
+      213: -8733171741032562808
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_160
+  - first:
+      213: -2560634679665812072
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_161
+  - first:
+      213: -7381093318002865483
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_162
+  - first:
+      213: -5864152343041565468
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_163
+  - first:
+      213: -6039924684179417876
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_164
+  - first:
+      213: -5279182490961187755
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_165
+  - first:
+      213: 6715412446471197880
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_166
+  - first:
+      213: 8249060225801339140
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_167
+  - first:
+      213: 3617342833832740900
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_168
+  - first:
+      213: -8511462180474467226
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_169
+  - first:
+      213: 7651254638496190697
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_170
+  - first:
+      213: 4017060329045429876
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_171
+  - first:
+      213: -7680353706532715475
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_172
+  - first:
+      213: 4909156724685979964
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_173
+  - first:
+      213: 2207667679779126639
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_174
+  - first:
+      213: 7508569711659906963
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_175
+  - first:
+      213: -6923544450383375944
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_176
+  - first:
+      213: 7067153282940162555
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_177
+  - first:
+      213: -4467341041998201643
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_178
+  - first:
+      213: 4325380079206672422
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_179
+  - first:
+      213: 1165281741032739076
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_180
+  - first:
+      213: -7100952380812233858
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_181
+  - first:
+      213: -3846023882691734239
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_182
+  - first:
+      213: 335322532511843703
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_183
+  - first:
+      213: 6402030561558803823
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_184
+  - first:
+      213: -1101196897251758658
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_185
+  - first:
+      213: 3093880698283241477
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_186
+  - first:
+      213: 1945437853925134406
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_187
+  - first:
+      213: 1267412363551856393
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_188
+  - first:
+      213: -620223617639133316
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_189
+  - first:
+      213: -7296564306691751563
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_190
+  - first:
+      213: 7126986403572034879
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_191
+  - first:
+      213: 8774314992835531633
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_192
+  - first:
+      213: 8330410807817770749
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_193
+  - first:
+      213: -3053524813441975309
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_194
+  - first:
+      213: -3921509382850833372
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_195
+  - first:
+      213: -1467060798074162977
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_196
+  - first:
+      213: -2542156267331056228
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_197
+  - first:
+      213: -1253667479592219502
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_198
+  - first:
+      213: -9058257576584257646
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_199
+  - first:
+      213: 6554796884380620704
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_200
+  - first:
+      213: -7680046377173572824
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_201
+  - first:
+      213: -4572913176753040855
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_202
+  - first:
+      213: 2655204928243570271
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_203
+  - first:
+      213: -5887815709236481970
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_204
+  - first:
+      213: 5641514121948297021
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_205
+  - first:
+      213: -4922087925633745269
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_206
+  - first:
+      213: 2009861034029553016
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_207
+  - first:
+      213: -3197892602870042339
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_208
+  - first:
+      213: -3984046596342441085
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_209
+  - first:
+      213: -5459493624349171779
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_210
+  - first:
+      213: -2516082696037313444
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_211
+  - first:
+      213: 7495967709384901313
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_212
+  - first:
+      213: 12628805111098761
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_213
+  - first:
+      213: -6854360901974820761
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_214
+  - first:
+      213: -4792081572683635397
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_215
+  - first:
+      213: 5515020731140149394
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_216
+  - first:
+      213: -5083321406039430047
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_217
+  - first:
+      213: 4055725251871321100
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_218
+  - first:
+      213: 8971609348734471032
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_219
+  - first:
+      213: -7005486003857733540
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_220
+  - first:
+      213: -8749302784870091104
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_221
+  - first:
+      213: -3532607058507100363
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_222
+  - first:
+      213: 7634574612511777669
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_223
+  - first:
+      213: 7374942114773411426
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_224
+  - first:
+      213: 7461027520695609214
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_225
+  - first:
+      213: -3320993713887288198
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_226
+  - first:
+      213: 5560625412295351443
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_227
+  - first:
+      213: -6788422964755328398
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_228
+  - first:
+      213: 4312456474601443117
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_229
+  - first:
+      213: 2379954606620742355
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_230
+  - first:
+      213: 4456567542607057636
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_231
+  - first:
+      213: -3695308123184167786
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_232
+  - first:
+      213: -4679186135518086175
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_233
+  - first:
+      213: -708002235943127446
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_234
+  - first:
+      213: -3726884248811758226
+    second: Xbox 360 - Scott Pilgrim vs the World The Game - David-export_235
+  - first:
+      213: 2580713422433055924
+    second: David_0
+  - first:
+      213: -8772939947054047394
+    second: David_1
+  - first:
+      213: -2779556294450003728
+    second: David_2
+  - first:
+      213: 5360256127143493515
+    second: David_3
+  - first:
+      213: -6828341241718318131
+    second: David_4
+  - first:
+      213: 1589336968452737134
+    second: David_5
+  - first:
+      213: 3245586483583757755
+    second: David_6
+  - first:
+      213: 3497693106832057622
+    second: David_7
+  - first:
+      213: -7690655782080942911
+    second: David_8
+  - first:
+      213: -8013539821333201218
+    second: David_9
+  - first:
+      213: 6733359871149317744
+    second: David_10
+  - first:
+      213: 248141548222278070
+    second: David_11
+  - first:
+      213: -7838948360794031603
+    second: David_12
+  - first:
+      213: -9029928362074563155
+    second: David_13
+  - first:
+      213: -7097436524222176729
+    second: David_14
+  - first:
+      213: 3220620876120014463
+    second: David_15
+  - first:
+      213: -4217854966231230652
+    second: David_16
+  - first:
+      213: 3314551068437318961
+    second: David_17
+  - first:
+      213: -1159986971741410740
+    second: David_18
+  - first:
+      213: 1236137779814297074
+    second: David_19
+  - first:
+      213: 685482970457242471
+    second: David_20
+  - first:
+      213: -192891871028413256
+    second: David_21
+  - first:
+      213: 1446240109488433000
+    second: David_22
+  - first:
+      213: 8975635263908410906
+    second: David_23
+  - first:
+      213: -9001644799466096164
+    second: David_24
+  - first:
+      213: -6443364685456426906
+    second: David_25
+  - first:
+      213: 4438857323999791837
+    second: David_26
+  - first:
+      213: 5731880382962295098
+    second: David_27
+  - first:
+      213: 1798085104918449950
+    second: David_28
+  - first:
+      213: 6035370408218342512
+    second: David_29
+  - first:
+      213: 3907257453571266255
+    second: David_30
+  - first:
+      213: -7099532823433359914
+    second: David_31
+  - first:
+      213: -8840437591189357126
+    second: David_32
+  - first:
+      213: 2009991298877057721
+    second: David_33
+  - first:
+      213: -3283718386087383128
+    second: David_34
+  - first:
+      213: -6690055197934286291
+    second: David_35
+  - first:
+      213: 7764963990589732042
+    second: David_36
+  - first:
+      213: 1387530467990419813
+    second: David_37
+  - first:
+      213: 6855727117477782355
+    second: David_38
+  - first:
+      213: 1263828088084399294
+    second: David_39
+  - first:
+      213: 4910329579979193638
+    second: David_40
+  - first:
+      213: 7489527257137721351
+    second: David_41
+  - first:
+      213: 3230566115470353185
+    second: David_42
+  - first:
+      213: -3938724040233674369
+    second: David_43
+  - first:
+      213: -2587932137635492686
+    second: David_44
+  - first:
+      213: 3546324146699912251
+    second: David_45
+  - first:
+      213: 8300550327662149148
+    second: David_46
+  - first:
+      213: 1795068415898026999
+    second: David_47
+  - first:
+      213: 922820196555574757
+    second: David_48
+  - first:
+      213: -5468065866974408990
+    second: David_49
+  - first:
+      213: 7098452460592785308
+    second: David_50
+  - first:
+      213: -2902897489095760560
+    second: David_51
+  - first:
+      213: -3442101998582851017
+    second: David_52
+  - first:
+      213: 8581106133699380475
+    second: David_53
+  - first:
+      213: -8296419282172732973
+    second: David_54
+  - first:
+      213: 1158638353426942021
+    second: David_55
+  - first:
+      213: 7972054089221294133
+    second: David_56
+  - first:
+      213: -2468801067202812291
+    second: David_57
+  - first:
+      213: 1427957882260824543
+    second: David_58
+  - first:
+      213: -1653666834239697920
+    second: David_59
+  - first:
+      213: 5755096473908028204
+    second: David_60
+  - first:
+      213: -5445060208682552840
+    second: David_61
+  - first:
+      213: 5868226036134687220
+    second: David_62
+  - first:
+      213: 2897545079657117737
+    second: David_63
+  - first:
+      213: 6542151929070620296
+    second: David_64
+  - first:
+      213: 8740324542753160044
+    second: David_65
+  - first:
+      213: 4430804475452392941
+    second: David_66
+  - first:
+      213: -315476965183243193
+    second: David_67
+  - first:
+      213: -7052809768059150317
+    second: David_68
+  - first:
+      213: -3439528581391656147
+    second: David_69
+  - first:
+      213: 3331928678736295773
+    second: David_70
+  - first:
+      213: 4333117793179245211
+    second: David_71
+  - first:
+      213: -7931677213702569794
+    second: David_72
+  - first:
+      213: 3754552342498232135
+    second: David_73
+  - first:
+      213: 1875414769799533298
+    second: David_74
+  - first:
+      213: -2016355123976645865
+    second: David_75
+  - first:
+      213: 7945457126906276061
+    second: David_76
+  - first:
+      213: 6443367155631790789
+    second: David_77
+  - first:
+      213: -5154868050835247700
+    second: David_78
+  - first:
+      213: 4639250182862430963
+    second: David_79
+  - first:
+      213: -9159880304716398453
+    second: David_80
+  - first:
+      213: -3066102069613350585
+    second: David_81
+  - first:
+      213: -5175708471758323116
+    second: David_82
+  - first:
+      213: -2159635077857607512
+    second: David_83
+  - first:
+      213: 3171626766188297245
+    second: David_84
+  - first:
+      213: 317179420234400595
+    second: David_85
+  - first:
+      213: 1772124161475281820
+    second: David_86
+  - first:
+      213: 2412135980175758771
+    second: David_87
+  - first:
+      213: -909185674285649496
+    second: David_88
+  - first:
+      213: -4947243608710645113
+    second: David_89
+  - first:
+      213: -4614876349816476798
+    second: David_90
+  - first:
+      213: -4103344690145115337
+    second: David_91
+  - first:
+      213: 262397373506831074
+    second: David_92
+  - first:
+      213: -4826751988648623404
+    second: David_93
+  - first:
+      213: -8358037005722645704
+    second: David_94
+  - first:
+      213: -6152447900291047590
+    second: David_95
+  - first:
+      213: 5884750594887641690
+    second: David_96
+  - first:
+      213: -6401846439586503974
+    second: David_97
+  - first:
+      213: -5221373308725902278
+    second: David_98
+  - first:
+      213: 6902174064942268031
+    second: David_99
+  - first:
+      213: 7055140235627446782
+    second: David_100
+  - first:
+      213: -5532705203892576957
+    second: David_101
+  - first:
+      213: 6684018617139676087
+    second: David_102
+  - first:
+      213: -2090420752848521816
+    second: David_103
+  - first:
+      213: -7816399758075567789
+    second: David_104
+  - first:
+      213: -5727695156947572826
+    second: David_105
+  - first:
+      213: -8956830022302510896
+    second: David_106
+  - first:
+      213: 7162248318176263871
+    second: David_107
+  - first:
+      213: -7687990731176034374
+    second: David_108
+  - first:
+      213: -8816133810244413936
+    second: David_109
+  - first:
+      213: 7874664243260141189
+    second: David_110
+  - first:
+      213: 7696410027604096945
+    second: David_111
+  - first:
+      213: 4118995313048405253
+    second: David_112
+  - first:
+      213: 6370047190531946447
+    second: David_113
+  - first:
+      213: 2410939192716535334
+    second: David_114
+  - first:
+      213: 8552252870684036627
+    second: David_115
+  - first:
+      213: -8497135630429221722
+    second: David_116
+  - first:
+      213: -1245480582321912057
+    second: David_117
+  - first:
+      213: -68141582764702863
+    second: David_118
+  - first:
+      213: -2147295533706021632
+    second: David_119
+  - first:
+      213: -7479342177171974101
+    second: David_120
+  - first:
+      213: -272067949259346498
+    second: David_121
+  - first:
+      213: -4269910114718924771
+    second: David_122
+  - first:
+      213: 2429806605060037095
+    second: David_123
+  - first:
+      213: -5425022615567979004
+    second: David_124
+  - first:
+      213: -8543579862186762836
+    second: David_125
+  - first:
+      213: -6153180946407943178
+    second: David_126
+  - first:
+      213: 4507746229918927778
+    second: David_127
+  - first:
+      213: -3861717998982715954
+    second: David_128
+  - first:
+      213: -2023278687369775498
+    second: David_129
+  - first:
+      213: 1894937777333389376
+    second: David_130
+  - first:
+      213: -4075896325242083675
+    second: David_131
+  - first:
+      213: -6098385956197625809
+    second: David_132
+  - first:
+      213: -810072917353161015
+    second: David_133
+  - first:
+      213: 592948476820355580
+    second: David_134
+  - first:
+      213: -1086702341731764391
+    second: David_135
+  - first:
+      213: -1018732854154687812
+    second: David_136
+  - first:
+      213: -2314561391352355771
+    second: David_137
+  - first:
+      213: 8801487808715616112
+    second: David_138
+  - first:
+      213: -7265973945123624398
+    second: David_139
+  - first:
+      213: -2971401286497715265
+    second: David_140
+  - first:
+      213: 4740433652455406170
+    second: David_141
+  - first:
+      213: 9007740568819474161
+    second: David_142
+  - first:
+      213: 5244114970065111039
+    second: David_143
+  - first:
+      213: -7267442734682186581
+    second: David_144
+  - first:
+      213: 5327161604869031227
+    second: David_145
+  - first:
+      213: 6936960907712590211
+    second: David_146
+  - first:
+      213: -5878857922135953576
+    second: David_147
+  - first:
+      213: -623080474506290156
+    second: David_148
+  - first:
+      213: -668944925041789600
+    second: David_149
+  - first:
+      213: -5458012791335152871
+    second: David_150
+  - first:
+      213: -7132294353216930617
+    second: David_151
+  - first:
+      213: -2395926160849986879
+    second: David_152
+  - first:
+      213: -8756159057753490483
+    second: David_153
+  - first:
+      213: -4812472448523142045
+    second: David_154
+  - first:
+      213: 3248203907393293349
+    second: David_155
+  - first:
+      213: 3638537905919005072
+    second: David_156
+  - first:
+      213: -2346478478677555370
+    second: David_157
+  - first:
+      213: -7611091744291028092
+    second: David_158
+  - first:
+      213: 7290408310969720338
+    second: David_159
+  - first:
+      213: -6289403981574107712
+    second: David_160
+  - first:
+      213: 2999682053735075857
+    second: David_161
+  - first:
+      213: -8947115040093476555
+    second: David_162
+  - first:
+      213: -5080040936331869139
+    second: David_163
+  - first:
+      213: -2915763064023925538
+    second: David_164
+  - first:
+      213: 1583266250693692213
+    second: David_165
+  - first:
+      213: 315598576658900044
+    second: David_166
+  - first:
+      213: 2565627334744284101
+    second: David_167
+  - first:
+      213: -3607713821051914304
+    second: David_168
+  - first:
+      213: 3062350274660267012
+    second: David_169
+  - first:
+      213: 8066299829714202937
+    second: David_170
+  - first:
+      213: -5483699669951211516
+    second: David_171
+  - first:
+      213: 4852974903448044862
+    second: David_172
+  - first:
+      213: -5752049601927678349
+    second: David_173
+  - first:
+      213: 7475089531402502853
+    second: David_174
+  - first:
+      213: 4804829204174022544
+    second: David_175
+  - first:
+      213: 7346475178524433535
+    second: David_176
+  - first:
+      213: 1784743741054843510
+    second: David_177
+  - first:
+      213: 2152908747472307023
+    second: David_178
+  - first:
+      213: 8166244809241586458
+    second: David_179
+  - first:
+      213: 8832584725293837651
+    second: David_180
+  - first:
+      213: 8053637967159610360
+    second: David_181
+  - first:
+      213: -6952727147159127548
+    second: David_182
+  - first:
+      213: 155665140405371323
+    second: David_183
+  - first:
+      213: 45633901112891961
+    second: David_184
+  - first:
+      213: -1531237754311080568
+    second: David_185
+  - first:
+      213: 5254062038995595631
+    second: David_186
+  - first:
+      213: 6702032114019962048
+    second: David_187
+  - first:
+      213: -1737474111489792729
+    second: David_188
+  - first:
+      213: 8951673539947204759
+    second: David_189
+  - first:
+      213: -6203673459680605059
+    second: David_190
+  - first:
+      213: 3452199305166462872
+    second: David_191
+  - first:
+      213: -7670509856326351456
+    second: David_192
+  - first:
+      213: -6775435753262695194
+    second: David_193
+  - first:
+      213: 4330417326929719527
+    second: David_194
+  - first:
+      213: 4892451431551593832
+    second: David_195
+  - first:
+      213: 7365427106029344298
+    second: David_196
+  - first:
+      213: -8828326834639601110
+    second: David_197
+  - first:
+      213: 2356831604734933116
+    second: David_198
+  - first:
+      213: 6897659915369035172
+    second: David_199
+  - first:
+      213: -1209367734840797141
+    second: David_200
+  - first:
+      213: 7109939834652266958
+    second: David_201
+  - first:
+      213: -2490740838305195482
+    second: David_202
+  - first:
+      213: -271745253108739345
+    second: David_203
+  - first:
+      213: 6925976964915703356
+    second: David_204
+  - first:
+      213: -8384947562927213408
+    second: David_205
+  - first:
+      213: 4886301651340686167
+    second: David_206
+  - first:
+      213: 3251014336091202660
+    second: David_207
+  - first:
+      213: -649825291671314710
+    second: David_208
+  - first:
+      213: -349110148806419070
+    second: David_209
+  - first:
+      213: -5483938723343987340
+    second: David_210
+  - first:
+      213: 3223657885283761684
+    second: David_211
+  - first:
+      213: 8031034563661868963
+    second: David_212
+  - first:
+      213: 6132097357444197491
+    second: David_213
+  - first:
+      213: -2204583224898543622
+    second: David_214
+  - first:
+      213: 2538389545116001433
+    second: David_215
+  - first:
+      213: 252657997719811120
+    second: David_216
+  - first:
+      213: -3064930944247624931
+    second: David_217
+  - first:
+      213: -7167500636660311806
+    second: David_218
+  - first:
+      213: -1949735682533961864
+    second: David_219
+  - first:
+      213: 4420349471682021639
+    second: David_220
+  - first:
+      213: -309860379276966042
+    second: David_221
+  - first:
+      213: -4609693816405215223
+    second: David_222
+  - first:
+      213: -8852703903089072168
+    second: David_223
+  - first:
+      213: -7846378434028861588
+    second: David_224
+  - first:
+      213: 4517653322743340979
+    second: David_225
+  - first:
+      213: -6653935674967533690
+    second: David_226
+  - first:
+      213: 765613816699896664
+    second: David_227
+  - first:
+      213: -8383455773218831066
+    second: David_228
+  - first:
+      213: 8500948900863649909
+    second: David_229
+  - first:
+      213: -1763991388247543707
+    second: David_230
+  - first:
+      213: -5868327205002173057
+    second: David_231
+  - first:
+      213: 7803201227483569785
+    second: David_232
+  - first:
+      213: -8514553197935345687
+    second: David_233
+  - first:
+      213: 2529629145849030893
+    second: David_234
+  - first:
+      213: -4544601242136669866
+    second: David_235
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: David_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1738
+        width: 43
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4546be89beeb65c43a0830d859580868
+      internalID: 2580713422433055924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1738
+        width: 44
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23fdea76a9cfcf64eb6a8ba97134a380
+      internalID: -8772939947054047394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1738
+        width: 44
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e44f7b4f164d6a4da46a91367359187
+      internalID: -2779556294450003728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1738
+        width: 43
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd31e0173c8829441bc5d0acfc84dff7
+      internalID: 5360256127143493515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1738
+        width: 43
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0327cb054b8a8b14ab32f5d617c23021
+      internalID: -6828341241718318131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1738
+        width: 43
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82b609ff018492409ed0864d28bf8e4
+      internalID: 1589336968452737134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_6
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1738
+        width: 43
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592dcdfa8fbf5354daec9e64189fd939
+      internalID: 3245586483583757755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1738
+        width: 43
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7430e1a9d49e649bbbf592c27d3f0a
+      internalID: 3497693106832057622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_8
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1738
+        width: 40
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92e6195c8fe5a048934a5f6d077311d
+      internalID: -7690655782080942911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_9
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1738
+        width: 40
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9758119471ca5049afa84fb6db378d7
+      internalID: -8013539821333201218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_10
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1738
+        width: 40
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d300f573a967f4446ab251cd312469fb
+      internalID: 6733359871149317744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_11
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1738
+        width: 40
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de93b33e4636dd247b3a62a748f3d67c
+      internalID: 248141548222278070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1670
+        width: 41
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ad97851d226a845bec1a830f66a9ce
+      internalID: -7838948360794031603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_13
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1671
+        width: 41
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4976e45cbaf22ab46ada2425077c9a8f
+      internalID: -9029928362074563155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_14
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1671
+        width: 43
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92291b4d0b0c17841b8df7e3128c5cd4
+      internalID: -7097436524222176729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_15
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1672
+        width: 45
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d313cbb007a80b459b139185f4b9a2d
+      internalID: 3220620876120014463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_16
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1670
+        width: 43
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb793ed397ff4b84abf138a81b39d035
+      internalID: -4217854966231230652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_17
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1670
+        width: 41
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcb2a2985aa6e64f9731253e65c0caf
+      internalID: 3314551068437318961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_18
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1670
+        width: 39
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfed227d5aba1544c91e503da6f55cc6
+      internalID: -1159986971741410740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_19
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1671
+        width: 39
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cbe9e2e0d157841a696901b342c28e
+      internalID: 1236137779814297074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_20
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1671
+        width: 40
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3128168eda10104ab1d01a2a2c826a7
+      internalID: 685482970457242471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_21
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1672
+        width: 40
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e507daaacd5cc43a9aa343ed9ca8cf
+      internalID: -192891871028413256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_22
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1670
+        width: 38
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1092dcc84630fd84d823154c17b9f3da
+      internalID: 1446240109488433000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_23
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1670
+        width: 38
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7001f55d9a6614ab9f0791f8eb4141
+      internalID: 8975635263908410906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_24
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1670
+        width: 40
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8936c6268ace8584ebe4b8d1069c4d41
+      internalID: -9001644799466096164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_25
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1671
+        width: 40
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790d2f9a28e87ed488b0f507e7a35101
+      internalID: -6443364685456426906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_26
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1671
+        width: 41
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c564ab269b218a4d9e1154e9aab1ba3
+      internalID: 4438857323999791837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_27
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1672
+        width: 42
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e80727d7c57e324491783c107b289c4
+      internalID: 5731880382962295098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_28
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1670
+        width: 41
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5addc1d35c137074f887cd1fc3e60847
+      internalID: 1798085104918449950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_29
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1670
+        width: 40
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb24f808d2a060941b35f2676d67898f
+      internalID: 6035370408218342512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_30
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1605
+        width: 50
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b02ed5d01b631045b46096a5dd6441c
+      internalID: 3907257453571266255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_31
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1603
+        width: 47
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df059e5ce844e31468b795cb72b1a3d4
+      internalID: -7099532823433359914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_32
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1600
+        width: 37
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9d53ff859048b4589f7005946f487b
+      internalID: -8840437591189357126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_33
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1600
+        width: 37
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75e869ad12eb7d4bb6524f6f9d10ab7
+      internalID: 2009991298877057721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_34
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1605
+        width: 49
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15966e15412d894c8b10dd306dd7bf7
+      internalID: -3283718386087383128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_35
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1603
+        width: 43
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd18560e170c234fbbe38574e6257d1
+      internalID: -6690055197934286291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_36
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1602
+        width: 37
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c567287262226a4295d7ecec769b029
+      internalID: 7764963990589732042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_37
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1602
+        width: 35
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389a2f29acb145d48ae05790aba5d82b
+      internalID: 1387530467990419813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_38
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1605
+        width: 46
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba256736c90925843868fd54dab3caeb
+      internalID: 6855727117477782355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_39
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1603
+        width: 45
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af09ead64b8c4e942b3932d736bf17a9
+      internalID: 1263828088084399294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_40
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1600
+        width: 44
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9457a79a63497445821a5411402a816
+      internalID: 4910329579979193638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_41
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1600
+        width: 43
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfddcba3943c94344aa0fad921a074be
+      internalID: 7489527257137721351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_42
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1605
+        width: 48
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411d99ccc27fd584f86518e441449d7a
+      internalID: 3230566115470353185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_43
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1603
+        width: 46
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ed0016617bb26498523107f4003aed
+      internalID: -3938724040233674369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_44
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1602
+        width: 44
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d18c9d131b52b46a448c14e7891a46
+      internalID: -2587932137635492686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_45
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1602
+        width: 43
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174dc69c289e6fd45ac1423d5199f325
+      internalID: 3546324146699912251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_46
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1605
+        width: 45
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e9ee9a52e5d9841957e61eb6e0e4a6
+      internalID: 8300550327662149148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_47
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1603
+        width: 42
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9400c66aa137bd4479e4b50299fec41e
+      internalID: 1795068415898026999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_48
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1600
+        width: 42
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4289d292ee9180343a9daa6dad1b7dae
+      internalID: 922820196555574757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_49
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 1600
+        width: 42
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13961df22e4e68c4c9fadcaae14801c5
+      internalID: -5468065866974408990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_50
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 1605
+        width: 47
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093ed6c23f24e4048b13474956c8b6ca
+      internalID: 7098452460592785308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_51
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1603
+        width: 45
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783540854b571934fa5d00f10a965637
+      internalID: -2902897489095760560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_52
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1601
+        width: 42
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab4e696ea6c7a847869a687ffe2cdef
+      internalID: -3442101998582851017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_53
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1602
+        width: 41
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb4aa5a45850044c9bbc0b77161d281
+      internalID: 8581106133699380475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_54
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1516
+        width: 42
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8bf99ce6f4d9f439bac48266cfdc45
+      internalID: -8296419282172732973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_55
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1531
+        width: 54
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63b6b7b297873a41a515389f8c14cd9
+      internalID: 1158638353426942021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_56
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1531
+        width: 55
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7141ada9323398b4bacbcb510a4a1062
+      internalID: 7972054089221294133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_57
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1531
+        width: 54
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87a89b0157883f4c90bc36e2316072f
+      internalID: -2468801067202812291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_58
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1529
+        width: 53
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9d946af5e96604c9e9f34c9eeec202
+      internalID: 1427957882260824543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_59
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1529
+        width: 53
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d053c70b268d7f6409fd0acb777050a2
+      internalID: -1653666834239697920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_60
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1526
+        width: 54
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de66eea346230ee4485495155d8a7fa3
+      internalID: 5755096473908028204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_61
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1526
+        width: 54
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c5474026cdb2543b057f8e1711f032
+      internalID: -5445060208682552840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_62
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1526
+        width: 54
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6433cb2b00b9d2f47a2e9048ab4721dd
+      internalID: 5868226036134687220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_63
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1516
+        width: 41
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9d73aafc1e8c14a8a1044a3290be47
+      internalID: 2897545079657117737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_64
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1452
+        width: 40
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb76d8b591bb074188bd2dd320a54f9
+      internalID: 6542151929070620296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_65
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1452
+        width: 68
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e2bdb2b35dbe541b4422e58da14cf6
+      internalID: 8740324542753160044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_66
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1452
+        width: 65
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ffd3794a1e541498727fa612c1df7a
+      internalID: 4430804475452392941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_67
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1452
+        width: 55
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db23219886e388042a8bdea63b707151
+      internalID: -315476965183243193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_68
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1452
+        width: 45
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9085cf2a9a9014fb497fccf6105471
+      internalID: -7052809768059150317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_69
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1452
+        width: 67
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a547e380e139f334684c038ead259994
+      internalID: -3439528581391656147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_70
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1452
+        width: 64
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75303bdf86fe5e14582c6a4f3e956168
+      internalID: 3331928678736295773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_71
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1452
+        width: 42
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231cb245c33196a4f846b32ee3091dd7
+      internalID: 4333117793179245211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_72
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1385
+        width: 38
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ba0edd083d59148ac7eb61357b0650
+      internalID: -7931677213702569794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_73
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1385
+        width: 39
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f44e38873f6226439d1d1f8835b3bbe
+      internalID: 3754552342498232135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_74
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1385
+        width: 70
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3aeb99a68139b4e98100699d78f470
+      internalID: 1875414769799533298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_75
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1385
+        width: 68
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7607849b8cf73e4a9ed9ba57496c78a
+      internalID: -2016355123976645865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_76
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1385
+        width: 67
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2ccbafb7c1c4045afee55546ea5481
+      internalID: 7945457126906276061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_77
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1385
+        width: 52
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3e03c9e94144546bcf1b839d7850e8
+      internalID: 6443367155631790789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_78
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1385
+        width: 46
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19780f5bbbf43484f8be701fa717a1ee
+      internalID: -5154868050835247700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_79
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1311
+        width: 51
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067e0b4790387b643be6d73527fa3e92
+      internalID: 4639250182862430963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_80
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1314
+        width: 39
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13818cf36044ef4396351243fc0aa94
+      internalID: -9159880304716398453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_81
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1319
+        width: 36
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a9b5ecbe2535f42ab8b8d1eab653e6
+      internalID: -3066102069613350585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_82
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1319
+        width: 65
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec3238062524cf4c8719ce136d00c99
+      internalID: -5175708471758323116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_83
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1316
+        width: 41
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9792f0d21303344479bfbf4c95cdcafe
+      internalID: -2159635077857607512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_84
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1313
+        width: 40
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef26fb2ac98c244da736f35ad30edff
+      internalID: 3171626766188297245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_85
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1311
+        width: 41
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a77a9308b4a4e4eaa956cf460b86dd
+      internalID: 317179420234400595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_86
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1252
+        width: 44
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006cb713b878a8e41a5f5f0614b9577c
+      internalID: 1772124161475281820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_87
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1252
+        width: 44
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6baa6c3e082bd48b84dbaa511f4234
+      internalID: 2412135980175758771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_88
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1248
+        width: 57
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d8574db20f87c48ba2823081599dee
+      internalID: -909185674285649496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_89
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1246
+        width: 44
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7e695dd40e4d0448866d7301b69d5f
+      internalID: -4947243608710645113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_90
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1246
+        width: 43
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f00ce6e0fd288641a38c9f0ae1a02bb
+      internalID: -4614876349816476798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_91
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1177
+        width: 46
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fe60b6841b6d0439f31deceb1f6e38
+      internalID: -4103344690145115337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_92
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1183
+        width: 37
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800d84e5ead306d49aae60a4d4d6af99
+      internalID: 262397373506831074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_93
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1188
+        width: 29
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ebca09fe6ae824f82cfead7968779d
+      internalID: -4826751988648623404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_94
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1185
+        width: 63
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab4caa452dd9f343a22f968e5f5a7df
+      internalID: -8358037005722645704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_95
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1185
+        width: 57
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa95119b330e3584da5673bf4225d03f
+      internalID: -6152447900291047590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_96
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1098
+        width: 38
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7200554ed4f1a9a4bb6b584a69d8a4b2
+      internalID: 5884750594887641690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_97
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1098
+        width: 45
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90bdfa421d65ef448e8e6b18b3141fb
+      internalID: -6401846439586503974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_98
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1098
+        width: 44
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71508ae262c5a0d45825d77af578f137
+      internalID: -5221373308725902278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_99
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1098
+        width: 35
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031ad0ff3336c9b4ab0be6615e252d3b
+      internalID: 6902174064942268031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_100
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1098
+        width: 32
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a36616ae5f397443a0a26e110c630f7
+      internalID: 7055140235627446782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_101
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1098
+        width: 31
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b94c25cddc7dd488acd951f070e1ed
+      internalID: -5532705203892576957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_102
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1098
+        width: 30
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38dc937e1739b964b84943b0f7dd9bf1
+      internalID: 6684018617139676087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_103
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1098
+        width: 34
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587f9245efe69ff4bb735c3e56db817d
+      internalID: -2090420752848521816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_104
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1030
+        width: 44
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa0045b011d78c4f96aa732bad75d3d
+      internalID: -7816399758075567789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_105
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1030
+        width: 43
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6cdd4417dce04744b399ddc9836c629
+      internalID: -5727695156947572826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_106
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1030
+        width: 43
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f36d00b71e942b498901556e92f195a
+      internalID: -8956830022302510896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_107
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1030
+        width: 49
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0caead83070939e4087b71d9fe89379b
+      internalID: 7162248318176263871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_108
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1030
+        width: 44
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1490cefd52af9bb458e852c12dbc608b
+      internalID: -7687990731176034374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_109
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 962
+        width: 50
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62464cf52c22f21488ffefd628792046
+      internalID: -8816133810244413936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_110
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 962
+        width: 49
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c68b14038535f41b11403c5b17d8bf
+      internalID: 7874664243260141189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_111
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 962
+        width: 42
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d22917b330aed4eb9fbf88e5b7de21
+      internalID: 7696410027604096945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_112
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 962
+        width: 45
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7649fb9c9b4ff244ca737d0e999fda20
+      internalID: 4118995313048405253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_113
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 962
+        width: 40
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8552a9596ade41548a6b96e6b411e46e
+      internalID: 6370047190531946447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_114
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 962
+        width: 40
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8a8c827ee2afe4baeda837481d688d
+      internalID: 2410939192716535334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_115
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 962
+        width: 70
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80af8823bfe9a2498cbaf244824ba31
+      internalID: 8552252870684036627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_116
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 962
+        width: 64
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6970dff67a2d02478fc606461850240
+      internalID: -8497135630429221722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_117
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 894
+        width: 51
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2b94520c46a4f4b8f027dd05d96cfb
+      internalID: -1245480582321912057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_118
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 894
+        width: 39
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba4198343cd1ac4ea30b42a0687bbdf
+      internalID: -68141582764702863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_119
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 894
+        width: 47
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c1e96e037e0a14ea20563813a6b618
+      internalID: -2147295533706021632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_120
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 894
+        width: 41
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5b87b5a4be4b44c8f9e22890ab9d42
+      internalID: -7479342177171974101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_121
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 894
+        width: 40
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4933b83e01f85c4faf6114287331693
+      internalID: -272067949259346498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_122
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 829
+        width: 44
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7066982edf90a3c4e9bb8db3fd3455cc
+      internalID: -4269910114718924771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_123
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 829
+        width: 44
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13fdf5a2adf4bd488b5d9c073ab1978
+      internalID: 2429806605060037095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_124
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 829
+        width: 58
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40b1245facf84b4e9db4f0609788b4d
+      internalID: -5425022615567979004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_125
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 829
+        width: 55
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d93743de752a442bd7c7cda0906370
+      internalID: -8543579862186762836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_126
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 829
+        width: 45
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8fa6756f0ac0347a9820ac386faf99
+      internalID: -6153180946407943178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_127
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 829
+        width: 40
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8efd32c528b5c64b9324481f568810c
+      internalID: 4507746229918927778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_128
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 829
+        width: 41
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9910614af12db4d981ee06c324b934
+      internalID: -3861717998982715954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_129
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 829
+        width: 40
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7937610d96ea74caa52c46bf85159a
+      internalID: -2023278687369775498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_130
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 829
+        width: 68
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd49b5b18274fa459c7f529ef56d5b6
+      internalID: 1894937777333389376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_131
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 829
+        width: 63
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa41e2729e386af4e81368cef67eb19f
+      internalID: -4075896325242083675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_132
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 829
+        width: 49
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dede9fd63c46dc04f862a7502aecfb4a
+      internalID: -6098385956197625809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_133
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 829
+        width: 37
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f7b61050b06c341a72ee9f53fbfecb
+      internalID: -810072917353161015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_134
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 755
+        width: 49
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bb8eefa32222048a6445f2d649dbf3
+      internalID: 592948476820355580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_135
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 755
+        width: 47
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b17006d746837346938eb922f952b18
+      internalID: -1086702341731764391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_136
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 757
+        width: 57
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190ab9838459d284d82aaad47b1c7ae4
+      internalID: -1018732854154687812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_137
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 757
+        width: 53
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbaa4cacce600734bb23d7e172804799
+      internalID: -2314561391352355771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_138
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 757
+        width: 44
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc67223069381a4b9b58e2ea1a8f6e2
+      internalID: 8801487808715616112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_139
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 755
+        width: 41
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c37567b1209954f92d7dee0ff628b9
+      internalID: -7265973945123624398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_140
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 755
+        width: 51
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4bb04606710cee49bc590101cf91f8d
+      internalID: -2971401286497715265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_141
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 755
+        width: 54
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37dfd0931ba6e6b4f902485b894c356e
+      internalID: 4740433652455406170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_142
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 767
+        width: 49
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b58cdd506f43994ca4fd76c308a28d3
+      internalID: 9007740568819474161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_143
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 767
+        width: 50
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9abe2c6cd8cf24c98ca73d6277d08f
+      internalID: 5244114970065111039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_144
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 765
+        width: 39
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f166671ec77c2f14ba3a531699417359
+      internalID: -7267442734682186581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_145
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 756
+        width: 36
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5440c28e91d5f94429f9c945e275093b
+      internalID: 5327161604869031227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_146
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 755
+        width: 42
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6798506b7406c45418aebaf28764ae14
+      internalID: 6936960907712590211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_147
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 690
+        width: 40
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4695028c55942f64288355969c5390a0
+      internalID: -5878857922135953576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_148
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 690
+        width: 40
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25fa2f64012a9884890583079afb2305
+      internalID: -623080474506290156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_149
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 690
+        width: 40
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3cf5e29d4563a4ab4dfbfa0e22445d
+      internalID: -668944925041789600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_150
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 623
+        width: 50
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47484142ff681e64eb69f46f3673228e
+      internalID: -5458012791335152871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_151
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 623
+        width: 49
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b56253e7d49f5646b3335aae5dc9b13
+      internalID: -7132294353216930617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_152
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 623
+        width: 50
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4e928299a70a746be1ab8e25cb61e1
+      internalID: -2395926160849986879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_153
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 623
+        width: 56
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c6bb4ac26d0dc4cb3f60a50ef08521
+      internalID: -8756159057753490483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_154
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 623
+        width: 55
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0810c7daf627074c9a1978dbb98880e
+      internalID: -4812472448523142045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_155
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 623
+        width: 47
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b579d88cb2d2134f8a8f04d92d8fb69
+      internalID: 3248203907393293349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_156
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 623
+        width: 46
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94800f5d8aedb784aa8f9f5c4f9cfb3b
+      internalID: 3638537905919005072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_157
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 534
+        width: 40
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e70ef7cc10a604eae95c2524341afa
+      internalID: -2346478478677555370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_158
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 546
+        width: 58
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affdbe77a971fff4dbcc50c334b68aef
+      internalID: -7611091744291028092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_159
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 555
+        width: 68
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2858e120b13e2714e846747d3e16eb74
+      internalID: 7290408310969720338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_160
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 571
+        width: 65
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092355b0e20aa634ebcaad09be2db37a
+      internalID: -6289403981574107712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_161
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 569
+        width: 63
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e43a13c814f8a429f5e64a2f68edb7
+      internalID: 2999682053735075857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_162
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 559
+        width: 53
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d422c7fb5be3145b42dff68e7351d7
+      internalID: -8947115040093476555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_163
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 537
+        width: 46
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e314a62e2e19af45850252e9c857cda
+      internalID: -5080040936331869139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_164
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 539
+        width: 61
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c7aa3175733ba4c9dea2a3377c5a5c
+      internalID: -2915763064023925538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_165
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 542
+        width: 65
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fd42ccd23adfb4d9a32907d3caa36d
+      internalID: 1583266250693692213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_166
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 536
+        width: 67
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75d2d4378b7480429f1c379ad95a9de
+      internalID: 315598576658900044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_167
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 542
+        width: 66
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8c727a4f3201f4bb990828ffaf8b11
+      internalID: 2565627334744284101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_168
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 537
+        width: 62
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e8f8b76fe198e4ab240fc10bd98e78
+      internalID: -3607713821051914304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_169
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 536
+        width: 69
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2c2cdfefd3d724fa56f20e2142f4b2
+      internalID: 3062350274660267012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_170
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 537
+        width: 70
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b7788b61f118d499b78cd1018d3143
+      internalID: 8066299829714202937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_171
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 468
+        width: 60
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1769b8d59f9f2d42a222833ce61e705
+      internalID: -5483699669951211516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_172
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 468
+        width: 52
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a195e9e4cc9e704c85f9e8250db3270
+      internalID: 4852974903448044862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_173
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 468
+        width: 54
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c6c123fedf0e947b19c70cf89b0495
+      internalID: -5752049601927678349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_174
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 468
+        width: 57
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5ada687efdf9b4c9d1e2d974e13e0d
+      internalID: 7475089531402502853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_175
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 468
+        width: 50
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326ccd2511dcc844eafdd2e035daf8ac
+      internalID: 4804829204174022544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_176
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 468
+        width: 43
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c45579a4d525534bace74aab283edcd
+      internalID: 7346475178524433535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_177
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 468
+        width: 43
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2cc75d10db2a44795b2a4ce66f366c
+      internalID: 1784743741054843510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_178
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 468
+        width: 43
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca489cb9e2a4df746ab2c457aa04ad68
+      internalID: 2152908747472307023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_179
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 426
+        width: 71
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae72a9e9c8489bd4cbc37049e0f8b2f9
+      internalID: 8166244809241586458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_180
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 427
+        width: 71
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bde319c4818f214da28f647989db966
+      internalID: 8832584725293837651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_181
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 427
+        width: 71
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a87f2dd72281b4f89f48e3c82bdaa3
+      internalID: 8053637967159610360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_182
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 427
+        width: 70
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06cded093dc63274fb93e3ffd3283c69
+      internalID: -6952727147159127548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_183
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 356
+        width: 46
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0a6ffec80a3164bad93feab156e22e
+      internalID: 155665140405371323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_184
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 353
+        width: 42
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf53c4736def5d24c8e8a7d7f3be1733
+      internalID: 45633901112891961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_185
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 353
+        width: 43
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f6b197f11d1ed43b74fc7d60abbdb4
+      internalID: -1531237754311080568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_186
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 354
+        width: 40
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc59f1240ee0f74a8e448465c2fc947
+      internalID: 5254062038995595631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_187
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 357
+        width: 45
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78558da42c69da54fabfb458fd9b6a25
+      internalID: 6702032114019962048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_188
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 353
+        width: 42
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d009d7201fad0404e8d3f4a4f4f5f780
+      internalID: -1737474111489792729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_189
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 353
+        width: 43
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8832e2f0e06f747418d1a66a66ceda8e
+      internalID: 8951673539947204759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_190
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 361
+        width: 45
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aaa3fe1d85cb39449c139999d588576
+      internalID: -6203673459680605059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_191
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 359
+        width: 46
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a274c9c512f799843aa8a1d3bd35f7bf
+      internalID: 3452199305166462872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_192
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 355
+        width: 40
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6ab732617157b4fb24da46b2570978
+      internalID: -7670509856326351456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_193
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 371
+        width: 64
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7a45dda9365e8469a8b5e5c1464643
+      internalID: -6775435753262695194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_194
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 317
+        width: 69
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69670e8732b5ca84fa0ff7a477f865da
+      internalID: 4330417326929719527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_195
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 316
+        width: 69
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de336c15c009c484fbb4eb3e150016f7
+      internalID: 4892451431551593832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_196
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 314
+        width: 69
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3e51601dece4a44982723d1327e213
+      internalID: 7365427106029344298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_197
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 290
+        width: 46
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906a8a7d4dec832499a58ff024b40ae2
+      internalID: -8828326834639601110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_198
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 290
+        width: 60
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155ff33eebf58834ab92c091de96ba84
+      internalID: 2356831604734933116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_199
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 280
+        width: 55
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7b1d11177cc604e8a30df7dfdfbd47
+      internalID: 6897659915369035172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_200
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 294
+        width: 67
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fea7c768f57994b96f60eb6fd946c9
+      internalID: -1209367734840797141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_201
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 317
+        width: 69
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996736a412aa8a34392876d7f274348f
+      internalID: 7109939834652266958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_202
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 316
+        width: 69
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0994a3c6b0bda428e98e2803892a4d
+      internalID: -2490740838305195482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_203
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 314
+        width: 69
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834f52bdbb8d1884283d472993c9269d
+      internalID: -271745253108739345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_204
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 290
+        width: 46
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561ea48a8136cac48b435779d7900b41
+      internalID: 6925976964915703356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_205
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 290
+        width: 60
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23255ca9501f034d8300a2a8764d1b5
+      internalID: -8384947562927213408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_206
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 280
+        width: 55
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a973eca958aa0e64b9413be0e2ffaa39
+      internalID: 4886301651340686167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_207
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 213
+        width: 42
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41387fc1369c384b921883f1a21b50e
+      internalID: 3251014336091202660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_208
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 213
+        width: 42
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05416d318d7c2034aad450f647414e97
+      internalID: -649825291671314710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_209
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 213
+        width: 42
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a08be1b50b05924b83b9d0663cad387
+      internalID: -349110148806419070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_210
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 213
+        width: 42
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812aa4ca8b4a24549b03c9749fbe0d86
+      internalID: -5483938723343987340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_211
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 213
+        width: 42
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71624a4ce6ed57f439b48ed7be99191b
+      internalID: 3223657885283761684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_212
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 213
+        width: 44
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b1e4b1d582cbc4785d78c29a24a67c
+      internalID: 8031034563661868963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_213
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 213
+        width: 43
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99bdbb396ff707439dec611144c5757
+      internalID: 6132097357444197491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_214
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 213
+        width: 42
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14f743446b9f55478189d4fad345d3a
+      internalID: -2204583224898543622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_215
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 213
+        width: 40
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d420fa0e97c70d4fbd2079af806ca3f
+      internalID: 2538389545116001433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_216
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 213
+        width: 38
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b514d26f0a94d49adaf2b0a446bdf2
+      internalID: 252657997719811120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_217
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 213
+        width: 37
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547cfa940ddd1244f96a8ce39f5688ca
+      internalID: -3064930944247624931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_218
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 213
+        width: 40
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdbf3626b1555444ae11ff9c56886c1
+      internalID: -7167500636660311806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_219
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 213
+        width: 40
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da722850eac93b4a91242b08db8add3
+      internalID: -1949735682533961864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_220
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 212
+        width: 355
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88f22616daff52498790ab48bb786a4
+      internalID: 4420349471682021639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_221
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 144
+        width: 32
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc32339ad994ca2428aa1a70f198d873
+      internalID: -309860379276966042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_222
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 71
+        width: 64
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fe3c308dcd5884a9f9f04c2dac0752
+      internalID: -4609693816405215223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_223
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 70
+        width: 69
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554f079cbd786944faa39f87d9f66ad6
+      internalID: -8852703903089072168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_224
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 69
+        width: 37
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7969c8e75713f9d45a0dc347f846d744
+      internalID: -7846378434028861588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_225
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 90
+        width: 12
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f11781875a8ba34f924f690e6403370
+      internalID: 4517653322743340979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_226
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 68
+        width: 39
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ebb5a4a59f0f64cb39039466987f49
+      internalID: -6653935674967533690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_227
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 91
+        width: 12
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d228b4cd7eab78c4a946f6740d683088
+      internalID: 765613816699896664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_228
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 71
+        width: 45
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb09d033a1768a94a9a401dc36008756
+      internalID: -8383455773218831066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_229
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 21
+        width: 75
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215c2eeaca2a689448dbf357310e3c27
+      internalID: 8500948900863649909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_230
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 21
+        width: 75
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2698e0a54489d4ea7e7e3ea4da384c
+      internalID: -1763991388247543707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_231
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 2
+        width: 59
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cabc237a2eef4c4a830a5ad1551a4e8
+      internalID: -5868327205002173057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_232
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 2
+        width: 59
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8718fbf59a03645ad2a475f54af8fe
+      internalID: 7803201227483569785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_233
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1
+        width: 53
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860299cb7cab92e40abb7fd801d411f0
+      internalID: -8514553197935345687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_234
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 5
+        width: 64
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515c558530fce634ab6bab66a9b27370
+      internalID: 2529629145849030893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: David_235
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 15
+        width: 63
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87943df0fc8a0a64fb24a5b0532b16a2
+      internalID: -4544601242136669866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d89a98f4956b5db46934e1bf0a2abf00
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

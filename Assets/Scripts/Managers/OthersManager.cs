@@ -1,9 +1,10 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 
+[System.Serializable]
 public class OthersManager : MonoBehaviour {
-    public List<Enemy> Enemies;
-    public int Attackers;
+    [SerializeField] private List<Enemy> Enemies;
+    private int Attackers;
 
     private void FixedUpdate() {
         Catch();
@@ -14,7 +15,7 @@ public class OthersManager : MonoBehaviour {
         Enemies.Clear();
 
         foreach (Transform child in transform) {
-            if (!child.gameObject.activeSelf) { continue; }
+            if (child.gameObject.GetComponent<CharacterBase>().IsDead || !child.gameObject.activeSelf) { continue; }
 
             Enemies.Add(child.GetComponent<Enemy>());
         }
@@ -27,19 +28,15 @@ public class OthersManager : MonoBehaviour {
 
         foreach (Enemy raged in Enemies) {
 
-            if (Attackers <= 1) {
-                raged.Mode = 1;
-                Attackers++;
-            } else if (Attackers >= 4) {
-                raged.Mode = 0;
-            }
+            raged.Attacking = (Attackers <= 1);
+            Attackers++;
         }
     }
 
     private static List<Enemy> InsertionSort(List<Enemy> input) {
         for (int i = 0; i < input.Count - 1; i++) {
             for (int j = i + 1; j > 0; j--) {
-                if (Mathf.Abs(input[j - 1].PlayerDistance.magnitude) <= Mathf.Abs(input[j].PlayerDistance.magnitude)) { continue; }
+                if (input[j - 1].PlayerDistance.sqrMagnitude <= Mathf.Pow(input[j].PlayerDistance.sqrMagnitude, 2)) { continue; }
 
                 Enemy temp = input[j - 1];
                 input[j - 1] = input[j];

@@ -26,7 +26,7 @@ public class CharacterBase : MonoBehaviour {
 
     public int HP => currentHealth;
 
-    public bool IsAlive => currentHealth <= 0;
+    public bool IsDead => currentHealth <= 0;
 
     public float currentSpeed;
     protected bool jump;
@@ -52,6 +52,8 @@ public class CharacterBase : MonoBehaviour {
 
     protected bool OnGround;
 
+
+    protected GameObject player;
     #endregion
 
     #region Code
@@ -69,6 +71,8 @@ public class CharacterBase : MonoBehaviour {
         groundCheck = transform.Find("GroundCheck");
         currentHealth = maxHealth;
         currentSpeed = maxSpeed;
+
+        if (CompareTag("Enemy")) { player = GameObject.FindGameObjectWithTag("Player"); }
     }
 
     public void Recover(int points = 1) {
@@ -189,13 +193,12 @@ public class CharacterBase : MonoBehaviour {
 
         if (damaged) { return; }
 
+        if ((x > 0 && !facingRight) || (x < 0 && facingRight)) { Flip(); }
+
         x *= currentSpeed;
         z = float.IsNaN(z) ? 0 : (OnGround ? z * currentSpeed : z);
 
         rb.velocity = new Vector3(x, y, z);
-
-
-        if ((x > 0 && !facingRight) || (x < 0 && facingRight)) { Flip(); }
 
         AnimSpeed();
         JumpControl();
@@ -218,7 +221,7 @@ public class CharacterBase : MonoBehaviour {
         rb.position = new Vector3(
             LimitX,
             rb.position.y,
-            Mathf.Clamp(rb.position.z, -3.5f, 2f));
+            Mathf.Clamp(rb.position.z, -50f, 2f));
     }
 
     protected void DamageLimiter() {
@@ -239,17 +242,17 @@ public class CharacterBase : MonoBehaviour {
     /// <summary>
     /// Function called when character stop moving
     /// </summary>
-    void ZeroSpeed() => currentSpeed = 0;
+    private void ZeroSpeed() => currentSpeed = 0;
 
     /// <summary>
     /// Function called when character speed needs a reset
     /// </summary>
-    void ResetSpeed() {
+    private void ResetSpeed() {
         currentSpeed = maxSpeed;
         //damaged = false;
     }
 
-    void CheckGroundStatus() {
+    private void CheckGroundStatus() {
 #if UNITY_EDITOR
         // helper to visualise the ground check ray in the scene view
         Debug.DrawLine(transform.position + (Vector3.up * .1f), transform.position + (Vector3.up * .1f) + (Vector3.down * m_GroundCheckDistance), Color.red);

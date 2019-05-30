@@ -1,0 +1,2957 @@
+fileFormatVersion: 2
+guid: b4b1e7c9c7c969e41a68cb79edd76fa2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4746337387450000664
+    second: William_0
+  - first:
+      213: 5589926040923668329
+    second: William_1
+  - first:
+      213: 7125974064397004368
+    second: William_2
+  - first:
+      213: 8002531642711533754
+    second: William_3
+  - first:
+      213: -5059867011703671488
+    second: William_4
+  - first:
+      213: -8293496858180308072
+    second: William_5
+  - first:
+      213: -4974362052049638030
+    second: William_6
+  - first:
+      213: -7923773058563652828
+    second: William_7
+  - first:
+      213: -7834198573876710651
+    second: William_8
+  - first:
+      213: 8487286775152619511
+    second: William_9
+  - first:
+      213: -3605027975051558827
+    second: William_10
+  - first:
+      213: 8014046555286633290
+    second: William_11
+  - first:
+      213: 5191930497555432965
+    second: William_12
+  - first:
+      213: 5717616069858803607
+    second: William_13
+  - first:
+      213: -8302110657442247268
+    second: William_14
+  - first:
+      213: -2128332347907077705
+    second: William_15
+  - first:
+      213: 6525276978708487389
+    second: William_16
+  - first:
+      213: 884780047669945266
+    second: William_17
+  - first:
+      213: -642718463051675421
+    second: William_18
+  - first:
+      213: 8067885645015594242
+    second: William_19
+  - first:
+      213: 2386715686032878052
+    second: William_20
+  - first:
+      213: -486452039181051478
+    second: William_21
+  - first:
+      213: -5020710770739158165
+    second: William_22
+  - first:
+      213: -4952744898581910812
+    second: William_23
+  - first:
+      213: 3529412009221029146
+    second: William_24
+  - first:
+      213: 1852714891528239947
+    second: William_25
+  - first:
+      213: -8672408734900663558
+    second: William_26
+  - first:
+      213: -7577269777161195867
+    second: William_27
+  - first:
+      213: -5245849104565046318
+    second: William_28
+  - first:
+      213: -7697187782797893513
+    second: William_29
+  - first:
+      213: -3474873692535315897
+    second: William_30
+  - first:
+      213: 2470281689050903202
+    second: William_31
+  - first:
+      213: 3725028765114709806
+    second: William_32
+  - first:
+      213: 8478327639247827768
+    second: William_33
+  - first:
+      213: 9005470638334328672
+    second: William_34
+  - first:
+      213: -2598539703503343057
+    second: William_35
+  - first:
+      213: -3019109434637523822
+    second: William_36
+  - first:
+      213: -355599441833106352
+    second: William_37
+  - first:
+      213: -7731311459039276446
+    second: William_38
+  - first:
+      213: -5447637842953390594
+    second: William_39
+  - first:
+      213: -8391155133857778872
+    second: William_40
+  - first:
+      213: -4390302469356691415
+    second: William_41
+  - first:
+      213: -6882692963826440355
+    second: William_42
+  - first:
+      213: -4919208864582288371
+    second: William_43
+  - first:
+      213: -8065609056547821118
+    second: William_44
+  - first:
+      213: 4546471255165252731
+    second: William_45
+  - first:
+      213: -4541658233247173359
+    second: William_46
+  - first:
+      213: 2497642493955772983
+    second: William_47
+  - first:
+      213: 2037563739435961953
+    second: William_48
+  - first:
+      213: -8121828940308067925
+    second: William_49
+  - first:
+      213: 3561274274926663935
+    second: William_50
+  - first:
+      213: -8556348998375249531
+    second: William_51
+  - first:
+      213: -705611031142534182
+    second: William_52
+  - first:
+      213: 6862757820089397839
+    second: William_53
+  - first:
+      213: 4804098479760085287
+    second: William_54
+  - first:
+      213: -6925763294519354247
+    second: William_55
+  - first:
+      213: -6157333526160285016
+    second: William_56
+  - first:
+      213: -8155055061220547489
+    second: William_57
+  - first:
+      213: -198158377678428370
+    second: William_58
+  - first:
+      213: -3773224962620170246
+    second: William_59
+  - first:
+      213: -8011540219170472154
+    second: William_60
+  - first:
+      213: 5163475159994498274
+    second: William_61
+  - first:
+      213: 4786600309140126485
+    second: William_62
+  - first:
+      213: -2127499157236472674
+    second: William_63
+  - first:
+      213: 3802877801662347049
+    second: William_64
+  - first:
+      213: 2150904011554193689
+    second: William_65
+  - first:
+      213: -6010934348733788739
+    second: William_66
+  - first:
+      213: 236523919682372232
+    second: William_67
+  - first:
+      213: 8294197373769110278
+    second: William_68
+  - first:
+      213: 3575870891175714918
+    second: William_69
+  - first:
+      213: 2169423552685227260
+    second: William_70
+  - first:
+      213: 7426802430873381588
+    second: William_71
+  - first:
+      213: 3448687804738993650
+    second: William_72
+  - first:
+      213: -1147246784398702786
+    second: William_73
+  - first:
+      213: 3060855093995101749
+    second: William_74
+  - first:
+      213: -2468366743186413531
+    second: William_75
+  - first:
+      213: -6456579199222077943
+    second: William_76
+  - first:
+      213: 2677440170605770479
+    second: William_77
+  - first:
+      213: 8625864756752804827
+    second: William_78
+  - first:
+      213: 973899004541060430
+    second: William_79
+  - first:
+      213: -5210011856895257877
+    second: William_80
+  - first:
+      213: -5097417854946857947
+    second: William_81
+  - first:
+      213: -2963797466845502305
+    second: William_82
+  - first:
+      213: 7635385144626355590
+    second: William_83
+  - first:
+      213: 7710665939244164973
+    second: William_84
+  - first:
+      213: -5760858834092676061
+    second: William_85
+  - first:
+      213: 2970751052331513525
+    second: William_86
+  - first:
+      213: 5893080068092448816
+    second: William_87
+  - first:
+      213: -8183146440527720843
+    second: William_88
+  - first:
+      213: -785414201487308420
+    second: William_89
+  - first:
+      213: 690732768365474271
+    second: William_90
+  - first:
+      213: 3183573858914957916
+    second: William_91
+  - first:
+      213: -2060448544362735317
+    second: William_92
+  - first:
+      213: 3374453094806224377
+    second: William_93
+  - first:
+      213: 3933103655843644881
+    second: William_94
+  - first:
+      213: 2590583664332158673
+    second: William_95
+  - first:
+      213: 1348567668551727506
+    second: William_96
+  - first:
+      213: 7462157276067166486
+    second: William_97
+  - first:
+      213: -3737204591125391658
+    second: William_98
+  - first:
+      213: 6550516267715345735
+    second: William_99
+  - first:
+      213: 4114503083553051785
+    second: William_100
+  - first:
+      213: 2787904080057346124
+    second: William_101
+  - first:
+      213: 6479401479892206294
+    second: William_102
+  - first:
+      213: 5728428852297735126
+    second: William_103
+  - first:
+      213: 1849679549520581184
+    second: William_104
+  - first:
+      213: 8780733467077483091
+    second: William_105
+  - first:
+      213: -1626733471100739907
+    second: William_106
+  - first:
+      213: -6601811316898386828
+    second: William_107
+  - first:
+      213: 213596869004408116
+    second: William_108
+  - first:
+      213: -6393642519088449110
+    second: William_109
+  - first:
+      213: -7218138578721916193
+    second: William_110
+  - first:
+      213: -4105014345014017042
+    second: William_111
+  - first:
+      213: -7190774367764634380
+    second: William_112
+  - first:
+      213: -8011172921759309695
+    second: William_113
+  - first:
+      213: 7204369396978127735
+    second: William_114
+  - first:
+      213: -1923670536188561907
+    second: William_115
+  - first:
+      213: 2784213804089646370
+    second: William_116
+  - first:
+      213: 5746806545520782482
+    second: William_117
+  - first:
+      213: 4169846902348915884
+    second: William_118
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: William_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1283
+        width: 53
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbde6a8ff8854c4489fe58e975e1b6ea
+      internalID: -4746337387450000664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1283
+        width: 52
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2276b9d975924479e443e84a24416e
+      internalID: 5589926040923668329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_2
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1283
+        width: 52
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cc5c5fa4fac614ba16c26610f2f351
+      internalID: 7125974064397004368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_3
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1283
+        width: 52
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedc2427946f7ae4c9a52ce3a86f2660
+      internalID: 8002531642711533754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1200
+        width: 66
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d682c50da537b943b39dd25489b2e76
+      internalID: -5059867011703671488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_5
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1200
+        width: 68
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac77e7eee59997c40a1a571e57a22ff6
+      internalID: -8293496858180308072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_6
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1200
+        width: 64
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f376544a2b9d4c40939b27b8887d974
+      internalID: -4974362052049638030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_7
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1200
+        width: 58
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6939587e3bd9944b27a2d4915785d8
+      internalID: -7923773058563652828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_8
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1200
+        width: 54
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d82105330a8ede45ae4350f25ee0a0d
+      internalID: -7834198573876710651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_9
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1200
+        width: 53
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab38efaaad619d4398ab93ae789ed3d
+      internalID: 8487286775152619511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_10
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1199
+        width: 56
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8786f67f8b5d7e64f89f9ad874415bb1
+      internalID: -3605027975051558827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_11
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1201
+        width: 62
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0505707a1165a124e96f8d04a0c864c1
+      internalID: 8014046555286633290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1117
+        width: 55
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d92621d998cb64e935826706b93c2c
+      internalID: 5191930497555432965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_13
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1117
+        width: 54
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6af4b8b3f18d64ca4202ae8020cb73
+      internalID: 5717616069858803607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_14
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1117
+        width: 53
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9225af200996a4f8b9956b51762218
+      internalID: -8302110657442247268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_15
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1117
+        width: 52
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ef9c5dc7b610e4c882a0203b7da03f
+      internalID: -2128332347907077705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_16
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1117
+        width: 52
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa53147c9bcd8e64b8b99854d81fb8bb
+      internalID: 6525276978708487389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_17
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1117
+        width: 61
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297a48b758c6eb744a76c4f8a5848483
+      internalID: 884780047669945266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_18
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1117
+        width: 63
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265a5d22352f9f2428d853925b7fcb73
+      internalID: -642718463051675421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_19
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1117
+        width: 52
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79edbd7228c879447a9c88ea358dcf68
+      internalID: 8067885645015594242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_20
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1117
+        width: 45
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27850909120f34e4e831009d1b2985af
+      internalID: 2386715686032878052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_21
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1117
+        width: 45
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ef2ea2c75e9514999e9dfdbb02b988
+      internalID: -486452039181051478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_22
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1117
+        width: 45
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c6dc32471dfef4183fa39c671f2074
+      internalID: -5020710770739158165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_23
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1117
+        width: 46
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e060847a5c41d45a432f77948dd812
+      internalID: -4952744898581910812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_24
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1117
+        width: 47
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f49c6bfdceed5409ccd2c450f94d7b
+      internalID: 3529412009221029146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_25
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1117
+        width: 61
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe766beb5f0284b4c95aabd999eaf2d5
+      internalID: 1852714891528239947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_26
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1026
+        width: 61
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3a079a067e98847b0b3cfb9174f656
+      internalID: -8672408734900663558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_27
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1032
+        width: 41
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b45159b58b33474fa19e56243216b12
+      internalID: -7577269777161195867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_28
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1034
+        width: 43
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194367b80874e90429b960ca02400a88
+      internalID: -5245849104565046318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1040
+        width: 53
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebafab2aa0074a84aa78fefd6a58e904
+      internalID: -7697187782797893513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_30
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1049
+        width: 69
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac0ff86503475a4a85856fee0ace694
+      internalID: -3474873692535315897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_31
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1026
+        width: 66
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d9c34b566c4e54791efcb2519805d4
+      internalID: 2470281689050903202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_32
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1028
+        width: 69
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226900dba2ccd7a45a71932f3221285f
+      internalID: 3725028765114709806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_33
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1027
+        width: 66
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b6654034b08e34787c100f8a3fc7ea
+      internalID: 8478327639247827768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_34
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1027
+        width: 72
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e20e706daddbf41bdad3ae671af6a4
+      internalID: 9005470638334328672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_35
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 932
+        width: 53
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb6cd52a1d3c9f4c8d9f363ab5b3249
+      internalID: -2598539703503343057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_36
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 932
+        width: 50
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0eee6e24ad8dda468bdd4327c71b7a7
+      internalID: -3019109434637523822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_37
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 932
+        width: 50
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68b37b10eea1fa4aa9dee0e5221f9b3
+      internalID: -355599441833106352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_38
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 932
+        width: 51
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0459760144299f43b545980f1d8c161
+      internalID: -7731311459039276446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_39
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 932
+        width: 79
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1a46f9919dd0049bf66707b59b03e2
+      internalID: -5447637842953390594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_40
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 932
+        width: 76
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382e8ccedfec5fe4389347a71aa19261
+      internalID: -8391155133857778872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_41
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 932
+        width: 74
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb07d15a8e0b2cd40bd9b08cb602c435
+      internalID: -4390302469356691415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_42
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 932
+        width: 74
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37feebe93e37744bb34f05effec2aa8
+      internalID: -6882692963826440355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_43
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 932
+        width: 68
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418024fadf32a0e45816f71ba35672a1
+      internalID: -4919208864582288371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_44
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 932
+        width: 58
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c740117c396c745a4a7afedb9c7057
+      internalID: -8065609056547821118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_45
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 932
+        width: 53
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2cae04f7c84c554ca4d4f395f4ca289
+      internalID: 4546471255165252731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_46
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 850
+        width: 55
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba96e200acc3db499a22db4ee9ec1f2
+      internalID: -4541658233247173359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_47
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 850
+        width: 55
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7da666d918dca409b1be357a1a685f
+      internalID: 2497642493955772983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_48
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 850
+        width: 57
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3676b29f85ddad747aef04e409ba42aa
+      internalID: 2037563739435961953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_49
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 852
+        width: 54
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69de4c1347f7d7a48bc78546ca3d8c99
+      internalID: -8121828940308067925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_50
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 851
+        width: 55
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e54fdde160f1f4abe04bac21e03771
+      internalID: 3561274274926663935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_51
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 850
+        width: 55
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c36602873412a42858488a926fa0e9
+      internalID: -8556348998375249531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_52
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 850
+        width: 53
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78c93b59cac9c64098004aa5f0110c9
+      internalID: -705611031142534182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_53
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 764
+        width: 64
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c7efd7dd0c999428e6309e7f1da86b
+      internalID: 6862757820089397839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_54
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 769
+        width: 66
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff3658b4b54cc14c81f905963265eaa
+      internalID: 4804098479760085287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_55
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 768
+        width: 62
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df929513c31feb545a26890c232d8c09
+      internalID: -6925763294519354247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_56
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 769
+        width: 55
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f54690051507c4ca0c038a20456982
+      internalID: -6157333526160285016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_57
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 769
+        width: 55
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369a04d5d19e88543b510cf0f18ea9c7
+      internalID: -8155055061220547489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_58
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 768
+        width: 62
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e3ca4ef7b0be343b0556416e987e48
+      internalID: -198158377678428370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_59
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 769
+        width: 60
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e9ca1cf5ef9304f9e426f637148a20
+      internalID: -3773224962620170246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_60
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 769
+        width: 55
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d27be53d798d142b784ac46ea2e93b
+      internalID: -8011540219170472154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_61
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 673
+        width: 56
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecea1dfe2ac25274a881731eb18edff0
+      internalID: 5163475159994498274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_62
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 688
+        width: 64
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f706426244eb947aa81a06006c1440
+      internalID: 4786600309140126485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_63
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 710
+        width: 74
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729b7a41ee26eb34a82cfebaac34153e
+      internalID: -2127499157236472674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_64
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 702
+        width: 65
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a350bd57c07c2fc428c1b729b2a6703f
+      internalID: 3802877801662347049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_65
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 693
+        width: 65
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52389baa1ee5af24bb8166d81b39d902
+      internalID: 2150904011554193689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_66
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 611
+        width: 74
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3198d31ba3407c49b6c9b20e7032955
+      internalID: -6010934348733788739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_67
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 609
+        width: 74
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f799e6f484d0fd74083f081db6404e62
+      internalID: 236523919682372232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_68
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 614
+        width: 80
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ace1d79540a39488df667cbd1d077a
+      internalID: 8294197373769110278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_69
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 613
+        width: 83
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b20bba47df09a849bfdd2396baf75e9
+      internalID: 3575870891175714918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_70
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 609
+        width: 83
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840f51260c1c28541884843776350d11
+      internalID: 2169423552685227260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_71
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 611
+        width: 81
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7c5b4e07750ea49824e5af394b9d8d
+      internalID: 7426802430873381588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_72
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 612
+        width: 82
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486f3645c55b849478475cb9888bfe19
+      internalID: 3448687804738993650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_73
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 612
+        width: 83
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb12b5358187bc046ab2603455f4d7d7
+      internalID: -1147246784398702786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_74
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 612
+        width: 83
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f747ea87b0560428ca8d4defe2aff9
+      internalID: 3060855093995101749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_75
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 526
+        width: 83
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e20bedf8b49cf147b4a34eafeca5850
+      internalID: -2468366743186413531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_76
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 528
+        width: 73
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4e15f1b268b4449bd9387da2426a42
+      internalID: -6456579199222077943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_77
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 530
+        width: 74
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6704bd0170bbaa4ba31ee5bf30834cb
+      internalID: 2677440170605770479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_78
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 530
+        width: 60
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccb23a6c5b71c346a147d37400f4a26
+      internalID: 8625864756752804827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_79
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 529
+        width: 68
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6022ca09e5405024f9c18d23bc9776d2
+      internalID: 973899004541060430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_80
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 529
+        width: 58
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e276f9b9fadea4cae4773e276563e7
+      internalID: -5210011856895257877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_81
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 536
+        width: 47
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083feb60a42be50479058c470770a269
+      internalID: -5097417854946857947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_82
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 535
+        width: 46
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f33773946133740bcf9c436d666b57
+      internalID: -2963797466845502305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_83
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 535
+        width: 76
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faeb6379993cf864c98b313152fed08b
+      internalID: 7635385144626355590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_84
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 536
+        width: 74
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48afcc3297d0d1e4f999f56cca8e39e9
+      internalID: 7710665939244164973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_85
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 536
+        width: 79
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90219cfd9143cb43b859623557bd75c
+      internalID: -5760858834092676061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_86
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 537
+        width: 54
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2864e55441537114981e84454949c587
+      internalID: 2970751052331513525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_87
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 445
+        width: 51
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba816a81e46a92c408b89ebc31b9f0ac
+      internalID: 5893080068092448816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_88
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 445
+        width: 52
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00529edf25bbc36468cf60feb8dc1d84
+      internalID: -8183146440527720843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_89
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 445
+        width: 54
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c33b0cbc360d243b1bd6b490647735
+      internalID: -785414201487308420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_90
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 445
+        width: 52
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957697c517b63014c876c2cfc9ef11a8
+      internalID: 690732768365474271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_91
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 385
+        width: 83
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a2c4bd39a6c2a4982a9c546309ab0e
+      internalID: 3183573858914957916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_92
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 380
+        width: 75
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aae9d7136cf2694b83b5e7b05e856a2
+      internalID: -2060448544362735317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_93
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 380
+        width: 82
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d9be61d57fbab47841fdf1d8b6403d
+      internalID: 3374453094806224377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_94
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 331
+        width: 83
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ec4dfd9631bc54192a567754abbd11
+      internalID: 3933103655843644881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_95
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 330
+        width: 74
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987f762f1973928428bad9ec878aec9b
+      internalID: 2590583664332158673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_96
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 333
+        width: 90
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429f6e5754ff69d448a5dfb252b6a1e3
+      internalID: 1348567668551727506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_97
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 332
+        width: 83
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ea205595da0974fb7be6a406e55895
+      internalID: 7462157276067166486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_98
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 243
+        width: 55
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc7b5d86940c4d4abe42d4a49335a08
+      internalID: -3737204591125391658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_99
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 246
+        width: 43
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f5fe512d6a8254e9854f82ca04fb55
+      internalID: 6550516267715345735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_100
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 256
+        width: 49
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8460bdad2da0574c9cad934ade63769
+      internalID: 4114503083553051785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_101
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 255
+        width: 50
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778e1c1b8594d064daf30f7ad2b552bb
+      internalID: 2787904080057346124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_102
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 244
+        width: 54
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e533bb1c131709c48bff71976583efbd
+      internalID: 6479401479892206294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_103
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 168
+        width: 55
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d49d2f5f1b02aa42aff1544b569c499
+      internalID: 5728428852297735126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_104
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 168
+        width: 54
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef27c4208bc162249a8c0a7890ab3f81
+      internalID: 1849679549520581184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_105
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 174
+        width: 49
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a800da02e31c04fba825c74201b91e
+      internalID: 8780733467077483091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_106
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 171
+        width: 50
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3917ec85e602c3e40b33a32b6294d1fd
+      internalID: -1626733471100739907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_107
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 168
+        width: 43
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9347abc40c57c4ca1ec105c294ec7b
+      internalID: -6601811316898386828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_108
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 173
+        width: 72
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b980e8cba8b3c444a84ada2b165a88cd
+      internalID: 213596869004408116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_109
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 96
+        width: 46
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669057009df578845a6bdb2a72598f72
+      internalID: -6393642519088449110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_110
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 96
+        width: 45
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956cceac72df38c4a8a584bd99c8bf7d
+      internalID: -7218138578721916193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_111
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 11
+        width: 72
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead4ae63a286e51418568bbb78277d8d
+      internalID: -4105014345014017042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_112
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 11
+        width: 72
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25b7cf46f8892e4e8c0ad066b7ab80b
+      internalID: -7190774367764634380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_113
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 11
+        width: 72
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf2bbbdbc4a1ec4ab7e50a655b81e2e
+      internalID: -8011172921759309695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_114
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 11
+        width: 71
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777c3a1633d710541898f69755a7aecf
+      internalID: 7204369396978127735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_115
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 8
+        width: 78
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31786c62f1eb67d40ba801cac2094700
+      internalID: -1923670536188561907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_116
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 8
+        width: 78
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d6411cc978bdb479b5dff6996f82a1
+      internalID: 2784213804089646370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_117
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 24
+        width: 91
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92116f04d6380374b93699d0ffe92696
+      internalID: 5746806545520782482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: William_118
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 24
+        width: 91
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55dacaf008e4c564aad0f029759a303f
+      internalID: 4169846902348915884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: db3d07418f360fa479c013c6828d7108
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
