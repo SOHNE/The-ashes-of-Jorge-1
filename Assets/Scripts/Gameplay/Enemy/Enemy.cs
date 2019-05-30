@@ -7,13 +7,18 @@ public class Enemy : CharacterBase {
     protected int lastDamage;
 
     protected float forcaZ, forcaH;
-    protected Transform Target => GameObject.FindGameObjectWithTag("Player").transform;
-    public Vector3 TargetDistance => Target.position - transform.position;
+
+    private int num;
+    protected Transform Target => GameObject.FindGameObjectsWithTag("EnemyPoints")[num].transform;
+    public Vector3 PointDistance => Target.position - transform.position;
+    public Vector3 PlayerDistance => GameObject.FindGameObjectWithTag("Player").transform.position - transform.position;
+
 
     protected GameObject HB;
     private bool HB_show;
     protected int posLife;
 
+    public int Mode = default;
     public bool Attacking;
 
     private void HealthBar() {
@@ -25,7 +30,7 @@ public class Enemy : CharacterBase {
 
     #region "Code"
     private void Start() {
-        //Target = GameObject.FindGameObjectWithTag("Player").transform;//GameObject.FindGameObjectsWithTag("EnemyPoints")[Random.Range(0, 2)].transform;
+        num = Random.Range(0, 2);
 
         //GetComponentInChildren<HealthBar>().MaxHealthPoints = maxHealth;
         //GetComponentInChildren<HealthBar>().Hurt(0);
@@ -36,40 +41,17 @@ public class Enemy : CharacterBase {
     }
 
     private void Update() {
-        if (HB) { HB.transform.position = Camera.main.WorldToScreenPoint(transform.position + new Vector3(0, 3, 0)); }
-
-        walkTimer += Time.deltaTime;
-        anim.SetBool("isDead", isDead);
+        AirUpdate();
     }
 
-    void FixedUpdate() {
+    private void FixedUpdate() {
         if (isDead) { return; }
 
-        forcaH = TargetDistance.x / Mathf.Abs(TargetDistance.x);
+        BasicMove();
 
-        if (!Attacking) {
-            if (walkTimer > Random.Range(1f, 2f)) {
-                forcaZ = Random.Range(-1, 2);
-                forcaH = Random.Range(-2, 3);
-                walkTimer = 0;
-            }
-        } else {
-            forcaZ = TargetDistance.z / Mathf.Abs(TargetDistance.z);
-        }
+        if (Mode.Equals(0)) { return; }
 
-        if (float.IsNaN(forcaZ)) { forcaZ = 0; }
-
-        if (Mathf.Abs(TargetDistance.x) < stopDistance) { forcaH = 0; }
-        //if (Mathf.Abs(TargetDistance.z) < stopDistance) { forcaZ = 0; }
-
-        MoveHandler(forcaH, forcaZ);
-
-        if (!Attacking) { return; }
-
-        bool attack = Mathf.Abs(TargetDistance.x) < 1.5f && Mathf.Abs(TargetDistance.z) < 1f;
-        if (attack && Time.time > nextAttack) {
-            Attack();
-        }
+        BasicAttack();
     }
 
     private void OnCollisionEnter(Collision other) {
@@ -125,6 +107,50 @@ public class Enemy : CharacterBase {
         HB.transform.SetParent(WS, true);
 
         HB.GetComponentInChildren<HealthBar>().MaxHealthPoints = maxHealth;
+        HB.transform.position = Camera.main.WorldToScreenPoint(transform.position + new Vector3(0, 3, 0));
+    }
+    #endregion
+
+    #region "Meta"
+    protected virtual void BasicMove() {
+
+        switch (Mode) {
+
+            case 0:
+                if (PlayerDistance.x < 20.25f && walkTimer > Random.Range(1f, 2f)) {
+                    forcaZ = Random.Range(-1, 2);
+                    forcaH = Random.Range(-1, 2);
+                    walkTimer = 0;
+                } else if (PlayerDistance.x >= 35f) {
+                    forcaH = PointDistance.x / Mathf.Abs(PointDistance.x);
+                }
+                break;
+
+            case 1:
+                forcaH = PointDistance.x / Mathf.Abs(PointDistance.x);
+                forcaZ = PointDistance.z / Mathf.Abs(PointDistance.z);
+                break;
+        }
+
+
+        if (Mathf.Abs(PlayerDistance.x) < stopDistance) { forcaH = 0; }
+        if (Mathf.Abs(PlayerDistance.z) < stopDistance) { forcaZ = 0; }
+
+        MoveHandler(forcaH, forcaZ);
+    }
+
+    protected virtual void BasicAttack() {
+        bool attack = Mathf.Abs(PlayerDistance.x) < 1.5f && Mathf.Abs(PlayerDistance.z) < 1f;
+        if (attack && Time.time > nextAttack) {
+            Attack();
+        }
+    }
+
+    protected virtual void AirUpdate() {
+        walkTimer += Time.deltaTime;
+        anim.SetBool("isDead", isDead);
+
+        if (!HB) { return; }
         HB.transform.position = Camera.main.WorldToScreenPoint(transform.position + new Vector3(0, 3, 0));
     }
     #endregion

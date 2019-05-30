@@ -2,8 +2,8 @@
 using UnityEngine;
 
 public class PlayerUI : MonoBehaviour {
-    public Player player;
-    public TextMeshProUGUI LR;
+    [SerializeField] private Player player;
+    [SerializeField] private TextMeshProUGUI LR;
 
     private GameManager GM;
     private Animator anim;

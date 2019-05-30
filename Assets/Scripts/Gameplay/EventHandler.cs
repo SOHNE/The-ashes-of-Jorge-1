@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class EventHandler : MonoBehaviour {
 
@@ -50,7 +48,7 @@ public class EventHandler : MonoBehaviour {
         spawnPosition.z = Random.Range(minZ, maxZ);
 
         Vector3 spawnPos = new Vector3(transform.position.x, 0, spawnPosition.z);
-        spawnPos.x += positionX? 10: -10;
+        spawnPos.x += positionX ? 10 : -10;
 
         GameObject en = Instantiate(enemy[Random.Range(0, enemy.Length)], spawnPos, Quaternion.identity);
         en.transform.SetParent(CharacterSpace, false);

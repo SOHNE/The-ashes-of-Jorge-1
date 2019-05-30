@@ -326,8 +326,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 426cdd5680815864fa31f63852e0c31a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 0}
-  LR: {fileID: 0}
+  player: {fileID: 1128722239}
+  LR: {fileID: 1774595414}
 --- !u!95 &37451580
 Animator:
   serializedVersion: 3
@@ -620,7 +620,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Enemies: []
-  Attacking: []
+  Agressives: 0
 --- !u!1 &138906397
 GameObject:
   m_ObjectHideFlags: 0
@@ -3537,6 +3537,7 @@ MonoBehaviour:
   currentHealth: 0
   currentSpeed: 7.5
   damaged: 0
+  pui: {fileID: 37451579}
   combo: 0
   comboTimer: 0
 --- !u!82 &1128722240

@@ -1,8 +1,5 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using TMPro;
+﻿using TMPro;
 using UnityEngine;
-using UnityEngine.SceneManagement;
 
 /*
     Leandro Peres, ABR de 2019
@@ -12,6 +9,7 @@ using UnityEngine.SceneManagement;
 public class Player : CharacterBase {
     private Transform EnemyChecker;
     private HealthBar P_UI;
+    [SerializeField] private PlayerUI pui;
     public int combo;
     public float comboTimer;
 
@@ -22,7 +20,7 @@ public class Player : CharacterBase {
 
     void Update() {
         comboTimer += Time.deltaTime;
-        //if (!combo.Equals(0) && comboTimer >= 3f) { GameObject.FindObjectOfType<UIManager>().ComboOut(); }
+        if (!combo.Equals(0) && comboTimer >= 3f) { pui.ComboOut(); }
         GameObject.Find("Combo").GetComponentInChildren<TextMeshProUGUI>().text = "COMBO:\r\n\t" + combo.ToString();
     }
 
@@ -61,13 +59,13 @@ public class Player : CharacterBase {
         ComboCounter();
 
         if (combo < 3) { return; }
-        //GameObject.FindObjectOfType<UIManager>().ComboIn();
+        pui.ComboIn();
 
     }
 
     protected override void OnHit(int damage) {
         GameObject.Find("HPB").GetComponent<HealthBar>().Hurt(damage);
-        //GameObject.FindObjectOfType<UIManager>().ComboOut();
+        pui.ComboOut();
     }
 
     protected override void OnAttack(int damage) {

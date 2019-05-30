@@ -3,7 +3,7 @@ using UnityEngine;
 
 public class OthersManager : MonoBehaviour {
     public List<Enemy> Enemies;
-    public List<Enemy> Attacking;
+    public int Attackers;
 
     private void FixedUpdate() {
         Catch();
@@ -15,6 +15,7 @@ public class OthersManager : MonoBehaviour {
 
         foreach (Transform child in transform) {
             if (!child.gameObject.activeSelf) { continue; }
+
             Enemies.Add(child.GetComponent<Enemy>());
         }
 
@@ -22,27 +23,27 @@ public class OthersManager : MonoBehaviour {
     }
 
     public void Do() {
-        int esp = 0;
-        Attacking.Clear();
+        Attackers = 0;
+
         foreach (Enemy raged in Enemies) {
-            if (esp <= 1) {
-                raged.Attacking = true;
-                Attacking.Add(raged);
-                esp++;
-            } else {
-                raged.Attacking = false;
+
+            if (Attackers <= 1) {
+                raged.Mode = 1;
+                Attackers++;
+            } else if (Attackers >= 4) {
+                raged.Mode = 0;
             }
         }
     }
 
-    static List<Enemy> InsertionSort(List<Enemy> input) {
+    private static List<Enemy> InsertionSort(List<Enemy> input) {
         for (int i = 0; i < input.Count - 1; i++) {
             for (int j = i + 1; j > 0; j--) {
-                if (Mathf.Abs(input[j - 1].TargetDistance.magnitude) <= Mathf.Abs(input[j].TargetDistance.magnitude)) { continue; }
+                if (Mathf.Abs(input[j - 1].PlayerDistance.magnitude) <= Mathf.Abs(input[j].PlayerDistance.magnitude)) { continue; }
+
                 Enemy temp = input[j - 1];
                 input[j - 1] = input[j];
                 input[j] = temp;
-
             }
         }
         return input;

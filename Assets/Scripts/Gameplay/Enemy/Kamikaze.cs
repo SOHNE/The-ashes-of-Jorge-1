@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class Kamikaze : Enemy {
 
@@ -15,17 +13,17 @@ public class Kamikaze : Enemy {
         anim.SetBool("isDead", isDead);
     }
 
-   void FixedUpdate() {
+    void FixedUpdate() {
         if (isDead) { return; }
 
-        float forcaH = TargetDistance.x / Mathf.Abs(TargetDistance.x);
-        forcaZ = TargetDistance.z / Mathf.Abs(TargetDistance.z);
+        float forcaH = PointDistance.x / Mathf.Abs(PointDistance.x);
+        forcaZ = PointDistance.z / Mathf.Abs(PointDistance.z);
 
-        //if (Mathf.Abs(TargetDistance.x) < stopDistance) { forcaH = 0; forcaZ = 0; }
+        //if (Mathf.Abs(PointDistance.x) < stopDistance) { forcaH = 0; forcaZ = 0; }
 
         if (!damaged) { MoveHandler(forcaH, forcaZ); }
 
-        bool attack = Mathf.Abs(TargetDistance.x) < 3f && Mathf.Abs(TargetDistance.z) < 1f;
+        bool attack = Mathf.Abs(PointDistance.x) < 3f && Mathf.Abs(PointDistance.z) < 1f;
         if (attack && Time.time > nextAttack) {
             Attack();
         }

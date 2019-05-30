@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 1492540612861228044}
   - component: {fileID: 1492540612861228051}
   - component: {fileID: 4515945314315229514}
-  m_Layer: 12
+  m_Layer: 10
   m_Name: Attack
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -255,7 +255,7 @@ MonoBehaviour:
   maxSpeed: 3
   damageTime: 0.225
   maxHealth: 3
-  damage: 1
+  damage: 15
   jumpForce: 250
   fallMultiplier: 2.5
   attackRate: 3.5

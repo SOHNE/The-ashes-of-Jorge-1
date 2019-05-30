@@ -26,6 +26,8 @@ public class CharacterBase : MonoBehaviour {
 
     public int HP => currentHealth;
 
+    public bool IsAlive => currentHealth <= 0;
+
     public float currentSpeed;
     protected bool jump;
     protected Rigidbody rb;
@@ -183,13 +185,12 @@ public class CharacterBase : MonoBehaviour {
     protected void MoveHandler(float x, float z, float y = 0) {
         DamageLimiter();
 
-        if (damaged) { return; }
-        if (CompareTag("Player")) {
-            CheckGroundStatus(); }
+        float LimitX;
 
+        if (damaged) { return; }
 
         x *= currentSpeed;
-        z *= OnGround ? currentSpeed : 1;
+        z = float.IsNaN(z) ? 0 : (OnGround ? z * currentSpeed : z);
 
         rb.velocity = new Vector3(x, y, z);
 
@@ -199,11 +200,20 @@ public class CharacterBase : MonoBehaviour {
         AnimSpeed();
         JumpControl();
 
-        // Limita a movimentação do eixo x do personagem para apenas o mundo visivel pela câmera
-        var minWidth = Camera.main.ScreenToWorldPoint(new Vector3(0, 0, 10)).x;
-        var maxWidth = Camera.main.ScreenToWorldPoint(new Vector3(Screen.width, 0, 10)).x;
 
-        var LimitX = CompareTag("Player") ? Mathf.Clamp(rb.position.x, minWidth + .75f, maxWidth - .75f) : rb.position.x;
+        if (CompareTag("Player")) {
+
+            // Limita a movimentação do eixo x do personagem para apenas o mundo visivel pela câmera
+            var minWidth = Camera.main.ScreenToWorldPoint(new Vector3(0, 0, 10)).x;
+            var maxWidth = Camera.main.ScreenToWorldPoint(new Vector3(Screen.width, 0, 10)).x;
+
+
+            LimitX = Mathf.Clamp(rb.position.x, minWidth + .75f, maxWidth - .75f);
+            CheckGroundStatus();
+
+        } else {
+            LimitX = rb.position.x;
+        }
 
         rb.position = new Vector3(
             LimitX,
