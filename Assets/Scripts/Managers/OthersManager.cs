@@ -8,7 +8,6 @@ public class OthersManager : MonoBehaviour {
 
     private void FixedUpdate() {
         Catch();
-        Do();
     }
 
     public void Catch() {
@@ -18,12 +17,13 @@ public class OthersManager : MonoBehaviour {
             if (child.gameObject.GetComponent<CharacterBase>().IsDead || !child.gameObject.activeSelf) { continue; }
 
             Enemies.Add(child.GetComponent<Enemy>());
+            Do();
         }
-
-        Enemies = InsertionSort(Enemies);
     }
 
-    public void Do() {
+    private void Do() {
+        Enemies = InsertionSort(Enemies);
+
         Attackers = 0;
 
         foreach (Enemy raged in Enemies) {
@@ -36,7 +36,7 @@ public class OthersManager : MonoBehaviour {
     private static List<Enemy> InsertionSort(List<Enemy> input) {
         for (int i = 0; i < input.Count - 1; i++) {
             for (int j = i + 1; j > 0; j--) {
-                if (input[j - 1].PlayerDistance.sqrMagnitude <= Mathf.Pow(input[j].PlayerDistance.sqrMagnitude, 2)) { continue; }
+                if (input[j - 1].PlayerDistance.sqrMagnitude <= input[j].PlayerDistance.sqrMagnitude) { continue; }
 
                 Enemy temp = input[j - 1];
                 input[j - 1] = input[j];

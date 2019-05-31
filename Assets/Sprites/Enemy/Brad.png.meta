@@ -1,0 +1,4325 @@
+fileFormatVersion: 2
+guid: 8e3e55c3e1caf4363ba70e6190da1104
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8462706124484922059
+    second: Brad_0
+  - first:
+      213: -4409191644378920522
+    second: Brad_1
+  - first:
+      213: -3491841259120484415
+    second: Brad_2
+  - first:
+      213: -9116777984454558027
+    second: Brad_3
+  - first:
+      213: -4899312365215810050
+    second: Brad_15
+  - first:
+      213: -5211618307429326711
+    second: Brad_16
+  - first:
+      213: 5665968461332855155
+    second: Brad_17
+  - first:
+      213: 5361349560080778825
+    second: Brad_18
+  - first:
+      213: -2515956959365466177
+    second: Brad_19
+  - first:
+      213: 2112308200914756003
+    second: Brad_20
+  - first:
+      213: 7282557314061411006
+    second: Brad_23
+  - first:
+      213: 2224317099685194006
+    second: Brad_24
+  - first:
+      213: -842301137548797222
+    second: Brad_25
+  - first:
+      213: 2933677672287002026
+    second: Brad_26
+  - first:
+      213: 7784588833158547411
+    second: Brad_27
+  - first:
+      213: 4656317335362875875
+    second: Brad_28
+  - first:
+      213: 5741582941873964364
+    second: Brad_29
+  - first:
+      213: 2118045641349101354
+    second: Brad_30
+  - first:
+      213: 6713581421779738403
+    second: Brad_31
+  - first:
+      213: -6906678713860107019
+    second: Brad_32
+  - first:
+      213: 7474565076659870262
+    second: Brad_33
+  - first:
+      213: -9068578259197075457
+    second: Brad_34
+  - first:
+      213: 3223066910218053021
+    second: Brad_35
+  - first:
+      213: 3301868076538638413
+    second: Brad_36
+  - first:
+      213: -5617803832170556828
+    second: Brad_37
+  - first:
+      213: 2887162772323290842
+    second: Brad_38
+  - first:
+      213: 7076557266385896191
+    second: Brad_39
+  - first:
+      213: -4426318199022680716
+    second: Brad_40
+  - first:
+      213: -914427759594991606
+    second: Brad_41
+  - first:
+      213: -5866614464513414954
+    second: Brad_42
+  - first:
+      213: -5870627269834914341
+    second: Brad_43
+  - first:
+      213: -949827871744771248
+    second: Brad_44
+  - first:
+      213: 2294742302999109055
+    second: Brad_45
+  - first:
+      213: 1090397355952430622
+    second: Brad_46
+  - first:
+      213: -2709890273384497506
+    second: Brad_47
+  - first:
+      213: -9048844135373976955
+    second: Brad_48
+  - first:
+      213: -3659095277281591079
+    second: Brad_49
+  - first:
+      213: 4583761361282775232
+    second: Brad_50
+  - first:
+      213: -4905266957159961030
+    second: Brad_51
+  - first:
+      213: -8258824111678312576
+    second: Brad_52
+  - first:
+      213: -5441678701635261660
+    second: Brad_53
+  - first:
+      213: -7462376751618528557
+    second: Brad_54
+  - first:
+      213: -5598439307397043762
+    second: Brad_55
+  - first:
+      213: 5555535247852991298
+    second: Brad_56
+  - first:
+      213: -5387840279508595567
+    second: Brad_57
+  - first:
+      213: 4839600245252986420
+    second: Brad_58
+  - first:
+      213: 1677802376607313542
+    second: Brad_59
+  - first:
+      213: 6250827904272494848
+    second: Brad_60
+  - first:
+      213: 3751466808236638190
+    second: Brad_61
+  - first:
+      213: 8434573188884297492
+    second: Brad_62
+  - first:
+      213: -7324843030494231911
+    second: Brad_63
+  - first:
+      213: -7114862124717207114
+    second: Brad_64
+  - first:
+      213: -8289713286215581182
+    second: Brad_65
+  - first:
+      213: -9026425266949028253
+    second: Brad_66
+  - first:
+      213: 7185914065850681674
+    second: Brad_67
+  - first:
+      213: 4688491299251870013
+    second: Brad_68
+  - first:
+      213: -1161993876114802011
+    second: Brad_69
+  - first:
+      213: 1262036498726364415
+    second: Brad_70
+  - first:
+      213: -1551163670583457416
+    second: Brad_71
+  - first:
+      213: 4863138162938230561
+    second: Brad_72
+  - first:
+      213: -7846949458089240509
+    second: Brad_73
+  - first:
+      213: 5229419022754055633
+    second: Brad_74
+  - first:
+      213: -7046094033448472235
+    second: Brad_75
+  - first:
+      213: -5659966734964640601
+    second: Brad_76
+  - first:
+      213: -6598226867495757184
+    second: Brad_77
+  - first:
+      213: 62292241868539264
+    second: Brad_78
+  - first:
+      213: 4496028851253096580
+    second: Brad_79
+  - first:
+      213: -674927210393964433
+    second: Brad_80
+  - first:
+      213: 787309106735841851
+    second: Brad_81
+  - first:
+      213: 4064373421786593304
+    second: Brad_82
+  - first:
+      213: 8350474692062002158
+    second: Brad_83
+  - first:
+      213: 850089900402738752
+    second: Brad_84
+  - first:
+      213: -5558075339941144787
+    second: Brad_85
+  - first:
+      213: 2167853690756033059
+    second: Brad_86
+  - first:
+      213: -805510381892616052
+    second: Brad_87
+  - first:
+      213: -3488887234236369134
+    second: Brad_88
+  - first:
+      213: 6464660701611019673
+    second: Brad_89
+  - first:
+      213: 5636117428555218480
+    second: Brad_90
+  - first:
+      213: -8079632508846109648
+    second: Brad_91
+  - first:
+      213: -8526867150860864503
+    second: Brad_92
+  - first:
+      213: -2471363173118038828
+    second: Brad_93
+  - first:
+      213: 681859364373033930
+    second: Brad_94
+  - first:
+      213: -1462441314660033340
+    second: Brad_95
+  - first:
+      213: -5376635747296631740
+    second: Brad_96
+  - first:
+      213: 8864587624235733861
+    second: Brad_97
+  - first:
+      213: -6988440978842990780
+    second: Brad_98
+  - first:
+      213: 3635303276330700506
+    second: Brad_99
+  - first:
+      213: 2359752396157362641
+    second: Brad_100
+  - first:
+      213: 7584191283862441719
+    second: Brad_101
+  - first:
+      213: 4950959745319836999
+    second: Brad_102
+  - first:
+      213: 6993538014507428627
+    second: Brad_103
+  - first:
+      213: -6501881532161969257
+    second: Brad_104
+  - first:
+      213: 1016136503815406252
+    second: Brad_105
+  - first:
+      213: -249765268566779849
+    second: Brad_106
+  - first:
+      213: 8994378711043566461
+    second: Brad_107
+  - first:
+      213: 2226254938438873007
+    second: Brad_108
+  - first:
+      213: -840830516245920026
+    second: Brad_109
+  - first:
+      213: 2141883649037560412
+    second: Brad_110
+  - first:
+      213: 5736069522195680662
+    second: Brad_111
+  - first:
+      213: 3515568302793224640
+    second: Brad_112
+  - first:
+      213: 5289998023092189805
+    second: Brad_113
+  - first:
+      213: -3723212503475424924
+    second: Brad_114
+  - first:
+      213: 2461114966417600935
+    second: Brad_115
+  - first:
+      213: -444937567593522701
+    second: Brad_116
+  - first:
+      213: -4465405007003066572
+    second: Brad_117
+  - first:
+      213: -4773384262295168402
+    second: Brad_118
+  - first:
+      213: 4536144743975346954
+    second: Brad_119
+  - first:
+      213: 1040043186896867041
+    second: Brad_120
+  - first:
+      213: 7289154163282321642
+    second: Brad_121
+  - first:
+      213: 1214318537670545487
+    second: Brad_122
+  - first:
+      213: 4985694832784260144
+    second: Brad_123
+  - first:
+      213: 6302836227409689515
+    second: Brad_124
+  - first:
+      213: 6781874467302375506
+    second: Brad_125
+  - first:
+      213: 4560731525697097731
+    second: Brad_126
+  - first:
+      213: -6960662649083303203
+    second: Brad_127
+  - first:
+      213: -632640896936982559
+    second: Brad_128
+  - first:
+      213: -8411095811164801585
+    second: Brad_129
+  - first:
+      213: 335379903185625508
+    second: Brad_130
+  - first:
+      213: 8101641554254704388
+    second: Brad_131
+  - first:
+      213: 3917700929420549253
+    second: Brad_132
+  - first:
+      213: 5608839272063862960
+    second: Brad_133
+  - first:
+      213: 4747671311016153093
+    second: Brad_134
+  - first:
+      213: 2942668662683503760
+    second: Brad_135
+  - first:
+      213: 1602272169573702269
+    second: Brad_136
+  - first:
+      213: 6826913641492846149
+    second: Brad_137
+  - first:
+      213: -5231810784855235358
+    second: Brad_138
+  - first:
+      213: 9179258954046739545
+    second: Brad_139
+  - first:
+      213: 3695597010897334009
+    second: Brad_140
+  - first:
+      213: -1369792510553574654
+    second: Brad_141
+  - first:
+      213: 2493242597404760071
+    second: Brad_142
+  - first:
+      213: 3878367048759621602
+    second: Brad_143
+  - first:
+      213: -3841951776380739970
+    second: Brad_144
+  - first:
+      213: 2224739999494021909
+    second: Brad_145
+  - first:
+      213: 5391180346312758885
+    second: Brad_146
+  - first:
+      213: -2660363217394876235
+    second: Brad_147
+  - first:
+      213: 2977942828584524943
+    second: Brad_148
+  - first:
+      213: -5472228142681920833
+    second: Brad_149
+  - first:
+      213: -8152312902992563611
+    second: Brad_150
+  - first:
+      213: 5619106367108694909
+    second: Brad_151
+  - first:
+      213: -4230148506986868604
+    second: Brad_152
+  - first:
+      213: -7048030256484127237
+    second: Brad_153
+  - first:
+      213: -2436671066790135597
+    second: Brad_154
+  - first:
+      213: 8548632550638388341
+    second: Brad_155
+  - first:
+      213: 4548586465201972175
+    second: Brad_156
+  - first:
+      213: 6556968924159726567
+    second: Brad_157
+  - first:
+      213: 5474945847712768828
+    second: Brad_158
+  - first:
+      213: -8999111330155433705
+    second: Brad_159
+  - first:
+      213: 74049061446771388
+    second: Brad_160
+  - first:
+      213: 1213828689420673830
+    second: Brad_161
+  - first:
+      213: -293691558503689250
+    second: Brad_162
+  - first:
+      213: 3131669745475959738
+    second: Brad_163
+  - first:
+      213: -7814011092080781976
+    second: Brad_164
+  - first:
+      213: -5303926514940638139
+    second: Brad_165
+  - first:
+      213: -7268028257019363659
+    second: Brad_166
+  - first:
+      213: 8977164029083137294
+    second: Brad_167
+  - first:
+      213: 8649746030152646274
+    second: Brad_168
+  - first:
+      213: -8150083630597689414
+    second: Brad_169
+  - first:
+      213: -5556004713058258325
+    second: Brad_170
+  - first:
+      213: 5264955870492733607
+    second: Brad_171
+  - first:
+      213: -5270932140076490516
+    second: Brad_172
+  - first:
+      213: 51603881115113891
+    second: Brad_173
+  - first:
+      213: 4359678592699673998
+    second: Brad_174
+  - first:
+      213: 2782340147661362771
+    second: Brad_175
+  - first:
+      213: -4250233729196569566
+    second: Brad_176
+  - first:
+      213: -2696987476779390365
+    second: Brad_177
+  - first:
+      213: 9107914332161904512
+    second: Brad_178
+  - first:
+      213: 858780885496956710
+    second: Brad_179
+  - first:
+      213: 6445328637752862588
+    second: Brad_180
+  - first:
+      213: -6059190475950821777
+    second: Brad_181
+  - first:
+      213: -2519001794644000016
+    second: Brad_182
+  - first:
+      213: 894681401194909742
+    second: Brad_183
+  - first:
+      213: 6913826480677426280
+    second: Brad_184
+  - first:
+      213: 2050624060834048138
+    second: Brad_185
+  - first:
+      213: 6768825455780854423
+    second: Brad_186
+  - first:
+      213: -6010599704124082211
+    second: Brad_187
+  - first:
+      213: 4484587370285643303
+    second: Brad_188
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 22
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Brad_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2252
+        width: 55
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25af5806706f24695933019bf3a8b2eb
+      internalID: -8462706124484922059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 2252
+        width: 57
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee0290a73cd24cc7a0f71cb9d2fbbb4
+      internalID: -4409191644378920522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 2252
+        width: 56
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59093500562de4ef39c1145cfe474aef
+      internalID: -3491841259120484415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_3
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 2252
+        width: 56
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b5c108ec94a45b4a88f0596e6a9fc8
+      internalID: -9116777984454558027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_15
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 2154
+        width: 43
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd0661c75a154cdebff04d754e77595
+      internalID: -4899312365215810050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_16
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 2155
+        width: 43
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b7ae65fd24d481c907718e8136ad4c
+      internalID: -5211618307429326711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_17
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 2155
+        width: 45
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc035ab93d394c78b82c9fa5d8123d5
+      internalID: 5665968461332855155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_18
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 2152
+        width: 49
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b62b84f8288543f397931ba76bda633
+      internalID: 5361349560080778825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_19
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 2152
+        width: 44
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac74b0b97b2f4f59a04509e612a4328
+      internalID: -2515956959365466177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_20
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 2152
+        width: 42
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7142cced15f6f4c2eb012095710f7d88
+      internalID: 2112308200914756003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_23
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2152
+        width: 50
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf94db89447394a5eb156f6842350560
+      internalID: 7282557314061411006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_24
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2152
+        width: 52
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee6e503d338b4abeaebe94f32b5c358
+      internalID: 2224317099685194006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_25
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2058
+        width: 55
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05cb0f5f75ad6458fb8cb9616a02ae56
+      internalID: -842301137548797222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_26
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 2063
+        width: 80
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fad3a832d5e4e25803aab678d7e848
+      internalID: 2933677672287002026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_27
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2060
+        width: 76
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d60e41236ee4970a15135366f6ba68
+      internalID: 7784588833158547411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_28
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 2060
+        width: 48
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171548354355a4fdb9d1d01ac60f9e8f
+      internalID: 4656317335362875875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_29
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 2060
+        width: 50
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af3101110b68427ab7fc9adb2b6a7b3
+      internalID: 5741582941873964364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_30
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 2064
+        width: 70
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73690b2f62e5a41f5bf9653d62bcf576
+      internalID: 2118045641349101354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_31
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 2062
+        width: 70
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02dabca088ec741bda804c6ea5f00cdc
+      internalID: 6713581421779738403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_32
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 2058
+        width: 48
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559dc43f34d494440be1d7975cdbed6e
+      internalID: -6906678713860107019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_33
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1965
+        width: 78
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad99e5a1a714d4497b0c9c63aa380095
+      internalID: 7474565076659870262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_34
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1965
+        width: 82
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e040b74929bff4dfc9cb2cf2591e9433
+      internalID: -9068578259197075457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_35
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1965
+        width: 73
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909736ea75df940088517fc624bfbcad
+      internalID: 3223066910218053021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_36
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1966
+        width: 56
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790aa4aae8f804bd4a8625c8c9c3e3c6
+      internalID: 3301868076538638413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_37
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1962
+        width: 65
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6610ebcac2844169ef401bd031cfc7
+      internalID: -5617803832170556828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_38
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1965
+        width: 59
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301c5b4c4e3a24aa0be6538a57524c5d
+      internalID: 2887162772323290842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_39
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1965
+        width: 55
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbe3f189a9f54ed1b0e13580a8556e2
+      internalID: 7076557266385896191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_40
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1965
+        width: 56
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579bd4d1268214fb4a21c2336c798956
+      internalID: -4426318199022680716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_41
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1966
+        width: 49
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd4343579600445ca37cf0289d2f430
+      internalID: -914427759594991606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_42
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1868
+        width: 51
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a81b8085b1f84747b6bc2577d2720cf
+      internalID: -5866614464513414954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_43
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1868
+        width: 88
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6eb90450ed44a0981cc3976195671f
+      internalID: -5870627269834914341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_44
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1868
+        width: 86
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe43402141fc42ffbb7c780112f5c82
+      internalID: -949827871744771248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_45
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1868
+        width: 68
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd038722ffdf4494f8ad5264fbe6243c
+      internalID: 2294742302999109055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_46
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1783
+        width: 52
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63d6f01a08924e30a5c6c4af6ef998b
+      internalID: 1090397355952430622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_47
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1783
+        width: 84
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae51865e88e514038a1b2c4fae7cf2fa
+      internalID: -2709890273384497506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_48
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1783
+        width: 85
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09043535b6e6c4da7b0a597d7a3d68a1
+      internalID: -9048844135373976955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_49
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1783
+        width: 71
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b34ba0019b8349ff9449e69f4837751
+      internalID: -3659095277281591079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_50
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1783
+        width: 47
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379af985ede4245b2b780ec1584f6b4b
+      internalID: 4583761361282775232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_51
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1660
+        width: 55
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18b1d46ba39443abbae300c113dffe8
+      internalID: -4905266957159961030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_52
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1676
+        width: 59
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb10af0f96764203a0a3ee7f9b4a63f
+      internalID: -8258824111678312576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_53
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1676
+        width: 59
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c5762f3007f4e388cb170f0413ff4a
+      internalID: -5441678701635261660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_54
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1676
+        width: 59
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae8b470c5fbc43df9955d4e5897e48b
+      internalID: -7462376751618528557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_55
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1681
+        width: 51
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc3bff6e717e4f1a84a50aed8dfeb3a
+      internalID: -5598439307397043762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_56
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1691
+        width: 53
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beba9dabade64433498b6993d6b140af
+      internalID: 5555535247852991298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_57
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1697
+        width: 49
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e6ca4dedb794389b82a550fa28a088
+      internalID: -5387840279508595567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_58
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1689
+        width: 54
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f8b405addd24885a14a8147e2fadc5
+      internalID: 4839600245252986420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_59
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1680
+        width: 57
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f80d1f268444bb393e96513a48a9cf
+      internalID: 1677802376607313542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_60
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1676
+        width: 56
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4435100c0f4ad46cab79a34315644e4b
+      internalID: 6250827904272494848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_61
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1676
+        width: 56
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c198cdab9db6c447bbf07a199d9b6196
+      internalID: 3751466808236638190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_62
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1676
+        width: 57
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9a23d7575d942d092b814e1ff5928d
+      internalID: 8434573188884297492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_63
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1660
+        width: 55
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b776c709292d74c1091d9b99aaeadad5
+      internalID: -7324843030494231911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_64
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1565
+        width: 48
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd70a736f30fb445190ba1c022027fb8
+      internalID: -7114862124717207114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_65
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1574
+        width: 40
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffdad311c07240d989ece9bf4f73f9d
+      internalID: -8289713286215581182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_66
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1582
+        width: 37
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ccf3394087f482ba3694606d913b31
+      internalID: -9026425266949028253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_67
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1579
+        width: 90
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989d6813fe8d048f7adb6f1b25b9f649
+      internalID: 7185914065850681674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_68
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1580
+        width: 86
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d922c2e7cd84a56b1f0f8c26e8f38e
+      internalID: 4688491299251870013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_69
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1453
+        width: 54
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfa0473cbbfb4a20ad7cd9ebb376b6a
+      internalID: -1161993876114802011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_70
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1453
+        width: 54
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24042f71ff0e46afbe27cd767165d0e
+      internalID: 1262036498726364415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_71
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1455
+        width: 77
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4fea916985541a4b26ee0a4cae85bd
+      internalID: -1551163670583457416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_72
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1456
+        width: 73
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f806bef9845640848b0f3d360674290
+      internalID: 4863138162938230561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_73
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1469
+        width: 66
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d90a4857fb54226ba67c5e77c2a119
+      internalID: -7846949458089240509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_74
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1455
+        width: 67
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572b0bbe47c1c4e40823a9b17c54c292
+      internalID: 5229419022754055633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_75
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1454
+        width: 65
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d1facd525fe4dbbb4fd45a4294f763
+      internalID: -7046094033448472235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_76
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1453
+        width: 54
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e466a95357b4fe6a1f5229fe13143f
+      internalID: -5659966734964640601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_77
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1348
+        width: 69
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28da48d29f8a94a98bf77e7057985948
+      internalID: -6598226867495757184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_78
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1348
+        width: 58
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e948010893cf7409d8f43e591a946ed6
+      internalID: 62292241868539264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_79
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1348
+        width: 70
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897a2824c4bee43eb9282d7ef9140d5d
+      internalID: 4496028851253096580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_80
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1348
+        width: 55
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce9a69ff577342b8aa7e8c980154f24
+      internalID: -674927210393964433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_81
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1348
+        width: 54
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7838d6774a349318b39409bc7f4de0
+      internalID: 787309106735841851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_82
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1348
+        width: 49
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e136e2d8ba8524cb58e9a6f4b614063f
+      internalID: 4064373421786593304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_83
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1348
+        width: 51
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6115c920be9e4f50b3f88f6363a0526
+      internalID: 8350474692062002158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_84
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1349
+        width: 50
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e61249ee0f2e45a7ae663c80452c3f2
+      internalID: 850089900402738752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_85
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1350
+        width: 73
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a5a8dc27b774271afc5c992103a437
+      internalID: -5558075339941144787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_86
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1350
+        width: 64
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25057e61ad2d4e12b9e277622a3f033
+      internalID: 2167853690756033059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_87
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1350
+        width: 56
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306e85f0ecd024bad975d3c83343b7aa
+      internalID: -805510381892616052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_88
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1349
+        width: 57
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9985beb177f044905aec9d2433cdc003
+      internalID: -3488887234236369134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_89
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1255
+        width: 57
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21947c5f109d34ed493947b80ef95e51
+      internalID: 6464660701611019673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_90
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1255
+        width: 52
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610b40b7def654052be779c746ef02b8
+      internalID: 5636117428555218480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_91
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1255
+        width: 56
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d270b9a3b7c99495ab16d4fd61da6724
+      internalID: -8079632508846109648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_92
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1255
+        width: 55
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81448f5c25c684707988113a4dac86ea
+      internalID: -8526867150860864503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_93
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1255
+        width: 53
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4c5285fd8744ac6b507689f0e4b154
+      internalID: -2471363173118038828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_94
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1255
+        width: 54
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350817a516cd04a5fb2388bf393d3fb2
+      internalID: 681859364373033930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_95
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1255
+        width: 53
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457eb4fecb51d4ae0ac166e0a22d5fd7
+      internalID: -1462441314660033340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_96
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1255
+        width: 56
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd62f83806e86449e9a6859fdc45d34e
+      internalID: -5376635747296631740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_97
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1161
+        width: 56
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76da5c7deebd84a4fbf99581cc2c8333
+      internalID: 8864587624235733861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_98
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1161
+        width: 56
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc04eda4d34dc4b71b38bae513a7e345
+      internalID: -6988440978842990780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_99
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1161
+        width: 56
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6a1f46ab5ba44db97729a617f6d675
+      internalID: 3635303276330700506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_100
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1161
+        width: 84
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b18fe5ec0ba340548e1dbda07e78172
+      internalID: 2359752396157362641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_101
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1161
+        width: 78
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ede132647ca472c81bc0643d6478cc
+      internalID: 7584191283862441719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_102
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1161
+        width: 68
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45ebee04099a4e49afe5ef4b8f70810
+      internalID: 4950959745319836999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_103
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1161
+        width: 57
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84672ca764bd342bfa9f830c24fda721
+      internalID: 6993538014507428627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_104
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1161
+        width: 57
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7413bd7bbb145389e20a6de3ec28fc
+      internalID: -6501881532161969257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_105
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1073
+        width: 59
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6e8de0a479f473fad1aa049c9bb796
+      internalID: 1016136503815406252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_106
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1073
+        width: 57
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f622153cb81f480fb62f7ac4f6887d0
+      internalID: -249765268566779849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_107
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1073
+        width: 50
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d36ed1e5d28442fb3257b51078b803
+      internalID: 8994378711043566461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_108
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1073
+        width: 68
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c4b63782f564b06b7a975703cb35fc
+      internalID: 2226254938438873007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_109
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1073
+        width: 67
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a0c74b041e54d91bda99b1005ceef6
+      internalID: -840830516245920026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_110
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1073
+        width: 58
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b2065677cfc4a78be6f17363473a17
+      internalID: 2141883649037560412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_111
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1073
+        width: 56
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416b5df2bb08345f59dc56b2dfc5afe2
+      internalID: 5736069522195680662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_112
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 950
+        width: 71
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbe43befbf6341f38ab3499c90c95a6
+      internalID: 3515568302793224640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_113
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 968
+        width: 61
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e975d0d079b402e8af3d9cc33dcf84
+      internalID: 5289998023092189805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_114
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 994
+        width: 69
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5296193bcf97e4308a2fbca8789b33e2
+      internalID: -3723212503475424924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_115
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1015
+        width: 84
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664d339b12ff441a08d82eab9bed00ca
+      internalID: 2461114966417600935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_116
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1007
+        width: 74
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75745eb6c0aa541e391f024faed087bd
+      internalID: -444937567593522701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_117
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 991
+        width: 59
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fdaf6bc3ad84c1c983c219a477255e
+      internalID: -4465405007003066572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_118
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 884
+        width: 52
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc238763fef54bddb761d6352f814e9
+      internalID: -4773384262295168402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_119
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 884
+        width: 91
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978c1763f797146afa59027aeef5eb90
+      internalID: 4536144743975346954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_120
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 886
+        width: 95
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cec1d9539bc45b799c23be9f351def
+      internalID: 1040043186896867041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_121
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 887
+        width: 95
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf54ea443d70407488f83c83b68d48d
+      internalID: 7289154163282321642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_122
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 889
+        width: 90
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa21e266635184a51b3b749ebdf74c34
+      internalID: 1214318537670545487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_123
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 886
+        width: 94
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b4d1b99c365427d876eb6b45e6e563
+      internalID: 4985694832784260144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_124
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 881
+        width: 94
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e7d5e437cee40428b18cfb0387e62c
+      internalID: 6302836227409689515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_125
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 881
+        width: 98
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b92aad7e2cd427182bdb55dcc5ed72
+      internalID: 6781874467302375506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_126
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 881
+        width: 98
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d492793a4614fe6acf922fee928a51
+      internalID: 4560731525697097731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_127
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 764
+        width: 58
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf167d4fd5c284d4691e1234dd009c86
+      internalID: -6960662649083303203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_128
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 764
+        width: 49
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b741fb6465a453db061a7accee4e0b
+      internalID: -632640896936982559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_129
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 764
+        width: 44
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a2a52cb4b754a909411c8a9ae490e0
+      internalID: -8411095811164801585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_130
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 809
+        width: 79
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b312bcb2af0e6472e909b1559a2485d1
+      internalID: 335379903185625508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_131
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 786
+        width: 53
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e369c8cdb0fd54604a8bf088e7023d88
+      internalID: 8101641554254704388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_132
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 769
+        width: 52
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4909338d5284f4daa8ba8dfdd01a0bd6
+      internalID: 3917700929420549253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_133
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 766
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df62c092d0a214842a4c1d81f6ae9ea3
+      internalID: 5608839272063862960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_134
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 766
+        width: 60
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df6dd14fdfae407882ef88798b7c13d
+      internalID: 4747671311016153093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_135
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 766
+        width: 56
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7ee65a10e174d18b80ce30480f957f
+      internalID: 2942668662683503760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_136
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 765
+        width: 56
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168afb1e31b114ca194ad4b5df2d7da2
+      internalID: 1602272169573702269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_137
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 669
+        width: 56
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4110760ecb3514d9a8d0fd6e89c5f394
+      internalID: 6826913641492846149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_138
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 669
+        width: 55
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235f5e2cec36b4e6b84c2514f646aec2
+      internalID: -5231810784855235358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_139
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 669
+        width: 54
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb359fcff88914f0d9ab3988bbd8c17b
+      internalID: 9179258954046739545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_140
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 669
+        width: 54
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af6d5f91561b4337a5ebe930fceb1c9
+      internalID: 3695597010897334009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_141
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 669
+        width: 55
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3a464471bbd47ffbfdeea01025de83
+      internalID: -1369792510553574654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_142
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 669
+        width: 56
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8328019c897294bd29392337ec856003
+      internalID: 2493242597404760071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_143
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 584
+        width: 50
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cc5eb89190d45708e67a85a045c220
+      internalID: 3878367048759621602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_144
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 584
+        width: 51
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b7ce436906d4f86a203d8a88eab28b
+      internalID: -3841951776380739970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_145
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 584
+        width: 51
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb8857fd1dd74d508ca5e7826850827
+      internalID: 2224739999494021909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_146
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 526
+        width: 98
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff15c7fc3db0046059f45484bf634969
+      internalID: 5391180346312758885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_147
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 526
+        width: 98
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6364171e7b90a4975ac269d2076ddd32
+      internalID: -2660363217394876235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_148
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 528
+        width: 96
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb4652604fd44cdd81e5419c7850b51
+      internalID: 2977942828584524943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_149
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 525
+        width: 96
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba965e0ed584144c486d0854d755306d
+      internalID: -5472228142681920833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_150
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 559
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af40d39356ca04f1d80f8f5afbd1410e
+      internalID: -8152312902992563611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_151
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 525
+        width: 96
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356921c1441e94439b935a074f238f33
+      internalID: 5619106367108694909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_152
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 453
+        width: 99
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d14c272f4f944ca3a033129a2d7db06
+      internalID: -4230148506986868604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_153
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 455
+        width: 96
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6c72e1d829941c880902201cecb809
+      internalID: -7048030256484127237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_154
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 455
+        width: 104
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716830ae5f0b64493b6b7662093f043b
+      internalID: -2436671066790135597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_155
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 455
+        width: 104
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be3fd4fea25a4da0aa551a2ae41e111
+      internalID: 8548632550638388341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_156
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 455
+        width: 104
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d562b6aca391d4fe5a38f6d31cb01530
+      internalID: 4548586465201972175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_157
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 351
+        width: 52
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8bddaede3b1e45c18b749950cd55de3
+      internalID: 6556968924159726567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_158
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 351
+        width: 52
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdee25ba2a17c45879a3b8991e3be4cc
+      internalID: 5474945847712768828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_159
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 264
+        width: 50
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77aa5bf66a4a54874909d0c6aff7b493
+      internalID: -8999111330155433705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_160
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 265
+        width: 45
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45985c2bff586415ea9c65c817a24f65
+      internalID: 74049061446771388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_161
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 272
+        width: 54
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093f621df266f41388d9ee6bce06e970
+      internalID: 1213828689420673830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_162
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 278
+        width: 55
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17618d371f5fa4d34a789f0192931eaf
+      internalID: -293691558503689250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_163
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 264
+        width: 50
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87942eb158ff24484afaa2ac630d41d6
+      internalID: 3131669745475959738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_164
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 166
+        width: 50
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2363cf3322f0545e5b0eaafcab6b86bb
+      internalID: -7814011092080781976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_165
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 166
+        width: 51
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44762682ec7744edb89cacaf9783f67f
+      internalID: -5303926514940638139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_166
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 175
+        width: 55
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f98fec8c98634c93b089d0b3e87e718
+      internalID: -7268028257019363659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_167
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 171
+        width: 50
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c595462994b1441a5806355d03e4c332
+      internalID: 8977164029083137294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_168
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 161
+        width: 43
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595766e4865784bcdbc2e41c33c57416
+      internalID: 8649746030152646274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_169
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 193
+        width: 81
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27155e079105417ab211126bff31504
+      internalID: -8150083630597689414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_170
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 73
+        width: 60
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24343ea8b3384005ad13defdeb76145
+      internalID: -5556004713058258325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_171
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 73
+        width: 63
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e6dc0ca8f3b4c3fab6fad2e4e33567
+      internalID: 5264955870492733607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_172
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 73
+        width: 63
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5bf3e8323044e729e7ff2e628669ae
+      internalID: -5270932140076490516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_173
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 73
+        width: 63
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69d5ab7571284a619d9f3f1d7bdd1b5
+      internalID: 51603881115113891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_174
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 73
+        width: 62
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabdf3065a97041e29ee9e54493ca6e3
+      internalID: 4359678592699673998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_175
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 73
+        width: 60
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358ec3a2060764b669b36511bfd22c53
+      internalID: 2782340147661362771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_176
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 73
+        width: 60
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45aec5faac1a34782af95c9cdc6a9216
+      internalID: -4250233729196569566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_177
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 73
+        width: 60
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e198ccf9a96af4f2fa1ad3c8dbeeef0b
+      internalID: -2696987476779390365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_178
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 73
+        width: 62
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f359ceae37334fa4b9ceda36bc8a521
+      internalID: 9107914332161904512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_179
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 73
+        width: 62
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b657fd8d5ffd446cc96bfe9ff6b1bd1e
+      internalID: 858780885496956710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_180
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 73
+        width: 62
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed2595f3a48b4798bdffee6fff78a99
+      internalID: 6445328637752862588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_181
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 9
+        width: 87
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb033a5214ce64350bcea56cd3216e43
+      internalID: -6059190475950821777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_182
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 45
+        width: 17
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1672bbb3550a34483b11ea7412c04bc0
+      internalID: -2519001794644000016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_183
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 35
+        width: 18
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c984b2ab6b434bd7b2fdf710a464ee9
+      internalID: 894681401194909742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_184
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 8
+        width: 87
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6ca9b2b897649eea339c4851a48c63
+      internalID: 6913826480677426280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_185
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 40
+        width: 23
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069eec83cc0a6498b97457a462e08ec6
+      internalID: 2050624060834048138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_186
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 41
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3750b8471f94e469317e772c18579a
+      internalID: 6768825455780854423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_187
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 7
+        width: 86
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba2e30f5ebd74e6ca8baf79a7b9efe0
+      internalID: -6010599704124082211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brad_188
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 8
+        width: 87
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9d0016471b4462e941a537f92ef75c
+      internalID: 4484587370285643303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 53dcd3a10219d460d8f2cc99fdebd3d9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

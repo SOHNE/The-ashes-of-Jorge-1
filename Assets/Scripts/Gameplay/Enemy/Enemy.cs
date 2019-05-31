@@ -2,21 +2,20 @@
 
 public class Enemy : CharacterBase {
     #region "Vars"
+    [SerializeField] protected int PosLife = 2;
+
     protected float walkTimer;
     public float stopDistance = 1f;
     protected int lastDamage;
 
     protected float forcaZ, forcaH;
+    [SerializeField] private int num;
+    [SerializeField] private float ReviveProb = .2f;
 
-    private int num;
-    protected Transform Target => GameObject.FindGameObjectsWithTag("EnemyPoints")[num].transform;
-    public Vector3 PointDistance => Target.position - transform.position;
     public Vector3 PlayerDistance => player.transform.position - transform.position;
-
 
     protected GameObject HB;
     private bool HB_show;
-    protected int posLife;
 
     public bool Attacking;
 
@@ -59,14 +58,14 @@ public class Enemy : CharacterBase {
         GetComponent<CapsuleCollider>().enabled = false;
         rb.isKinematic = true;
 
-        //if (posLife >= 2) { anim.SetTrigger("Destroy"); return; }
+        if (PosLife >= 2) { anim.SetTrigger("Destroy"); return; }
 
-        string triggerName = Random.value <= .2f ? "Destroy" : "Revive";
+        string triggerName = Random.value <= ReviveProb ? "Revive" : "Destroy";
 
         anim.SetTrigger(triggerName);
     }
 
-    protected override void OnHit(int damage) {
+    protected override void OnDamage(int damage) {
         HealthBar();
         HB.GetComponentInChildren<HealthBar>().Hurt(damage);
         walkTimer = 0;
@@ -80,7 +79,7 @@ public class Enemy : CharacterBase {
     public void Destroy() { Destroy(gameObject, Random.Range(1f, 3f)); Destroy(HB, .525f); }
 
     public void Revive() {
-        posLife++;
+        PosLife--;
         GetComponent<CapsuleCollider>().enabled = true;
         currentSpeed = maxSpeed;
         currentHealth = maxHealth;
@@ -119,21 +118,20 @@ public class Enemy : CharacterBase {
                 walkTimer = 0;
 
             } else if (PlayerDistance.sqrMagnitude >= 100) {
-                forcaH = PointDistance.x / Mathf.Abs(PointDistance.x);
+                forcaH = PlayerDistance.x / Mathf.Abs(PlayerDistance.x);
             }
         } else {
-            forcaH = PointDistance.x / Mathf.Abs(PointDistance.x);
-            forcaZ = PointDistance.z / Mathf.Abs(PointDistance.z);
+            forcaH = PlayerDistance.x / Mathf.Abs(PlayerDistance.x);
+            forcaZ = PlayerDistance.z / Mathf.Abs(PlayerDistance.z);
 
+            if (Mathf.Abs(PlayerDistance.x) <= stopDistance) { forcaH = 0; }
         }
-
-        if (Mathf.Abs(PointDistance.x) <= stopDistance) { forcaH = 0; }
 
         MoveHandler(forcaH, forcaZ);
     }
 
     protected virtual void BasicAttack() {
-        bool attack = Mathf.Abs(PointDistance.x) < 1.5f && Mathf.Abs(PointDistance.z) < 1f;
+        bool attack = Mathf.Abs(PlayerDistance.x) < 1.5f && Mathf.Abs(PlayerDistance.z) < 1f;
         if (attack && Time.time > nextAttack) {
             Attack();
         }

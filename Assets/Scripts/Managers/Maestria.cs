@@ -2,8 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Maestria : MonoBehaviour
-{
+public class Maestria : MonoBehaviour {
     [Range(0, 1)] public float options;
     //We create an array with 2 audio sources that we will swap between for transitions
     public static AudioSource[] aud = new AudioSource[2];
@@ -12,8 +11,7 @@ public class Maestria : MonoBehaviour
     //We will store the transition as a Coroutine so that we have the ability to stop it halfway if necessary
     IEnumerator musicTransition;
 
-    void Awake()
-    {
+    void Awake() {
         //Create the AudioSource components that we will be using
         aud[0] = gameObject.AddComponent<AudioSource>();
         aud[1] = gameObject.AddComponent<AudioSource>();
@@ -24,8 +22,7 @@ public class Maestria : MonoBehaviour
 
     //use this method to start a new soundtrack, with a reference to the AudioClip that you want to use
     //    such as:        newSoundtrack((AudioClip)Resources.Load("Audio/soundtracks/track01"));
-    public void NewSoundtrack(string file)
-    {
+    public void NewSoundtrack(string file) {
         //This ?: operator is short hand for an if/else statement, eg.
         //
         //      if (activeMusicSource) {
@@ -55,11 +52,9 @@ public class Maestria : MonoBehaviour
     }
 
     //  'transitionDuration' is how many tenths of a second it will take, eg, 10 would be equal to 1 second
-    private IEnumerator Transition(int transitionDuration)
-    {
+    private IEnumerator Transition(int transitionDuration) {
 
-        for (int i = 0; i < transitionDuration + 1; i++)
-        {
+        for (int i = 0; i < transitionDuration + 1; i++) {
             aud[0].volume = activeMusicSource ? (transitionDuration - i) * (1f / transitionDuration) : (0 + i) * (1f / transitionDuration);
             aud[1].volume = !activeMusicSource ? (transitionDuration - i) * (1f / transitionDuration) : (0 + i) * (1f / transitionDuration);
 

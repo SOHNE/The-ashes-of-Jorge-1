@@ -3,7 +3,7 @@
 public class EnemyPointer : MonoBehaviour {
 
     [SerializeField] private bool used;
-    public bool isUsed { get => used; }
+    public bool IsUsed { get => used; }
 
     private void OnTriggerEnter(Collider other) {
         if (!other.CompareTag("Enemy")) { return; }

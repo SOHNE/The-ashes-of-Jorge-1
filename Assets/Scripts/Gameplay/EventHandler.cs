@@ -37,7 +37,7 @@ public class EventHandler : MonoBehaviour {
             _GM.Follow();
             //FindObjectOfType<UIManager>().AnimGO();
             Destroy(gameObject);
-            //gameObject.SetActive(false);
+            gameObject.SetActive(false);
         }
 
     }

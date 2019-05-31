@@ -16,14 +16,14 @@ public class Kamikaze : Enemy {
     void FixedUpdate() {
         if (isDead) { return; }
 
-        float forcaH = PointDistance.x / Mathf.Abs(PointDistance.x);
-        forcaZ = PointDistance.z / Mathf.Abs(PointDistance.z);
+        float forcaH = PlayerDistance.x / Mathf.Abs(PlayerDistance.x);
+        forcaZ = PlayerDistance.z / Mathf.Abs(PlayerDistance.z);
 
-        //if (Mathf.Abs(PointDistance.x) < stopDistance) { forcaH = 0; forcaZ = 0; }
+        //if (Mathf.Abs(PlayerDistance.x) < stopDistance) { forcaH = 0; forcaZ = 0; }
 
         if (!damaged) { MoveHandler(forcaH, forcaZ); }
 
-        bool attack = Mathf.Abs(PointDistance.x) < 3f && Mathf.Abs(PointDistance.z) < 1f;
+        bool attack = Mathf.Abs(PlayerDistance.x) < 3f && Mathf.Abs(PlayerDistance.z) < 1f;
         if (attack && Time.time > nextAttack) {
             Attack();
         }

@@ -7,7 +7,7 @@ public class William : Enemy {
     }
 
     protected override void BasicAttack() {
-        bool attack = Mathf.Abs(PointDistance.x) < 1.7f && Mathf.Abs(PointDistance.z) < 1f;
+        bool attack = Mathf.Abs(PlayerDistance.x) < 1.7f && Mathf.Abs(PlayerDistance.z) < 1f;
         if (attack && Time.time > nextAttack) {
             Attack();
         }

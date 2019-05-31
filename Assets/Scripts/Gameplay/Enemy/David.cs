@@ -10,7 +10,7 @@ public class David : Enemy
 
     protected override void BasicMove()
     {
-        forcaH = PointDistance.x / Mathf.Abs(PointDistance.x);
+        forcaH = PlayerDistance.x / Mathf.Abs(PlayerDistance.x);
 
         if (!Attacking)
         {
@@ -25,17 +25,17 @@ public class David : Enemy
         }
         else
         {
-            forcaZ = PointDistance.z / Mathf.Abs(PointDistance.z);
+            forcaZ = PlayerDistance.z / Mathf.Abs(PlayerDistance.z);
         }
 
-        if (Mathf.Abs(PointDistance.x) < stopDistance) { forcaH = 0; }
+        if (Mathf.Abs(PlayerDistance.x) < stopDistance) { forcaH = 0; }
 
         MoveHandler(forcaH, forcaZ);
     }
 
     protected override void BasicAttack()
     {
-        bool attack = Mathf.Abs(PointDistance.x) < 1.5f && Mathf.Abs(PointDistance.z) < 1f;
+        bool attack = Mathf.Abs(PlayerDistance.x) < 1.5f && Mathf.Abs(PlayerDistance.z) < 1f;
         if (attack && Time.time > nextAttack)
         {
             Attack();

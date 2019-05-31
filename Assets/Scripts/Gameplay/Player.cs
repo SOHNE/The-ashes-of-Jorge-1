@@ -8,36 +8,35 @@ using UnityEngine;
 
 public class Player : CharacterBase {
     private Transform EnemyChecker;
-    private HealthBar P_UI;
-    [SerializeField] private PlayerUI pui;
+    public PlayerUI pui;
     public int combo;
     public float comboTimer;
 
     private void Start() {
         GameObject.Find("HPB").GetComponent<HealthBar>().MaxHealthPoints = maxHealth;
-        //P_UI = GameObject.Find("HPB").GetComponent<HealthBar>();
     }
 
     void Update() {
         comboTimer += Time.deltaTime;
         if (!combo.Equals(0) && comboTimer >= 3f) { pui.ComboOut(); }
-        GameObject.Find("Combo").GetComponentInChildren<TextMeshProUGUI>().text = "COMBO:\r\n\t" + combo.ToString();
+        GameObject.Find("Combo").GetComponentInChildren<TextMeshProUGUI>().text = "COMBO:\n\t" + combo.ToString();
     }
 
     void FixedUpdate() {
         if (isDead) { PlayerRespawn(); }
+
         DamageLimiter();
         if (damaged) { return; }
 
-        Vector3 I = new Vector3(Input.GetAxis("Horizontal"), rb.velocity.y, Input.GetAxis("Vertical"));
+        Vector2 Inp = new Vector2(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical"));
 
-        MoveHandler(I.x, I.z, I.y);
+        MoveHandler(Inp.x, Inp.y, rb.velocity.y);
 
-        anim.SetBool("Input", !I.x.Equals(0) || !I.z.Equals(0));
+        anim.SetBool("Input", !Inp.x.Equals(0) || !Inp.y.Equals(0));
 
         if (Input.GetButtonDown("Jump") && OnGround) { Jump(); }
 
-        if (Input.GetButtonDown("Fire1")) { Attack(); }
+        if (Input.GetButtonDown("Fire1") && !OnGround) { Attack(); }
 
         //JumpControl();
     }
@@ -63,7 +62,7 @@ public class Player : CharacterBase {
 
     }
 
-    protected override void OnHit(int damage) {
+    protected override void OnDamage(int damage) {
         GameObject.Find("HPB").GetComponent<HealthBar>().Hurt(damage);
         pui.ComboOut();
     }

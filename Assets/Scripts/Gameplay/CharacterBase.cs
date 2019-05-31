@@ -87,7 +87,7 @@ public class CharacterBase : MonoBehaviour {
     /// </summary>
     public void TookDamage(int damage) {
         if (isDead || damaged) { return; }
-        OnHit(damage);
+        OnDamage(damage);
 
         currentSpeed = 0;
         rb.velocity = Vector3.zero;
@@ -270,7 +270,7 @@ public class CharacterBase : MonoBehaviour {
     }
 
     #region Meta
-    protected virtual void OnHit(int damage) { return; }
+    protected virtual void OnDamage(int damage) { return; }
     protected virtual void OnAttack(int damage) { return; }
     protected virtual void OnRecover(int health) { return; }
     #endregion
