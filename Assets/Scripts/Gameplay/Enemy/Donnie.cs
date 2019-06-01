@@ -7,23 +7,25 @@ public class Donnie : Enemy {
     }
 
     protected override void BasicMove() {
-        forcaH = PlayerDistance.x / Mathf.Abs(PlayerDistance.x);
+        Vector2 move = default;
+
+        move.x = PlayerDistance.x / Mathf.Abs(PlayerDistance.x);
 
         if (!Attacking) {
             if (walkTimer <= Random.Range(1f, 2f)) { return; }
 
-            forcaZ = Random.Range(-1, 2);
+            move.y = Random.Range(-1, 2);
             if (Camera.main.WorldToScreenPoint(transform.position).x > 40 && Camera.main.WorldToScreenPoint(transform.position).x < 900) {
-                forcaH = Random.Range(-1, 2);
+                move.x = Random.Range(-1, 2);
             }
             walkTimer = 0;
         } else {
-            forcaZ = PlayerDistance.z / Mathf.Abs(PlayerDistance.z);
+            move.y = PlayerDistance.z / Mathf.Abs(PlayerDistance.z);
         }
 
-        if (Mathf.Abs(PlayerDistance.x) < stopDistance) { forcaH = 0; }
+        if (Mathf.Abs(PlayerDistance.x) < stopDistance) { move.x = 0; }
 
-        MoveHandler(forcaH, forcaZ);
+        MoveHandler(move);
     }
 
     protected override void BasicAttack() {
@@ -32,6 +34,5 @@ public class Donnie : Enemy {
             Attack();
         }
     }
-
 
 }

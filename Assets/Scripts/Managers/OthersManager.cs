@@ -6,7 +6,7 @@ public class OthersManager : MonoBehaviour {
     [SerializeField] private List<Enemy> Enemies;
     private int Attackers;
 
-    private void FixedUpdate() {
+    private void Update() {
         Catch();
     }
 

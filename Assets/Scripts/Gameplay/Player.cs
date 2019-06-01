@@ -10,17 +10,12 @@ public class Player : CharacterBase {
     private Transform EnemyChecker;
     public PlayerUI pui;
     public int combo;
-    public float comboTimer;
 
     private void Start() {
         GameObject.Find("HPB").GetComponent<HealthBar>().MaxHealthPoints = maxHealth;
     }
 
-    void Update() {
-        comboTimer += Time.deltaTime;
-        if (!combo.Equals(0) && comboTimer >= 3f) { pui.ComboOut(); }
-        GameObject.Find("Combo").GetComponentInChildren<TextMeshProUGUI>().text = "COMBO:\n\t" + combo.ToString();
-    }
+    void Update() { }
 
     void FixedUpdate() {
         if (isDead) { PlayerRespawn(); }
@@ -28,15 +23,15 @@ public class Player : CharacterBase {
         DamageLimiter();
         if (damaged) { return; }
 
-        Vector2 Inp = new Vector2(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical"));
+        Vector2 move = new Vector2(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical"));
 
-        MoveHandler(Inp.x, Inp.y, rb.velocity.y);
+        MoveHandler(move);
 
-        anim.SetBool("Input", !Inp.x.Equals(0) || !Inp.y.Equals(0));
+        anim.SetBool("Input", !move.x.Equals(0) || !move.y.Equals(0));
 
         if (Input.GetButtonDown("Jump") && OnGround) { Jump(); }
 
-        if (Input.GetButtonDown("Fire1") && !OnGround) { Attack(); }
+        if (Input.GetButtonDown("Fire1")) { Attack(); }
 
         //JumpControl();
     }
@@ -44,8 +39,8 @@ public class Player : CharacterBase {
     void PlayerRespawn() {
         if (FindObjectOfType<GameManager>().lives <= 0) { return; }
 
-        FindObjectOfType<GameManager>().lives--;
         anim.Rebind();
+        FindObjectOfType<GameManager>().lives--;
         isDead = false;
         GetComponent<CapsuleCollider>().enabled = true;
         GameObject.Find("HPB").GetComponent<HealthBar>().Recover(maxHealth);
@@ -54,34 +49,21 @@ public class Player : CharacterBase {
         transform.position = new Vector3(minWidth, 10, -4);
     }
 
-    public void AttackComplete() {
-        ComboCounter();
-
-        if (combo < 3) { return; }
-        pui.ComboIn();
-
-    }
-
     protected override void OnDamage(int damage) {
         GameObject.Find("HPB").GetComponent<HealthBar>().Hurt(damage);
         pui.ComboOut();
     }
 
-    protected override void OnAttack(int damage) {
-        //ComboCounter();
-    }
-
-    protected override void OnRecover(int points) {
-        GameObject.Find("HPB").GetComponent<HealthBar>().Recover(points);
-    }
-
-    protected void ComboCounter() {
+    /// <summary>
+    /// Quando um ataque for bem sucedido
+    /// </summary>
+    public override void OnValidAttack() {
         combo++;
-        comboTimer = 0;
+        pui.comboTimer = 0;
+
+        if (combo < 3) { return; }
+        pui.ComboIn();
     }
 
-    public void ComboReset() {
-
-    }
-
+    protected override void OnRecover(int points) => GameObject.Find("HPB").GetComponent<HealthBar>().Recover(points);
 }

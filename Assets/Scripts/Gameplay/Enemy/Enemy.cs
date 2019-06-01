@@ -2,21 +2,16 @@
 
 public class Enemy : CharacterBase {
     #region "Vars"
-    [SerializeField] protected int PosLife = 2;
 
+    [SerializeField] protected int PosLife = 2;
+    [SerializeField] private int num;
+    [SerializeField] private float ReviveProb = .2f;
     protected float walkTimer;
     public float stopDistance = 1f;
     protected int lastDamage;
-
-    protected float forcaZ, forcaH;
-    [SerializeField] private int num;
-    [SerializeField] private float ReviveProb = .2f;
-
     public Vector3 PlayerDistance => player.transform.position - transform.position;
-
     protected GameObject HB;
     private bool HB_show;
-
     public bool Attacking;
 
     private void HealthBar() {
@@ -28,19 +23,11 @@ public class Enemy : CharacterBase {
 
     #region "Code"
     private void Start() {
-        num = Random.Range(0, 2);
-
-        //GetComponentInChildren<HealthBar>().MaxHealthPoints = maxHealth;
-        //GetComponentInChildren<HealthBar>().Hurt(0);
-
-        maxHealth = 3;
-        //nextAttack = 3.5f;
+        //num = Random.Range(0, 2);
         currentHealth = maxHealth;
     }
 
-    private void Update() {
-        AirUpdate();
-    }
+    private void Update() => AirUpdate();
 
     private void FixedUpdate() {
         if (isDead) { return; }
@@ -75,11 +62,14 @@ public class Enemy : CharacterBase {
 
     #region "Animation events"
     public void Recover() { return; } //damaged = damaged; }
-
+    public void AnimReset() { anim.Rebind(); }
     public void Destroy() { Destroy(gameObject, Random.Range(1f, 3f)); Destroy(HB, .525f); }
 
     public void Revive() {
+        OnRevive();
+
         PosLife--;
+        anim.Rebind();
         GetComponent<CapsuleCollider>().enabled = true;
         currentSpeed = maxSpeed;
         currentHealth = maxHealth;
@@ -111,23 +101,24 @@ public class Enemy : CharacterBase {
 
     #region "Meta"
     protected virtual void BasicMove() {
-        if (!Attacking) {
+        Vector2 move = default;
+
+        if (Attacking) {
+            move.x = PlayerDistance.x / Mathf.Abs(PlayerDistance.x);
+            move.y = PlayerDistance.z / Mathf.Abs(PlayerDistance.z);
+
+            if (Mathf.Abs(PlayerDistance.x) <= stopDistance) { move.x = 0; }
+        } else {
             if (PlayerDistance.sqrMagnitude < 100 && walkTimer > Random.Range(1f, 2f)) {
-                forcaZ = Random.Range(-1, 2);
-                //forcaH = Random.Range(-.5f, 1.5f);
+                move.y = Random.Range(-1, 2);
+                move.x = Random.Range(-.5f, 1.5f);
                 walkTimer = 0;
 
-            } else if (PlayerDistance.sqrMagnitude >= 100) {
-                forcaH = PlayerDistance.x / Mathf.Abs(PlayerDistance.x);
+            } else if (PlayerDistance.sqrMagnitude >= Mathf.Pow(stopDistance, 2)) {
+                move.x = PlayerDistance.x / Mathf.Abs(PlayerDistance.x);
             }
-        } else {
-            forcaH = PlayerDistance.x / Mathf.Abs(PlayerDistance.x);
-            forcaZ = PlayerDistance.z / Mathf.Abs(PlayerDistance.z);
-
-            if (Mathf.Abs(PlayerDistance.x) <= stopDistance) { forcaH = 0; }
         }
-
-        MoveHandler(forcaH, forcaZ);
+        MoveHandler(move);
     }
 
     protected virtual void BasicAttack() {

@@ -3,30 +3,20 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Attack : MonoBehaviour {
-
-    private int damage;
-
-    private void Awake() {
-        if (!GetComponent<Boomerang>()) {
-            damage = GetComponentInParent<CharacterBase>().damage;
-        } else {
-            damage = 1;
-        }
-
-    }
-
     void OnTriggerEnter(Collider other) {
         //Destroy(other.gameObject);
+        CharacterBase person = other.GetComponent<CharacterBase>();
 
-        if (!other.GetComponent<CharacterBase>()) { return; }
-        if (other.GetComponent<CharacterBase>().HP <= 0) { return; }
+        if (!person) { return; }
+
+        CharacterBase agressor = GetComponentInParent<CharacterBase>();
+
+        person.TookDamage(agressor.damage);
         
-        other.GetComponent<CharacterBase>().TookDamage(damage);
-
-        if (!gameObject.CompareTag("Player")) { return; }
-        GameObject.FindGameObjectWithTag("Player").GetComponent<Player>().AttackComplete();
-        GameObject.FindGameObjectWithTag("Player").GetComponent<CharacterBase>().anim_.SetTrigger("Hited");
-
+        if (person.HP <= 0) { return; }
+        if (!CompareTag("Player")) { return; }
+        
+        agressor.OnValidAttack();
+        agressor.anim_.SetTrigger("Hited");
     }
-
 }

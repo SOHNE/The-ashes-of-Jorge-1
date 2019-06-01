@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using System.Collections;
+using UnityEngine;
 
 /// <summary>
 /// The main Character class
@@ -20,14 +21,9 @@ public class CharacterBase : MonoBehaviour {
     public float jumpForce = 250f;
     public float fallMultiplier = 2.5f;
     public float attackRate = 1f;
-
-    [SerializeField]
-    protected int currentHealth;
-
+    [SerializeField] protected int currentHealth;
     public int HP => currentHealth;
-
     public bool IsDead => currentHealth <= 0;
-
     public float currentSpeed;
     protected bool jump;
     protected Rigidbody rb;
@@ -40,19 +36,14 @@ public class CharacterBase : MonoBehaviour {
     protected Transform groundCheck;
     protected bool facingRight = true;
     protected bool isDead = false;
-
     public bool damaged = false;
     protected float damageTimer;
     protected float nextAttack;
     protected new AudioSource audio;
-
     protected float m_GroundCheckDistance = .125f;
     protected Vector3 m_GroundNormal;
     protected bool m_IsGrounded;
-
     protected bool OnGround;
-
-
     protected GameObject player;
     #endregion
 
@@ -86,24 +77,22 @@ public class CharacterBase : MonoBehaviour {
     /// Function called when character get damage.
     /// </summary>
     public void TookDamage(int damage) {
-        if (isDead || damaged) { return; }
+        if (isDead) { return; }
+        if (damaged && CompareTag("Player")) { return; }
+
         OnDamage(damage);
 
         currentSpeed = 0;
         rb.velocity = Vector3.zero;
         nextAttack = Time.time + attackRate;
-        damaged = true;
+
+        StartCoroutine(DamageLimiter(damageTime));
 
         currentHealth -= damage;
 
         anim.Play("Damaged");
         PlaySong(Resources.Load<AudioClip>("SFX/punch"));
 
-        /*
-                if (gameObject.CompareTag("Enemy")) {
-                    FindObjectOfType<UIManager>().EnemyUpdate(maxHealth, currentHealth);
-                }
-        */
         if (currentHealth > 0) { return; }
         if (currentHealth < 0) { currentHealth = 0; }
 
@@ -186,30 +175,26 @@ public class CharacterBase : MonoBehaviour {
     ///   x:float
     ///   z:float
     /// </summary>
-    protected void MoveHandler(float x, float z, float y = 0) {
-        DamageLimiter();
-
-        float LimitX;
-
+    protected void MoveHandler(Vector2 move) {
         if (damaged) { return; }
 
-        if ((x > 0 && !facingRight) || (x < 0 && facingRight)) { Flip(); }
+        if ((move.x > 0 && !facingRight) || (move.x < 0 && facingRight)) { Flip(); }
 
-        x *= currentSpeed;
-        z = float.IsNaN(z) ? 0 : (OnGround ? z * currentSpeed : z);
+        move.x *= currentSpeed;
+        move.y = float.IsNaN(move.y) ? 0 : (OnGround ? move.y * currentSpeed : move.y);
 
-        rb.velocity = new Vector3(x, y, z);
+        rb.velocity = new Vector3(move.x, rb.velocity.y, move.y);
 
         AnimSpeed();
         JumpControl();
 
+        float LimitX;
 
         if (CompareTag("Player")) {
 
             // Limita a movimentação do eixo x do personagem para apenas o mundo visivel pela câmera
             var minWidth = Camera.main.ScreenToWorldPoint(new Vector3(0, 0, 10)).x;
             var maxWidth = Camera.main.ScreenToWorldPoint(new Vector3(Screen.width, 0, 10)).x;
-
 
             LimitX = Mathf.Clamp(rb.position.x, minWidth + .75f, maxWidth - .75f);
             CheckGroundStatus();
@@ -221,7 +206,7 @@ public class CharacterBase : MonoBehaviour {
         rb.position = new Vector3(
             LimitX,
             rb.position.y,
-            Mathf.Clamp(rb.position.z, -50f, 2f));
+            Mathf.Clamp(rb.position.z, -8.75f, 7.35f));
     }
 
     protected void DamageLimiter() {
@@ -247,10 +232,7 @@ public class CharacterBase : MonoBehaviour {
     /// <summary>
     /// Function called when character speed needs a reset
     /// </summary>
-    private void ResetSpeed() {
-        currentSpeed = maxSpeed;
-        //damaged = false;
-    }
+    private void ResetSpeed() => currentSpeed = maxSpeed;
 
     private void CheckGroundStatus() {
 #if UNITY_EDITOR
@@ -269,10 +251,23 @@ public class CharacterBase : MonoBehaviour {
         //        print(m_GroundNormal);
     }
 
+    IEnumerator DamageLimiter(float time) {
+        damaged = true;
+        yield return new WaitForSeconds(time);
+
+        if (HP > 0) {
+            damaged = false;
+            anim.Play("Idle");
+        }
+    }
+
     #region Meta
     protected virtual void OnDamage(int damage) { return; }
     protected virtual void OnAttack(int damage) { return; }
+    public virtual void OnValidAttack() { return; }
     protected virtual void OnRecover(int health) { return; }
+    protected virtual void OnRevive() { return; }
+    protected virtual void OnDeath() { return; }
     #endregion
 }
 #endregion

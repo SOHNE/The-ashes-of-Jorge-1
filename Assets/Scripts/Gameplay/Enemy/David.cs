@@ -1,43 +1,36 @@
 ﻿using UnityEngine;
 
-public class David : Enemy
-{
+public class David : Enemy {
     // Start is called before the first frame update
-    void Start()
-    {
+    void Start() {
         currentHealth = maxHealth;
     }
 
-    protected override void BasicMove()
-    {
-        forcaH = PlayerDistance.x / Mathf.Abs(PlayerDistance.x);
+    protected override void BasicMove() {
+        Vector2 move = default;
 
-        if (!Attacking)
-        {
+        move.x = PlayerDistance.x / Mathf.Abs(PlayerDistance.x);
+
+        if (!Attacking) {
             if (walkTimer <= Random.Range(1f, 2f)) { return; }
 
-            forcaZ = Random.Range(-1, 2);
-            if (Camera.main.WorldToScreenPoint(transform.position).x > 40 && Camera.main.WorldToScreenPoint(transform.position).x < 900)
-            {
-                forcaH = Random.Range(-1, 2);
+            move.y = Random.Range(-1, 2);
+            if (Camera.main.WorldToScreenPoint(transform.position).x > 40 && Camera.main.WorldToScreenPoint(transform.position).x < 900) {
+                move.x = Random.Range(-1, 2);
             }
             walkTimer = 0;
-        }
-        else
-        {
-            forcaZ = PlayerDistance.z / Mathf.Abs(PlayerDistance.z);
+        } else {
+            move.y = PlayerDistance.z / Mathf.Abs(PlayerDistance.z);
         }
 
-        if (Mathf.Abs(PlayerDistance.x) < stopDistance) { forcaH = 0; }
+        if (Mathf.Abs(PlayerDistance.x) < stopDistance) { move.x = 0; }
 
-        MoveHandler(forcaH, forcaZ);
+        MoveHandler(move);
     }
 
-    protected override void BasicAttack()
-    {
+    protected override void BasicAttack() {
         bool attack = Mathf.Abs(PlayerDistance.x) < 1.5f && Mathf.Abs(PlayerDistance.z) < 1f;
-        if (attack && Time.time > nextAttack)
-        {
+        if (attack && Time.time > nextAttack) {
             Attack();
         }
     }
