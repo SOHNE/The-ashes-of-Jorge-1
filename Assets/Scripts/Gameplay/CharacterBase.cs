@@ -262,7 +262,7 @@ public class CharacterBase : MonoBehaviour {
     #region Meta
     protected virtual void OnDamage(int damage) { return; }
     protected virtual void OnAttack(int damage) { return; }
-    public virtual void OnValidAttack() { return; }
+    public virtual void OnValidAttack() { return; } // Called in Attack.cs
     protected virtual void OnRecover(int health) { return; }
     protected virtual void OnRevive() { return; }
     protected virtual void OnDeath() { return; }
