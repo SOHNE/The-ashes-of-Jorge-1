@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class Attack : MonoBehaviour {
     void OnTriggerEnter(Collider other) {
-        //Destroy(other.gameObject);
         CharacterBase person = other.GetComponent<CharacterBase>();
 
         if (!person) { return; }
@@ -12,10 +11,9 @@ public class Attack : MonoBehaviour {
         CharacterBase agressor = GetComponentInParent<CharacterBase>();
 
         person.TookDamage(agressor.damage);
-        
-        if (person.HP <= 0) { return; }
-        if (!CompareTag("Player")) { return; }
-        
+
+        if (person.HP <= 0 || CompareTag("Player")) { return; }
+
         agressor.OnValidAttack();
         agressor.anim_.SetTrigger("Hited");
     }

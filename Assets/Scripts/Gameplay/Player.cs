@@ -10,6 +10,7 @@ public class Player : CharacterBase {
     private Transform EnemyChecker;
     public PlayerUI pui;
     public int combo;
+    public bool IsJumping => !OnGround;
 
     private void Start() {
         GameObject.Find("HPB").GetComponent<HealthBar>().MaxHealthPoints = maxHealth;

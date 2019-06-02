@@ -32,7 +32,6 @@ public class CharacterBase : MonoBehaviour {
     public Animator anim_ {
         get => anim;
     }
-
     protected Transform groundCheck;
     protected bool facingRight = true;
     protected bool isDead = false;
@@ -78,19 +77,19 @@ public class CharacterBase : MonoBehaviour {
     /// </summary>
     public void TookDamage(int damage) {
         if (isDead) { return; }
-        if (damaged && CompareTag("Player")) { return; }
+        if (CompareTag("Player") && damaged) { return; }
 
         OnDamage(damage);
 
         currentSpeed = 0;
         rb.velocity = Vector3.zero;
+        
         nextAttack = Time.time + attackRate;
 
         StartCoroutine(DamageLimiter(damageTime));
 
         currentHealth -= damage;
 
-        anim.Play("Damaged");
         PlaySong(Resources.Load<AudioClip>("SFX/punch"));
 
         if (currentHealth > 0) { return; }
