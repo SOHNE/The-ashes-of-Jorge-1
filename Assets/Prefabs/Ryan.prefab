@@ -15,13 +15,13 @@ GameObject:
   - component: {fileID: 7833568468134042110}
   - component: {fileID: 7833568468134042104}
   - component: {fileID: 7833568468134042107}
-  m_Layer: 0
+  m_Layer: 12
   m_Name: Ryan
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &7833568468134042106
 Transform:
   m_ObjectHideFlags: 0
@@ -29,7 +29,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7833568468134042081}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 21.999, y: 0.6368091, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -71,8 +71,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -843087239
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: -647588791701333756, guid: 387f1871dc13b38499cd04751c303285,
     type: 3}
@@ -253,9 +253,10 @@ MonoBehaviour:
   currentHealth: 0
   currentSpeed: 0
   damaged: 0
-  stopDistance: 1
+  PosLife: 2
   num: 0
   ReviveProb: 0.2
+  stopDistance: 1
   Attacking: 0
 --- !u!1 &7833568468276135896
 GameObject:

@@ -108,13 +108,14 @@ public class Enemy : CharacterBase {
             move.y = PlayerDistance.z / Mathf.Abs(PlayerDistance.z);
 
             if (Mathf.Abs(PlayerDistance.x) <= stopDistance) { move.x = 0; }
+
         } else {
             if (PlayerDistance.sqrMagnitude < 100 && walkTimer > Random.Range(1f, 2f)) {
                 move.y = Random.Range(-1, 2);
                 move.x = Random.Range(-.5f, 1.5f);
                 walkTimer = 0;
 
-            } else if (PlayerDistance.sqrMagnitude >= Mathf.Pow(stopDistance, 2)) {
+            } else if (PlayerDistance.sqrMagnitude >= 100) {
                 move.x = PlayerDistance.x / Mathf.Abs(PlayerDistance.x);
             }
         }

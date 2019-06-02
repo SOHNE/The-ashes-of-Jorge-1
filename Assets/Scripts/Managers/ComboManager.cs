@@ -1,15 +1,15 @@
-﻿using TMPro;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class ComboManager : MonoBehaviour {
+    
+    public int Attacks = 0;
+    public int TotalValidCombos = 0;
+    public int TotalCombos = 0;
+    
+    public int calc => TotalCombos / TotalValidCombos;
 
-    private TextMeshProUGUI txt;
-    private Animator anim;
+    private void Update() {
 
-    private void Awake() { txt = GetComponentInChildren<TextMeshProUGUI>(); anim = GetComponent<Animator>(); }
-
-    public void ComboUp(int total) => txt.text = string.Format(@"Combo:\n\t{0}", total);
-    public void ComboIn() => anim.Play("ComboIN");
-    public void ComboOut() => anim.Play("ComboOUT");
+    }
 
 }

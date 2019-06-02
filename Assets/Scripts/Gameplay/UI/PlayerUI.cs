@@ -37,7 +37,14 @@ public class PlayerUI : MonoBehaviour {
 
     public void ComboIn() { if (combVisible) { return; } combVisible = !combVisible; anim.Play("Combo"); }
 
-    public void ComboOut() { if (!combVisible) { return; } combVisible = !combVisible; anim.Play("ComboOut"); }
+    public void ComboOut() {
+        if (!combVisible) { return; }
+        combVisible = !combVisible;
+        
+        anim.Play("ComboOut");
+        FindObjectOfType<ComboManager>().TotalValidCombos++;
+        FindObjectOfType<ComboManager>().TotalCombos += player.combo;
+        }
 
     public void P_ComboReset() {
         if (player.combo.Equals(0)) { return; }

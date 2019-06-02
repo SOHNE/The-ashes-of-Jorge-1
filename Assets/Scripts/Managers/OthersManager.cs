@@ -3,32 +3,33 @@ using UnityEngine;
 
 [System.Serializable]
 public class OthersManager : MonoBehaviour {
-    [SerializeField] private List<Enemy> Enemies;
+    
     private int Attackers;
-
-    private void Update() {
+    [SerializeField] private int MaxAttackers = 2;
+    [SerializeField] private List<Enemy> EnemiesNearby;
+    private void FixedUpdate() {
         Catch();
+        Calculate();
     }
 
-    public void Catch() {
-        Enemies.Clear();
+    private void Catch() {
+        EnemiesNearby.Clear();
 
         foreach (Transform child in transform) {
             if (child.gameObject.GetComponent<CharacterBase>().IsDead || !child.gameObject.activeSelf) { continue; }
 
-            Enemies.Add(child.GetComponent<Enemy>());
-            Do();
+            EnemiesNearby.Add(child.GetComponent<Enemy>());
         }
     }
 
-    private void Do() {
-        Enemies = InsertionSort(Enemies);
+    private void Calculate() {
+        EnemiesNearby = InsertionSort(EnemiesNearby);
 
         Attackers = 0;
 
-        foreach (Enemy raged in Enemies) {
+        foreach (Enemy raged in EnemiesNearby) {
 
-            raged.Attacking = (Attackers <= 1);
+            raged.Attacking = (Attackers <= MaxAttackers - 1);
             Attackers++;
         }
     }

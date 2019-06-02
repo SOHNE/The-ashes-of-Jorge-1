@@ -33,7 +33,7 @@ TagManager:
   - 
   - 
   - 
-  - 
+  - Dead
   - 
   - 
   - 
@@ -46,6 +46,15 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 1463594823
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Characters
+    uniqueID: 3451880057
+    locked: 0
+  - name: UI
+    uniqueID: 3014091757
     locked: 0

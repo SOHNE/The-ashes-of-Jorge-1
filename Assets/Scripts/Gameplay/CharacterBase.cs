@@ -17,7 +17,7 @@ public class CharacterBase : MonoBehaviour {
     public float maxSpeed = 8f;
     public float damageTime = 0.5f;
     public int maxHealth = 10;
-    public int damage = 1; // TODO: alterar permissões
+    public int damage = 1;
     public float jumpForce = 250f;
     public float fallMultiplier = 2.5f;
     public float attackRate = 1f;
@@ -162,7 +162,7 @@ public class CharacterBase : MonoBehaviour {
     protected void AnimSpeed() {
         anim.SetFloat("Speed", Mathf.Abs(rb.velocity.magnitude));
 
-        if (this.CompareTag("Enemy")) { return; }
+        if (CompareTag("Enemy")) { return; }
 
         anim.SetBool("isGround", OnGround);
     }
@@ -182,7 +182,6 @@ public class CharacterBase : MonoBehaviour {
 
         move.x *= currentSpeed;
         move.y = float.IsNaN(move.y) ? 0 : (OnGround ? move.y * currentSpeed : move.y);
-
         rb.velocity = new Vector3(move.x, rb.velocity.y, move.y);
 
         AnimSpeed();
