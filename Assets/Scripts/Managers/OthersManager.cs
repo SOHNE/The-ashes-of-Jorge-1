@@ -3,7 +3,7 @@ using UnityEngine;
 
 [System.Serializable]
 public class OthersManager : MonoBehaviour {
-    
+
     private int Attackers;
     [SerializeField] private int MaxAttackers = 2;
     [SerializeField] private List<Enemy> EnemiesNearby;

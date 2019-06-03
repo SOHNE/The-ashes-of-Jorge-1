@@ -83,7 +83,7 @@ public class CharacterBase : MonoBehaviour {
 
         currentSpeed = 0;
         rb.velocity = Vector3.zero;
-        
+
         nextAttack = Time.time + attackRate;
 
         StartCoroutine(DamageLimiter(damageTime));
@@ -105,9 +105,8 @@ public class CharacterBase : MonoBehaviour {
         rb.AddRelativeForce(new Vector3(-4.25f, 3.5f, 0), ForceMode.Impulse);
     }
 
-    public void Attack() {
+    public void Attack(bool kick = false) {
         if (Time.time < nextAttack || damaged) { return; }
-
         OnAttack(damage);
 
         if (OnGround) { currentSpeed = 0; }

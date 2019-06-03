@@ -12,7 +12,7 @@ public class Attack : MonoBehaviour {
 
         person.TookDamage(agressor.damage);
 
-        if (person.HP <= 0 || CompareTag("Player")) { return; }
+        if (person.HP <= 0 || !agressor.CompareTag("Player")) { return; }
 
         agressor.OnValidAttack();
         agressor.anim_.SetTrigger("Hited");
