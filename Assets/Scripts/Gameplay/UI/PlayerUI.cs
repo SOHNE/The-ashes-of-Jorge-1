@@ -20,7 +20,7 @@ public class PlayerUI : MonoBehaviour {
 
     private void Start() => LR.text = GM.lives.ToString();
 
-    private void Update() => ComboUpdater(); 
+    private void Update() => ComboUpdater();
 
     public void ComboUpdater() {
         if (comboTimer >= 3) { return; }
@@ -33,7 +33,7 @@ public class PlayerUI : MonoBehaviour {
     public void UpdateLifes() => LR.text = GM.lives.ToString();
 
     #region "Animations Events"
-    public void AnimGO() => anim.Play("Go"); 
+    public void AnimGO() => anim.Play("Go");
 
     public void ComboIn() {
         if (combVisible) { return; }
@@ -45,11 +45,11 @@ public class PlayerUI : MonoBehaviour {
     public void ComboOut() {
         if (!combVisible) { return; }
         combVisible = !combVisible;
-        
+
         anim.Play("ComboOut");
         FindObjectOfType<ComboManager>().TotalValidCombos++;
         FindObjectOfType<ComboManager>().TotalCombos += player.combo;
-        }
+    }
 
     public void P_ComboReset() {
         if (player.combo.Equals(0)) { return; }
