@@ -99,29 +99,54 @@ public class Enemy : CharacterBase {
     }
     #endregion
 
-    #region "Meta"
-    protected virtual void BasicMove() {
+    #region "Basic"
+    /*    protected virtual void BasicMove() {
+            Vector2 move = default;
+
+            if (Attacking) {
+                move.x = PlayerDistance.x / Mathf.Abs(PlayerDistance.x);
+                move.y = PlayerDistance.z / Mathf.Abs(PlayerDistance.z);
+
+                if (Mathf.Abs(PlayerDistance.x) <= stopDistance) { move.x = 0; }
+
+            } else {
+                if (PlayerDistance.sqrMagnitude < 100 && walkTimer > Random.Range(1f, 2f)) {
+                    move.y = Random.Range(-1, 2);
+                    walkTimer = 0;
+
+                } else if (PlayerDistance.sqrMagnitude >= 100) {
+                    move.x = PlayerDistance.x / Mathf.Abs(PlayerDistance.x);
+                }
+            }
+            MoveHandler(move);
+        }
+        */
+    protected virtual void BasicMove()
+    {
         Vector2 move = default;
 
-        if (Attacking) {
-            move.x = PlayerDistance.x / Mathf.Abs(PlayerDistance.x);
-            move.y = PlayerDistance.z / Mathf.Abs(PlayerDistance.z);
+        move.x = PlayerDistance.x / Mathf.Abs(PlayerDistance.x);
 
-            if (Mathf.Abs(PlayerDistance.x) <= stopDistance) { move.x = 0; }
+        if (!Attacking)
+        {
+            if (walkTimer <= Random.Range(1f, 2f)) { return; }
 
-        } else {
-            if (PlayerDistance.sqrMagnitude < 100 && walkTimer > Random.Range(1f, 2f)) {
-                move.y = Random.Range(-1, 2);
-                move.x = Random.Range(-.5f, 1.5f);
-                walkTimer = 0;
-
-            } else if (PlayerDistance.sqrMagnitude >= 100) {
-                move.x = PlayerDistance.x / Mathf.Abs(PlayerDistance.x);
+            move.y = Random.Range(-1, 2);
+            if (Camera.main.WorldToScreenPoint(transform.position).x > 40 && Camera.main.WorldToScreenPoint(transform.position).x < 900)
+            {
+                move.x = Random.Range(-1, 2);
             }
+            walkTimer = 0;
         }
+        else
+        {
+            move.y = PlayerDistance.z / Mathf.Abs(PlayerDistance.z);
+        }
+
+        if (Mathf.Abs(PlayerDistance.x) < stopDistance) { move.x = 0; }
+
         MoveHandler(move);
     }
-
     protected virtual void BasicAttack() {
         bool attack = Mathf.Abs(PlayerDistance.x) < 1.5f && Mathf.Abs(PlayerDistance.z) < 1f;
         if (attack && Time.time > nextAttack) {

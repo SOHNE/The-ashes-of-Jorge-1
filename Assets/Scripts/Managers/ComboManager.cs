@@ -8,8 +8,8 @@ public class ComboManager : MonoBehaviour {
     
     public int calc => TotalCombos / TotalValidCombos;
 
-    private void Update() {
-
+    private void FixedUpdate() {
+        print(calc);
     }
 
 }

@@ -16,8 +16,6 @@ public class Player : CharacterBase {
         GameObject.Find("HPB").GetComponent<HealthBar>().MaxHealthPoints = maxHealth;
     }
 
-    void Update() { }
-
     void FixedUpdate() {
         if (isDead) { PlayerRespawn(); }
 
@@ -40,8 +38,9 @@ public class Player : CharacterBase {
     void PlayerRespawn() {
         if (FindObjectOfType<GameManager>().lives <= 0) { return; }
 
-        anim.Rebind();
         FindObjectOfType<GameManager>().lives--;
+        pui.UpdateLifes();
+        anim.Rebind();
         isDead = false;
         GetComponent<CapsuleCollider>().enabled = true;
         GameObject.Find("HPB").GetComponent<HealthBar>().Recover(maxHealth);

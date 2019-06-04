@@ -12,17 +12,15 @@ public class PlayerUI : MonoBehaviour {
     private Animator anim;
     private bool combVisible;
 
-    private void Start() {
+    private void Awake() {
         GM = GameObject.FindGameObjectWithTag("GameController").GetComponent<GameManager>();
         ComboT = GameObject.Find("Combo").GetComponentInChildren<TextMeshProUGUI>();
         anim = GetComponent<Animator>();
     }
 
-    private void Update() {
-        LR.text = GM.lives.ToString();
+    private void Start() => LR.text = GM.lives.ToString();
 
-        ComboUpdater();
-    }
+    private void Update() => ComboUpdater(); 
 
     public void ComboUpdater() {
         if (comboTimer >= 3) { return; }
@@ -32,10 +30,17 @@ public class PlayerUI : MonoBehaviour {
         ComboT.text = string.Format("COMBO:\n\t{0}", player.combo);
     }
 
-    #region "Animations Events"
-    public void AnimGO() { anim.Play("Go"); }
+    public void UpdateLifes() => LR.text = GM.lives.ToString();
 
-    public void ComboIn() { if (combVisible) { return; } combVisible = !combVisible; anim.Play("Combo"); }
+    #region "Animations Events"
+    public void AnimGO() => anim.Play("Go"); 
+
+    public void ComboIn() {
+        if (combVisible) { return; }
+        combVisible = !combVisible;
+
+        anim.Play("Combo");
+    }
 
     public void ComboOut() {
         if (!combVisible) { return; }

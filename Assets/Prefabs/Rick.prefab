@@ -201,10 +201,10 @@ CapsuleCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
-  m_Radius: 0.5
-  m_Height: 1
+  m_Radius: 0.6434927
+  m_Height: 2.35291
   m_Direction: 1
-  m_Center: {x: 0, y: 0, z: 0}
+  m_Center: {x: 0.044537544, y: 1.1688743, z: 0}
 --- !u!82 &489102122432517897
 AudioSource:
   m_ObjectHideFlags: 0
@@ -383,7 +383,7 @@ PrefabInstance:
     - target: {fileID: 52173588723065991, guid: a765b867969604b7c9d89a131718ee8b,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5
+      value: 0.25
       objectReference: {fileID: 0}
     - target: {fileID: 52173588723065991, guid: a765b867969604b7c9d89a131718ee8b,
         type: 3}
@@ -429,6 +429,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 52173588728212069, guid: a765b867969604b7c9d89a131718ee8b,
+        type: 3}
+      propertyPath: m_OrthographicSize
+      value: 1.3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a765b867969604b7c9d89a131718ee8b, type: 3}

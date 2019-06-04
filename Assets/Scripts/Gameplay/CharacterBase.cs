@@ -79,6 +79,9 @@ public class CharacterBase : MonoBehaviour {
         if (isDead) { return; }
         if (CompareTag("Player") && damaged) { return; }
 
+        PlaySong(Resources.Load<AudioClip>("SFX/punch"));
+        anim.Play("Damaged");
+
         OnDamage(damage);
 
         currentSpeed = 0;
@@ -88,9 +91,7 @@ public class CharacterBase : MonoBehaviour {
 
         StartCoroutine(DamageLimiter(damageTime));
 
-        currentHealth -= damage;
-
-        PlaySong(Resources.Load<AudioClip>("SFX/punch"));
+        currentHealth -= damage;    
 
         if (currentHealth > 0) { return; }
         if (currentHealth < 0) { currentHealth = 0; }
@@ -224,12 +225,12 @@ public class CharacterBase : MonoBehaviour {
     /// <summary>
     /// Function called when character stop moving
     /// </summary>
-    private void ZeroSpeed() => currentSpeed = 0;
+    public void ZeroSpeed() => currentSpeed = 0;
 
     /// <summary>
     /// Function called when character speed needs a reset
     /// </summary>
-    private void ResetSpeed() => currentSpeed = maxSpeed;
+    public void ResetSpeed() => currentSpeed = maxSpeed;
 
     private void CheckGroundStatus() {
 #if UNITY_EDITOR

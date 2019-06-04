@@ -35,7 +35,7 @@ public class EventHandler : MonoBehaviour {
 
         if (enemies <= 0 || (enemies == 1 && FindObjectOfType<Enemy>().HP <= 0)) {
             _GM.Follow();
-            //FindObjectOfType<UIManager>().AnimGO();
+            FindObjectOfType<PlayerUI>().AnimGO();
             Destroy(gameObject);
             gameObject.SetActive(false);
         }
