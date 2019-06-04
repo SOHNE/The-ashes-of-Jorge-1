@@ -104,6 +104,8 @@ public class CharacterBase : MonoBehaviour {
         isDead = true;
 
         rb.AddRelativeForce(new Vector3(-4.25f, 3.5f, 0), ForceMode.Impulse);
+
+        if (CompareTag("Enemy")) { gameObject.layer = 30; }
     }
 
     public void Attack(bool kick = false) {
@@ -143,6 +145,7 @@ public class CharacterBase : MonoBehaviour {
     /// </summary>
     public void Jump() {
         rb.AddForce(Vector3.up * jumpForce);
+        PlaySong(Resources.Load<AudioClip>("SFX/felixyadomi__jump"));
         anim.SetTrigger("Jump");
     }
 

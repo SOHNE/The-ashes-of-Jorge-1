@@ -68,6 +68,8 @@ public class Enemy : CharacterBase {
     public void Revive() {
         OnRevive();
 
+        if (CompareTag("Enemy")) { gameObject.layer = 12; }
+
         PosLife--;
         anim.Rebind();
         GetComponent<CapsuleCollider>().enabled = true;
