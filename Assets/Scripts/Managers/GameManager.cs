@@ -50,7 +50,7 @@ public class GameManager : MonoBehaviour {
     void Update() {
 
         // UI_PlayerHP.value = GameObject.FindGameObjectWithTag("Player").GetComponent<Player>().HP;
-        if (lives == 0 && GameObject.FindGameObjectWithTag("Player").GetComponent<Player>().IsDead && GameObject.Find("Gameplay")) {
+        if (lives == 0 && GameObject.FindGameObjectWithTag("Player").GetComponent<Player>().IsDead) {
             gameplay.SetActive(false);
             gameover.SetActive(true);
 

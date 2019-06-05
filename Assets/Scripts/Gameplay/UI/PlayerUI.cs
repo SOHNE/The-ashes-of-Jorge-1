@@ -2,9 +2,9 @@
 using UnityEngine;
 
 public class PlayerUI : MonoBehaviour {
-    [SerializeField] private Player player;
-    [SerializeField] private TextMeshProUGUI LR;
-    [SerializeField] private TextMeshProUGUI ComboT;
+    public Player player;
+    public TextMeshProUGUI LR;
+    public TextMeshProUGUI ComboT;
 
     public float comboTimer;
 
@@ -14,7 +14,6 @@ public class PlayerUI : MonoBehaviour {
 
     private void Awake() {
         GM = GameObject.FindGameObjectWithTag("GameController").GetComponent<GameManager>();
-        ComboT = GameObject.Find("Combo").GetComponentInChildren<TextMeshProUGUI>();
         anim = GetComponent<Animator>();
     }
 

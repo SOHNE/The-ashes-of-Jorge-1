@@ -47,8 +47,6 @@ public class Player : CharacterBase {
         currentHealth = maxHealth;
         float minWidth = Camera.main.ScreenToWorldPoint(new Vector3(0, 0, 10)).x;
         transform.position = new Vector3(minWidth, 10, -4);
-
-        print(FindObjectOfType<GameManager>().lives);
     }
 
     protected override void OnDamage(int damage) {
