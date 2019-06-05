@@ -4,7 +4,9 @@ using UnityEngine;
 using UnityEngine.UI;
 
 public class GameManager : MonoBehaviour {
-
+    public GameObject gameover;
+    public GameObject gameplay;
+    [Space]
     public int lives;
     public int characterIndex;
 
@@ -29,8 +31,6 @@ public class GameManager : MonoBehaviour {
 
         DontDestroyOnLoad(gameObject);
 
-        //
-
         cam = Camera.main.GetComponent<CameraFollow>();
         
         //UI_PlayerHP = GameObject.Find("P_HP").GetComponent<Slider>();
@@ -39,17 +39,23 @@ public class GameManager : MonoBehaviour {
     public void UnFollow() {
         cam.minXAndY = minxy;
         cam.maxXAndY = minxy;
+        cam.IsBlock = true;
     }
     public void Follow() {
         cam.maxXAndY = maxxy;
+        cam.IsBlock = false;
     }
 
     // Update is called once per frame
     void Update() {
+
         // UI_PlayerHP.value = GameObject.FindGameObjectWithTag("Player").GetComponent<Player>().HP;
-        if (lives <= 0 && GameObject.Find("Gameplay")) {
-            GameObject.Find("Gameplay").GetComponentInChildren<Canvas>().enabled = false;
-            GameObject.Find("GameOver").GetComponentInChildren<Canvas>().enabled = true;
+        if (lives == 0 && GameObject.FindGameObjectWithTag("Player").GetComponent<Player>().IsDead && GameObject.Find("Gameplay")) {
+            gameplay.SetActive(false);
+            gameover.SetActive(true);
+
+            GameObject.Find("PlayerDeath").transform.position = Camera.main.WorldToScreenPoint(GameObject.FindGameObjectWithTag("Player").transform.position);
+            GameObject.Find("PlayerDeath").transform.rotation = GameObject.FindGameObjectWithTag("Player").transform.rotation;
         }
     }
 }

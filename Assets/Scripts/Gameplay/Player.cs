@@ -36,7 +36,7 @@ public class Player : CharacterBase {
     }
 
     void PlayerRespawn() {
-        if (FindObjectOfType<GameManager>().lives <= 0) { return; }
+        if (FindObjectOfType<GameManager>().lives < 1) { return; }
 
         FindObjectOfType<GameManager>().lives--;
         pui.UpdateLifes();
@@ -47,6 +47,8 @@ public class Player : CharacterBase {
         currentHealth = maxHealth;
         float minWidth = Camera.main.ScreenToWorldPoint(new Vector3(0, 0, 10)).x;
         transform.position = new Vector3(minWidth, 10, -4);
+
+        print(FindObjectOfType<GameManager>().lives);
     }
 
     protected override void OnDamage(int damage) {

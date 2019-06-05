@@ -8,15 +8,5 @@ public class Parallax : MonoBehaviour {
 
     private void Awake() => cf = GetComponent<CameraFollow>();
 
-    void Update() {
-
-        bool pressed = Input.GetAxis("Horizontal") > .0f;
-
-        if (pressed && cf.CheckXMargin()) {
-            parallax.Speed = -1.25f;
-        } else {
-            parallax.Speed = 0.0f;
-        }
-
-    }
+    void Update() => parallax.Speed = (Input.GetAxis("Horizontal") > .0f && !cf.IsBlock && cf.CheckXMargin()) ? -1.25f : .0f;
 }

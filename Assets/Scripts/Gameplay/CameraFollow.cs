@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class CameraFollow : MonoBehaviour {
 
+    public bool IsBlock;
+
 	public float xMargin = 1f; // Distance in the x axis the player can move before the camera follows.
 	//public float yMargin = 1f; // Distance in the y axis the player can move before the camera follows.
 	public float xSmooth = 8f; // How smoothly the camera catches up with it's target movement in the x axis.

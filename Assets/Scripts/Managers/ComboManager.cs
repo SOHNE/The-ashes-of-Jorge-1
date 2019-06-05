@@ -9,7 +9,7 @@ public class ComboManager : MonoBehaviour {
     public int calc => TotalCombos / TotalValidCombos;
 
     private void FixedUpdate() {
-        
+
     }
 
 }
