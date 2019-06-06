@@ -8,18 +8,25 @@ using UnityEngine;
 
 public class Player : CharacterBase {
     private Transform EnemyChecker;
+    [Header("Misc")]
     public PlayerUI pui;
     public int combo;
     public bool IsJumping => !OnGround;
+    public bool IsFallingInRes;
 
     private void Start() {
         GameObject.Find("HPB").GetComponent<HealthBar>().MaxHealthPoints = maxHealth;
     }
 
-    void FixedUpdate() {
-        if (isDead) { PlayerRespawn(); }
+    private void Update() {
+        if (!IsFallingInRes) { return; }
+        if (!OnGround) { return; } else { IsFallingInRes = false; } 
+    }
 
-        DamageLimiter();
+    void FixedUpdate() {
+        if (IsFallingInRes) { return; }
+
+        if (isDead) { PlayerRespawn(); }
         if (damaged) { return; }
 
         Vector2 move = new Vector2(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical"));
@@ -42,11 +49,17 @@ public class Player : CharacterBase {
         pui.UpdateLifes();
         anim.Rebind();
         isDead = false;
+        damaged = false;
         GetComponent<CapsuleCollider>().enabled = true;
         GameObject.Find("HPB").GetComponent<HealthBar>().Recover(maxHealth);
         currentHealth = maxHealth;
-        float minWidth = Camera.main.ScreenToWorldPoint(new Vector3(0, 0, 10)).x;
+
+        float minWidth = Camera.main.ScreenToWorldPoint(new Vector3(0, 0, 20)).x;
         transform.position = new Vector3(minWidth, 10, -4);
+        transform.rotation = Quaternion.identity;
+
+        anim.Play("Jumping");
+        IsFallingInRes = true;
     }
 
     protected override void OnDamage(int damage) {
@@ -66,4 +79,5 @@ public class Player : CharacterBase {
     }
 
     protected override void OnRecover(int points) => GameObject.Find("HPB").GetComponent<HealthBar>().Recover(points);
+
 }

@@ -16,13 +16,13 @@ public class GameManager : MonoBehaviour {
 
     private int CurrentWave;
     //private int CurrentEnemies;
-
+    private GameObject pl;
     private Slider UI_PlayerHP;
 
     private Vector2 minxy => new Vector2(Camera.main.transform.position.x, 0);
     private Vector2 maxxy => new Vector2(Mathf.Infinity, 0);
-    void Awake() {
 
+    void Awake() {
         if (gameManager == null) {
             gameManager = this;
         } else if (gameManager != this) {
@@ -32,7 +32,7 @@ public class GameManager : MonoBehaviour {
         DontDestroyOnLoad(gameObject);
 
         cam = Camera.main.GetComponent<CameraFollow>();
-        
+        pl = GameObject.FindGameObjectWithTag("Player");
         //UI_PlayerHP = GameObject.Find("P_HP").GetComponent<Slider>();
     }
 
@@ -48,14 +48,16 @@ public class GameManager : MonoBehaviour {
 
     // Update is called once per frame
     void Update() {
+        if (gameover.activeInHierarchy) { return; }
 
-        // UI_PlayerHP.value = GameObject.FindGameObjectWithTag("Player").GetComponent<Player>().HP;
-        if (lives == 0 && GameObject.FindGameObjectWithTag("Player").GetComponent<Player>().IsDead) {
+        if (lives == 0 && pl.GetComponent<Player>().IsDead) {
             gameplay.SetActive(false);
             gameover.SetActive(true);
 
-            GameObject.Find("PlayerDeath").transform.position = Camera.main.WorldToScreenPoint(GameObject.FindGameObjectWithTag("Player").transform.position);
-            GameObject.Find("PlayerDeath").transform.rotation = GameObject.FindGameObjectWithTag("Player").transform.rotation;
+            GameObject.Find("PlayerDeath").transform.position = Camera.main.WorldToScreenPoint(pl.transform.position);
+            GameObject.Find("PlayerDeath").transform.rotation = pl.transform.rotation;
+
+            GameObject.Find("----- Characters").SetActive(false);
         }
     }
 }

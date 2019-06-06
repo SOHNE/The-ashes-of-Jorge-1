@@ -1,7 +1,6 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 
-[System.Serializable]
 public class OthersManager : MonoBehaviour {
 
     private int Attackers;

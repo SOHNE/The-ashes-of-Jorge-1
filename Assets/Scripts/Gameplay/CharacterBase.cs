@@ -42,7 +42,12 @@ public class CharacterBase : MonoBehaviour {
     protected float m_GroundCheckDistance = .125f;
     protected Vector3 m_GroundNormal;
     protected bool m_IsGrounded;
-    protected bool OnGround;
+
+    [Header("OnGround")]
+    public LayerMask groundLayer;
+    protected Vector3 bottomOffset;
+    public float collisionRadius = 0.25f;
+    protected bool OnGround => Physics.OverlapSphere(transform.position + bottomOffset, collisionRadius, groundLayer).Length > 0;
     protected GameObject player;
     #endregion
 
@@ -102,10 +107,10 @@ public class CharacterBase : MonoBehaviour {
         anim.Play("Fall");
 
         isDead = true;
-
-        rb.AddRelativeForce(new Vector3(-4.25f, 3.5f, 0), ForceMode.Impulse);
-
-        if (CompareTag("Enemy")) { gameObject.layer = 30; }
+        if (CompareTag("Enemy")) {
+            rb.AddRelativeForce(new Vector3(-4.25f, 3.5f, 0), ForceMode.Impulse);
+            gameObject.layer = 30;
+        }
     }
 
     public void Attack(bool kick = false) {
@@ -198,7 +203,7 @@ public class CharacterBase : MonoBehaviour {
             var maxWidth = Camera.main.ScreenToWorldPoint(new Vector3(Screen.width, 0, 10)).x;
 
             LimitX = Mathf.Clamp(rb.position.x, minWidth + .75f, maxWidth - .75f);
-            CheckGroundStatus();
+            //CheckGroundStatus();
 
         } else {
             LimitX = rb.position.x;
@@ -208,17 +213,6 @@ public class CharacterBase : MonoBehaviour {
             LimitX,
             rb.position.y,
             Mathf.Clamp(rb.position.z, -8.75f, 7.35f));
-    }
-
-    protected void DamageLimiter() {
-        if (!damaged) { return; }
-
-        damageTimer += Time.deltaTime;
-
-        if (damageTimer < damageTime) { return; }
-        damaged = false;
-        anim.Play("Idle");
-        damageTimer = 0;
     }
 
     /* 
@@ -235,28 +229,11 @@ public class CharacterBase : MonoBehaviour {
     /// </summary>
     public void ResetSpeed() => currentSpeed = maxSpeed;
 
-    private void CheckGroundStatus() {
-#if UNITY_EDITOR
-        // helper to visualise the ground check ray in the scene view
-        Debug.DrawLine(transform.position + (Vector3.up * .1f), transform.position + (Vector3.up * .1f) + (Vector3.down * m_GroundCheckDistance), Color.red);
-#endif
-        // 0.1f is a small offset to start the ray from inside the character
-        // it is also good to note that the transform position in the sample assets is at the base of the character
-        if (Physics.Raycast(transform.position + (Vector3.up * .1f), Vector3.down, out RaycastHit hitInfo, m_GroundCheckDistance)) {
-            m_GroundNormal = hitInfo.normal;
-            OnGround = true;
-        } else {
-            OnGround = false;
-            m_GroundNormal = Vector3.up;
-        }
-        //        print(m_GroundNormal);
-    }
-
     IEnumerator DamageLimiter(float time) {
         damaged = true;
         yield return new WaitForSeconds(time);
 
-        if (HP > 0) {
+        if (HP > 0 && damaged) {
             damaged = false;
             anim.Play("Idle");
         }
@@ -270,5 +247,10 @@ public class CharacterBase : MonoBehaviour {
     protected virtual void OnRevive() { return; }
     protected virtual void OnDeath() { return; }
     #endregion
+
+    void OnDrawGizmos() {
+        Gizmos.color = Color.red;
+        Gizmos.DrawWireSphere(transform.position + bottomOffset, collisionRadius);
+    }
 }
 #endregion

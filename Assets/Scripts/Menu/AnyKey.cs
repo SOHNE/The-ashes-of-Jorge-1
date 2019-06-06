@@ -4,7 +4,8 @@ using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
 public class AnyKey : MonoBehaviour {
-    void FixedUpdate() {
+
+    void Update() {
         if (!Input.anyKey || Input.GetMouseButton(0)) { return; }
         GetComponent<Animator>().Play("IN");
     }
@@ -19,6 +20,4 @@ public class AnyKey : MonoBehaviour {
 
         do { yield return null; } while (!op.isDone);
     }
-
-
 }
