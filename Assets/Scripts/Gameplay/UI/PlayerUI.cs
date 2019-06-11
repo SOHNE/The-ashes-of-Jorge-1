@@ -2,19 +2,21 @@
 using UnityEngine;
 
 public class PlayerUI : MonoBehaviour {
+    #region "Vars"
     public Player player;
     public TextMeshProUGUI LR;
     public TextMeshProUGUI ComboT;
-
     public float comboTimer;
-
     private GameManager GM;
     private Animator anim;
     private bool combVisible;
+    private ComboManager comboManager;
+    #endregion
 
     private void Awake() {
         GM = GameObject.FindGameObjectWithTag("GameController").GetComponent<GameManager>();
         anim = GetComponent<Animator>();
+        comboManager = FindObjectOfType<ComboManager>();
     }
 
     private void Start() => LR.text = GM.lives.ToString();
@@ -46,8 +48,8 @@ public class PlayerUI : MonoBehaviour {
         combVisible = !combVisible;
 
         anim.Play("ComboOut");
-        FindObjectOfType<ComboManager>().TotalValidCombos++;
-        FindObjectOfType<ComboManager>().TotalCombos += player.combo;
+
+        comboManager.Calc(player.combo);
     }
 
     public void P_ComboReset() {

@@ -26,11 +26,11 @@ TagManager:
   - EnemyAttack
   - Ground
   - Enemy
-  - Boomerang
+  - 
   - Point
   - 
   - 
-  - Particle
+  - 
   - 
   - 
   - Items
@@ -57,7 +57,4 @@ TagManager:
     locked: 0
   - name: UI
     uniqueID: 3014091757
-    locked: 0
-  - name: Particle
-    uniqueID: 2533353941
     locked: 0

@@ -97,9 +97,6 @@ AnimatorStateTransition:
   - m_ConditionMode: 2
     m_ConditionEvent: Input
     m_EventTreshold: 0
-  - m_ConditionMode: 1
-    m_ConditionEvent: isGround
-    m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -4592926686296743354}
   m_Solo: 0
@@ -154,33 +151,36 @@ AnimatorStateMachine:
     m_Position: {x: 360, y: -120, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 191262912571566331}
-    m_Position: {x: 390, y: 50, z: 0}
+    m_Position: {x: 360, y: -230, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1276099965118374179}
-    m_Position: {x: 710, y: 40, z: 0}
+    m_Position: {x: 670, y: -110, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -3476031159625517484}
-    m_Position: {x: -90, y: 80, z: 0}
+    m_Position: {x: 90, y: 0, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 2074410551665119358}
-    m_Position: {x: 710, y: -40, z: 0}
+    m_Position: {x: 670, y: -170, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 4713085960770458744}
-    m_Position: {x: 710, y: -130, z: 0}
+    m_Position: {x: 670, y: -240, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -5526980551524067275}
-    m_Position: {x: 150, y: 50, z: 0}
+    m_Position: {x: 100, y: -230, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 4265205775876200098}
-    m_Position: {x: 100, y: -50, z: 0}
+    m_Position: {x: 100, y: -120, z: 0}
+  - serializedVersion: 1
+    m_State: {fileID: 7673229364830199473}
+    m_Position: {x: 90, y: 50, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions: []
   m_StateMachineTransitions: {}
   m_StateMachineBehaviours: []
-  m_AnyStatePosition: {x: -80, y: -50, z: 0}
-  m_EntryPosition: {x: 140, y: -130, z: 0}
-  m_ExitPosition: {x: -40, y: -130, z: 0}
+  m_AnyStatePosition: {x: 130, y: -330, z: 0}
+  m_EntryPosition: {x: 380, y: 10, z: 0}
+  m_ExitPosition: {x: 330, y: -330, z: 0}
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
   m_DefaultState: {fileID: -4592926686296743354}
 --- !u!1101 &-2903592815993766714
@@ -341,8 +341,8 @@ AnimatorStateTransition:
   m_PrefabAsset: {fileID: 0}
   m_Name: 
   m_Conditions:
-  - m_ConditionMode: 3
-    m_ConditionEvent: Speed
+  - m_ConditionMode: 1
+    m_ConditionEvent: isGround
     m_EventTreshold: 0.001
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 191262912571566331}
@@ -541,9 +541,12 @@ AnimatorStateTransition:
   m_PrefabAsset: {fileID: 0}
   m_Name: 
   m_Conditions:
+  - m_ConditionMode: 2
+    m_ConditionEvent: Input
+    m_EventTreshold: 0.001
   - m_ConditionMode: 4
     m_ConditionEvent: Speed
-    m_EventTreshold: 0.001
+    m_EventTreshold: 0.01
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -4592926686296743354}
   m_Solo: 0
@@ -569,6 +572,9 @@ AnimatorStateTransition:
   - m_ConditionMode: 2
     m_ConditionEvent: Input
     m_EventTreshold: 0
+  - m_ConditionMode: 4
+    m_ConditionEvent: Speed
+    m_EventTreshold: 0.01
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -4592926686296743354}
   m_Solo: 0
@@ -591,9 +597,12 @@ AnimatorStateTransition:
   m_PrefabAsset: {fileID: 0}
   m_Name: 
   m_Conditions:
+  - m_ConditionMode: 2
+    m_ConditionEvent: Input
+    m_EventTreshold: 0
   - m_ConditionMode: 4
     m_ConditionEvent: Speed
-    m_EventTreshold: 0.001
+    m_EventTreshold: 0.01
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -4592926686296743354}
   m_Solo: 0
@@ -645,9 +654,9 @@ AnimatorStateTransition:
   m_PrefabAsset: {fileID: 0}
   m_Name: 
   m_Conditions:
-  - m_ConditionMode: 3
-    m_ConditionEvent: Speed
-    m_EventTreshold: 0.001
+  - m_ConditionMode: 1
+    m_ConditionEvent: Input
+    m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 191262912571566331}
   m_Solo: 0
@@ -792,6 +801,32 @@ AnimatorStateTransition:
   m_InterruptionSource: 0
   m_OrderedInterruption: 1
   m_CanTransitionToSelf: 1
+--- !u!1102 &7673229364830199473
+AnimatorState:
+  serializedVersion: 5
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Fall
+  m_Speed: 1
+  m_CycleOffset: 0
+  m_Transitions: []
+  m_StateMachineBehaviours: []
+  m_Position: {x: 50, y: 50, z: 0}
+  m_IKOnFeet: 0
+  m_WriteDefaultValues: 1
+  m_Mirror: 0
+  m_SpeedParameterActive: 0
+  m_MirrorParameterActive: 0
+  m_CycleOffsetParameterActive: 0
+  m_TimeParameterActive: 0
+  m_Motion: {fileID: 7400000, guid: e24ea22631816cd47a2b6e4cf37c1db6, type: 2}
+  m_Tag: 
+  m_SpeedParameter: 
+  m_MirrorParameter: 
+  m_CycleOffsetParameter: 
+  m_TimeParameter: 
 --- !u!1101 &7968414706493216365
 AnimatorStateTransition:
   m_ObjectHideFlags: 1

@@ -17,19 +17,11 @@ public class EventHandler : MonoBehaviour {
     /// Awake is called when the script instance is being loaded.
     /// </summary>
     void Awake() {
-        _GM = GameObject.FindGameObjectWithTag("GameController").GetComponent<GameManager>();
+        _GM = FindObjectOfType<GameManager>();
         CharacterSpace = GameObject.Find("Others").transform;
     }
     public int id;
     private void Update() {
-
-        /*if (Input.GetKeyDown("r")) {
-            GameObject[] en = GameObject.FindGameObjectsWithTag("Enemy");
-            for (int i = 0; i < en.Length; i++) {
-                Destroy(en[i]);
-            }
-        }*/
-
         if (currentEnemies < QttofEnemies) { return; }
         int enemies = GameObject.FindGameObjectsWithTag("Enemy").Length;
 
@@ -39,7 +31,6 @@ public class EventHandler : MonoBehaviour {
             Destroy(gameObject);
             gameObject.SetActive(false);
         }
-
     }
     public void SpawnEnemy() {
 

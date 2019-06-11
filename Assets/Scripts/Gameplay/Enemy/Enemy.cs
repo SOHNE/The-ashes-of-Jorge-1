@@ -1,24 +1,18 @@
-﻿using UnityEngine;
+﻿using System.Collections;
+using UnityEngine;
 
 public class Enemy : CharacterBase {
     #region "Vars"
-
+    public float standDelay = .525f;
     [SerializeField] protected int PosLife = 2;
     [SerializeField] private int num;
     [SerializeField] private float ReviveProb = .2f;
     protected float walkTimer;
     public float stopDistance = 1f;
-    protected int lastDamage;
     public Vector3 PlayerDistance => player.transform.position - transform.position;
     protected GameObject HB;
     private bool HB_show;
     public bool Attacking;
-
-    private void HealthBar() {
-        if (HB_show) { return; }
-        HB_show = true;
-        MountHealthBar();
-    }
     #endregion
 
     #region "Code"
@@ -30,7 +24,9 @@ public class Enemy : CharacterBase {
     private void Update() => AirUpdate();
 
     private void FixedUpdate() {
-        if (isDead) { return; }
+        SpaceLimiter();
+
+        if (isDead || damaged) { return; }
 
         BasicMove();
 
@@ -39,15 +35,21 @@ public class Enemy : CharacterBase {
         BasicAttack();
     }
 
+    private void HealthBar() {
+        if (HB_show) { return; }
+        HB_show = true;
+        MountHealthBar();
+    }
+
     private void OnCollisionEnter(Collision other) {
         if (!isDead || !other.gameObject.name.Equals("Ground")) { return; }
 
         GetComponent<CapsuleCollider>().enabled = false;
         rb.isKinematic = true;
 
-        if (PosLife >= 2) { anim.SetTrigger("Destroy"); return; }
+        if (PosLife <= 0) { anim.SetTrigger("Destroy"); return; }
 
-        string triggerName = Random.value <= ReviveProb ? "Revive" : "Destroy";
+        string triggerName = isFalling ? "Revive" : (Random.value <= ReviveProb ? "Revive" : "Destroy");
 
         anim.SetTrigger(triggerName);
     }
@@ -70,16 +72,20 @@ public class Enemy : CharacterBase {
 
         if (CompareTag("Enemy")) { gameObject.layer = 12; }
 
-        PosLife--;
         anim.Rebind();
         GetComponent<CapsuleCollider>().enabled = true;
         currentSpeed = maxSpeed;
-        currentHealth = maxHealth;
         isDead = false;
-        Destroy(HB);
         rb.isKinematic = false;
+        damaged = false;
 
-        MountHealthBar();
+        if (!isFalling) {
+            PosLife--;
+            currentHealth = maxHealth;
+            if (HB) { HB.GetComponentInChildren<HealthBar>().Recover(maxHealth); }
+        } else {
+            isFalling = false;
+        }
     }
     #endregion
 
@@ -99,6 +105,8 @@ public class Enemy : CharacterBase {
         HB.GetComponentInChildren<HealthBar>().MaxHealthPoints = maxHealth;
         HB.transform.position = Camera.main.WorldToScreenPoint(transform.position + new Vector3(0, 3, 0));
     }
+
+    IEnumerator Wait(float time) { yield return new WaitForSeconds(time); }
     #endregion
 
     #region "Basic"
@@ -123,25 +131,20 @@ public class Enemy : CharacterBase {
             MoveHandler(move);
         }
         */
-    protected virtual void BasicMove()
-    {
+    protected virtual void BasicMove() {
         Vector2 move = default;
 
         move.x = PlayerDistance.x / Mathf.Abs(PlayerDistance.x);
 
-        if (!Attacking)
-        {
+        if (!Attacking) {
             if (walkTimer <= Random.Range(1f, 2f)) { return; }
 
             move.y = Random.Range(-1, 2);
-            if (Camera.main.WorldToScreenPoint(transform.position).x > 40 && Camera.main.WorldToScreenPoint(transform.position).x < 900)
-            {
+            if (Camera.main.WorldToScreenPoint(transform.position).x > 40 && Camera.main.WorldToScreenPoint(transform.position).x < 900) {
                 move.x = Random.Range(-1, 2);
             }
             walkTimer = 0;
-        }
-        else
-        {
+        } else {
             move.y = PlayerDistance.z / Mathf.Abs(PlayerDistance.z);
         }
 
@@ -151,9 +154,7 @@ public class Enemy : CharacterBase {
     }
     protected virtual void BasicAttack() {
         bool attack = Mathf.Abs(PlayerDistance.x) < 1.5f && Mathf.Abs(PlayerDistance.z) < 1f;
-        if (attack && Time.time > nextAttack) {
-            Attack();
-        }
+        if (attack && Time.time > nextAttack) { Attack(); }
     }
 
     protected virtual void AirUpdate() {

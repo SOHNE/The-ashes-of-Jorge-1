@@ -1,15 +1,15 @@
 ﻿using UnityEngine;
 
 public class ComboManager : MonoBehaviour {
-    
-    public int Attacks = 0;
-    public int TotalValidCombos = 0;
-    public int TotalCombos = 0;
-    
-    public int calc => TotalCombos / TotalValidCombos;
 
-    private void FixedUpdate() {
+    private int maxCombo;
+    private int totalCombo;
+    public int MaxCombo => maxCombo;
+    public int TotalCombo => totalCombo;
 
+    public void Calc(int newTry) {
+        totalCombo++;
+        if (newTry > MaxCombo) { maxCombo = newTry; }
     }
 
 }

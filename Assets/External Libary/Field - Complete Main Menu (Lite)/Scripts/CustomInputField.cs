@@ -17,64 +17,44 @@ public class CustomInputField : MonoBehaviour {
 	private string inAnim = "In";
 	private string outAnim = "Out";
 
-	void Start ()
-	{
+	void Start() {
 		// Check if text is empty or not
-		if (inputText.text.Length == 0 || inputText.text.Length <= 0) 
-		{
+		if (inputText.text.Length == 0 || inputText.text.Length <= 0) {
 			isEmpty = true;
-		} 
-
-		else 
-		{
+		} else {
 			isEmpty = false;
 		}
 
 		// Animate if it's empty
-		if (isEmpty == true) 
-		{
-			inputFieldAnimator.Play (outAnim);
-		}
-
-		else 
-		{
-			inputFieldAnimator.Play (inAnim);
+		if (isEmpty) {
+			inputFieldAnimator.Play(outAnim);
+		} else {
+			inputFieldAnimator.Play(inAnim);
 		}
 	}
 
-	void Update ()
-	{
-		if (inputText.text.Length == 1 || inputText.text.Length >= 1)
-		{
+	void Update() {
+		if (inputText.text.Length == 1 || inputText.text.Length >= 1) {
 			isEmpty = false;
-			inputFieldAnimator.Play (inAnim);
-		} 
-
-		else if (isClicked == false)
-		{
-			inputFieldAnimator.Play (outAnim);
+			inputFieldAnimator.Play(inAnim);
+		} else if (!isClicked) {
+			inputFieldAnimator.Play(outAnim);
 		}
 	}
-		
-	public void Animate ()
-	{
+
+	public void Animate() {
 		isClicked = true;
-		inputFieldAnimator.Play (inAnim);
-		fieldTrigger.SetActive (true);
+		inputFieldAnimator.Play(inAnim);
+		fieldTrigger.SetActive(true);
 	}
 
-	public void FieldTrigger ()
-	{
-		if (isEmpty == true)
-		{
-			inputFieldAnimator.Play (outAnim);
-			fieldTrigger.SetActive (false);
+	public void FieldTrigger() {
+		if (isEmpty) {
+			inputFieldAnimator.Play(outAnim);
+			fieldTrigger.SetActive(false);
 			isClicked = false;
-		} 
-
-		else 
-		{
-			fieldTrigger.SetActive (false);
+		} else {
+			fieldTrigger.SetActive(false);
 			isClicked = false;
 		}
 	}

@@ -1,4 +1,4 @@
-﻿using TMPro;
+﻿using System.Collections;
 using UnityEngine;
 
 /*
@@ -8,62 +8,63 @@ using UnityEngine;
 
 public class Player : CharacterBase {
     private Transform EnemyChecker;
-    [Header("Misc")]
     public PlayerUI pui;
+    public OthersManager others;
     public int combo;
     public bool IsJumping => !OnGround;
-    public bool IsFallingInRes;
+    public bool IsKicking = false;
+    private float minWidth;
+    private HealthBar PHB; //player health bar
+    public GameObject bosses;
 
     private void Start() {
-        GameObject.Find("HPB").GetComponent<HealthBar>().MaxHealthPoints = maxHealth;
+        PHB = GameObject.Find("HPB").GetComponent<HealthBar>();
+        PHB.MaxHealthPoints = maxHealth;
+        minWidth = Camera.main.ScreenToWorldPoint(new Vector3(0, 0, 20)).x;
     }
 
     private void Update() {
-        if (!IsFallingInRes) { return; }
-        if (!OnGround) { return; } else { IsFallingInRes = false; } 
-    }
-
-    void FixedUpdate() {
-        if (IsFallingInRes) { return; }
-
-        if (isDead) { PlayerRespawn(); }
-        if (damaged) { return; }
-
-        Vector2 move = new Vector2(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical"));
-
-        MoveHandler(move);
-
-        anim.SetBool("Input", !move.x.Equals(0) || !move.y.Equals(0));
-
         if (Input.GetButtonDown("Jump") && OnGround) { Jump(); }
-
-        if (Input.GetButtonDown("Fire1")) { Attack(); }
-
-        //JumpControl();
+        if (Input.GetButtonDown("Fire1")) {
+            Attack();
+            IsKicking = !OnGround;
+        }
     }
 
-    void PlayerRespawn() {
-        if (FindObjectOfType<GameManager>().lives < 1) { return; }
+    private void FixedUpdate() {
+        SpaceLimiter();
 
-        FindObjectOfType<GameManager>().lives--;
-        pui.UpdateLifes();
-        anim.Rebind();
-        isDead = false;
-        damaged = false;
+        if (isDead || damaged) { return; }
+
+        Vector2 move = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical"));
+        MoveHandler(move);
+        anim.SetBool("Input", !move.x.Equals(0) || !move.y.Equals(0));
+    }
+
+    public void PlayerRespawn() {
+        if (gm.lives < 1) { gm.ChangeScreen(); return; }
+
         GetComponent<CapsuleCollider>().enabled = true;
-        GameObject.Find("HPB").GetComponent<HealthBar>().Recover(maxHealth);
+        rb.isKinematic = false;
+
+        gm.lives--;
+        pui.UpdateLifes();
+
+        PHB.Recover(maxHealth);
         currentHealth = maxHealth;
 
-        float minWidth = Camera.main.ScreenToWorldPoint(new Vector3(0, 0, 20)).x;
         transform.position = new Vector3(minWidth, 10, -4);
         transform.rotation = Quaternion.identity;
 
+        isDead = false;
+        damaged = false;
+
+        anim.Rebind();
         anim.Play("Jumping");
-        IsFallingInRes = true;
     }
 
     protected override void OnDamage(int damage) {
-        GameObject.Find("HPB").GetComponent<HealthBar>().Hurt(damage);
+        PHB.Hurt(damage);
         pui.ComboOut();
     }
 
@@ -78,6 +79,18 @@ public class Player : CharacterBase {
         pui.ComboIn();
     }
 
-    protected override void OnRecover(int points) => GameObject.Find("HPB").GetComponent<HealthBar>().Recover(points);
+    protected override void OnRecover(int points) => PHB.Recover(points);
 
+    protected override void OnDeath() {
+        if (bosses.activeInHierarchy) {
+            others.PushAll();
+        }
+    }
+
+    private void OnCollisionEnter(Collision other) {
+        if (!isDead || !other.gameObject.name.Equals("Ground")) { return; }
+
+        GetComponent<CapsuleCollider>().enabled = false;
+        rb.isKinematic = true;
+    }
 }

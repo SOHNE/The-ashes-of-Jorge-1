@@ -1,0 +1,413 @@
+fileFormatVersion: 2
+guid: e4be832db0e80486d89ea57cfd303faa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7134903931699628705
+    second: Jorge Morto_0
+  - first:
+      213: -889244890063147759
+    second: Jorge Morto_1
+  - first:
+      213: -7232609881738926348
+    second: Jorge Morto_2
+  - first:
+      213: 8400528685722866351
+    second: Jorge Morto_3
+  - first:
+      213: 6041843028810809731
+    second: Jorge Morto_4
+  - first:
+      213: 2097308266126369860
+    second: Jorge Morto_5
+  - first:
+      213: 2438422133010681040
+    second: Jorge Morto_6
+  - first:
+      213: 8796014966328277554
+    second: Jorge Morto_7
+  - first:
+      213: 9021742466547812845
+    second: Jorge Morto_8
+  - first:
+      213: -62948585776226256
+    second: Jorge Morto_9
+  - first:
+      213: 5894872600582499521
+    second: Jorge Morto_10
+  - first:
+      213: -4565819392317922998
+    second: Jorge Morto_11
+  - first:
+      213: -2395504883659993648
+    second: Jorge Morto_12
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 142
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jorge Morto_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 12
+        width: 98
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3ae42f10fa5354391264e448ad039e
+      internalID: -7134903931699628705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorge Morto_1
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 26
+        width: 117
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156a4df954209084e9fcf97795f2b06c
+      internalID: -889244890063147759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorge Morto_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 136
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e901c58bc3f2e468341f1ca0e5d63a
+      internalID: -7232609881738926348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorge Morto_3
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 82
+        width: 138
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2063ffe90c4e8c8418bde5141dd97011
+      internalID: 8400528685722866351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorge Morto_4
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 76
+        width: 122
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce0a004d4f6ef04e84a655015684f55
+      internalID: 6041843028810809731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorge Morto_5
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 80
+        width: 102
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494eb11ec011f4c4cbf6c80456c9f660
+      internalID: 2097308266126369860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorge Morto_6
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 16
+        width: 88
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c4d8e4331a55c4a8d4a295fde8807a
+      internalID: 2438422133010681040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorge Morto_7
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 22
+        width: 122
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8047c096567e8fb4886579ac22c1a62f
+      internalID: 8796014966328277554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorge Morto_8
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 26
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db980fa53f101948a3fe1ddb39a238a
+      internalID: 9021742466547812845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorge Morto_9
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 22
+        width: 128
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defd4ead8ff74524f8d900fd1cfc79d1
+      internalID: -62948585776226256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorge Morto_10
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 16
+        width: 126
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e0234fae144b54092d3f0df7f7bd20
+      internalID: 5894872600582499521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorge Morto_11
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 10
+        width: 132
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f5bdc2fc967834298ba73f81588f0d
+      internalID: -4565819392317922998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorge Morto_12
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 10
+        width: 138
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26842ab8a2f6b414fb8ea5edcea823de
+      internalID: -2395504883659993648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 28aed60c17cb749c4b3d7fd9a7bcb6a9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

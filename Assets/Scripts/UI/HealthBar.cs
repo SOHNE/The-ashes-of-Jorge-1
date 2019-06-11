@@ -2,25 +2,14 @@
 using UnityEngine.UI;
 
 public class HealthBar : MonoBehaviour {
-    [SerializeField]
-    private float maxHealthPoints = 100;
-
-    [SerializeField]
-    private float healthBarStepsLength = 10;
-
-    [SerializeField]
-    private float damagesDecreaseRate = 10;
-
-    //    private float regenarationIncreaseRate = 10;
-
+    
+    [SerializeField] private float maxHealthPoints = 100;
+    [SerializeField] private float healthBarStepsLength = 10;
+    [SerializeField] private float damagesDecreaseRate = 10;
     private Image image;
-
     private float currentHealthPoints;
-
     private RectTransform imageRectTransform;
-
     private float damages;
-
     private float regenaration;
 
     public float Health {
@@ -28,10 +17,6 @@ public class HealthBar : MonoBehaviour {
         set {
             currentHealthPoints = Mathf.Clamp(value, 0, MaxHealthPoints);
             image.material.SetFloat("_Percent", currentHealthPoints / MaxHealthPoints);
-
-            if (currentHealthPoints < Mathf.Epsilon)
-                Damages = 0;
-
         }
     }
 
@@ -39,8 +24,6 @@ public class HealthBar : MonoBehaviour {
         get { return damages; }
         set {
             damages = Mathf.Clamp(value, 0, MaxHealthPoints);
-            //image.material.SetFloat("_IsRecover", 0);
-
             image.material.SetFloat("_DamagesPercent", damages / MaxHealthPoints);
         }
     }
@@ -49,8 +32,6 @@ public class HealthBar : MonoBehaviour {
         get { return regenaration; }
         set {
             regenaration = Mathf.Clamp(value, 0, MaxHealthPoints);
-            //image.material.SetFloat("_IsRecover", 1);
-
             image.material.SetFloat("_Percent", regenaration / MaxHealthPoints);
         }
     }

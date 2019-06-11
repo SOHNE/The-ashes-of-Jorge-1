@@ -32,22 +32,20 @@ public class CharacterBase : MonoBehaviour {
     public Animator anim_ {
         get => anim;
     }
-    protected Transform groundCheck;
     protected bool facingRight = true;
     protected bool isDead = false;
     public bool damaged = false;
     protected float damageTimer;
     protected float nextAttack;
     protected new AudioSource audio;
-    protected float m_GroundCheckDistance = .125f;
-    protected Vector3 m_GroundNormal;
-    protected bool m_IsGrounded;
-
     [Header("OnGround")]
-    public LayerMask groundLayer;
-    protected Vector3 bottomOffset;
-    public float collisionRadius = 0.25f;
-    protected bool OnGround => Physics.OverlapSphere(transform.position + bottomOffset, collisionRadius, groundLayer).Length > 0;
+    [SerializeField] protected LayerMask groundLayer;
+    [SerializeField] protected Vector3 bottomOffset;
+    [SerializeField] protected float collisionRadius = .25f;
+    [SerializeField] protected bool OnGround => Physics.OverlapSphere(transform.position + bottomOffset, collisionRadius, groundLayer).Length > 0;
+    [Space]
+    [Header("Misc")]
+    public bool isFalling;
     protected GameObject player;
     #endregion
 
@@ -63,7 +61,6 @@ public class CharacterBase : MonoBehaviour {
         audio = GetComponent<AudioSource>();
         gm = FindObjectOfType<GameManager>();
 
-        groundCheck = transform.Find("GroundCheck");
         currentHealth = maxHealth;
         currentSpeed = maxSpeed;
 
@@ -96,25 +93,22 @@ public class CharacterBase : MonoBehaviour {
 
         StartCoroutine(DamageLimiter(damageTime));
 
-        currentHealth -= damage;    
+        currentHealth -= damage;
 
         if (currentHealth > 0) { return; }
-        if (currentHealth < 0) { currentHealth = 0; }
+        currentHealth = 0;
 
         PlaySong(Resources.Load<AudioClip>("SFX/dying"));
 
-        //anim.SetTrigger("Fall");
-        anim.Play("Fall");
+        Push();
 
         isDead = true;
-        if (CompareTag("Enemy")) {
-            rb.AddRelativeForce(new Vector3(-4.25f, 3.5f, 0), ForceMode.Impulse);
-            gameObject.layer = 30;
-        }
+        OnDeath();
+        if (CompareTag("Enemy")) { gameObject.layer = 30; } // change layer to dead
     }
 
     public void Attack(bool kick = false) {
-        if (Time.time < nextAttack || damaged) { return; }
+        if (Time.time < nextAttack || damaged || isDead) { return; }
         OnAttack(damage);
 
         if (OnGround) { currentSpeed = 0; }
@@ -149,9 +143,20 @@ public class CharacterBase : MonoBehaviour {
     /// Jumps the character.
     /// </summary>
     public void Jump() {
+        if (damaged || isDead) { return; }
+
         rb.AddForce(Vector3.up * jumpForce);
         PlaySong(Resources.Load<AudioClip>("SFX/felixyadomi__jump"));
         anim.SetTrigger("Jump");
+    }
+
+    public void Push() {
+        rb.AddRelativeForce(new Vector3(-4.25f, 3.5f, 0), ForceMode.Impulse);
+        anim.Play("Fall");
+        isDead = true;
+        damaged = false;
+
+        if (CompareTag("Enemy")) { gameObject.layer = 30; }
     }
 
     /// <summary>
@@ -183,8 +188,6 @@ public class CharacterBase : MonoBehaviour {
     ///   z:float
     /// </summary>
     protected void MoveHandler(Vector2 move) {
-        if (damaged) { return; }
-
         if ((move.x > 0 && !facingRight) || (move.x < 0 && facingRight)) { Flip(); }
 
         move.x *= currentSpeed;
@@ -193,17 +196,17 @@ public class CharacterBase : MonoBehaviour {
 
         AnimSpeed();
         JumpControl();
+    }
 
+    protected void SpaceLimiter() {
         float LimitX;
 
         if (CompareTag("Player")) {
-
             // Limita a movimentação do eixo x do personagem para apenas o mundo visivel pela câmera
             var minWidth = Camera.main.ScreenToWorldPoint(new Vector3(0, 0, 10)).x;
             var maxWidth = Camera.main.ScreenToWorldPoint(new Vector3(Screen.width, 0, 10)).x;
 
             LimitX = Mathf.Clamp(rb.position.x, minWidth + .75f, maxWidth - .75f);
-            //CheckGroundStatus();
 
         } else {
             LimitX = rb.position.x;
@@ -248,9 +251,11 @@ public class CharacterBase : MonoBehaviour {
     protected virtual void OnDeath() { return; }
     #endregion
 
+    #region Editor
     void OnDrawGizmos() {
         Gizmos.color = Color.red;
         Gizmos.DrawWireSphere(transform.position + bottomOffset, collisionRadius);
     }
+    #endregion
 }
 #endregion
