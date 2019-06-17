@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Attack : MonoBehaviour {
-    void OnTriggerEnter(Collider other) {
+
+    private void OnTriggerEnter(Collider other) {
         CharacterBase person = other.GetComponent<CharacterBase>();
 
         if (!person) { return; }
@@ -11,12 +12,17 @@ public class Attack : MonoBehaviour {
         CharacterBase agressor = GetComponentInParent<CharacterBase>();
 
         person.TookDamage(agressor.damage);
-
-        if (person.HP <= 0 || !agressor.CompareTag("Player")) { return; }
-
-        if (agressor.GetComponent<Player>().IsKicking) { person.Push(); person.isFalling = true; }
+        if (agressor.IsPunching) {
+            person.Push(agressor.Avoiding);
+            agressor.IsPunching = false;
+            agressor.Avoiding = false;
+        }
 
         agressor.OnValidAttack();
+
+        if (!agressor.CompareTag("Player")) { return; }
+
         agressor.anim_.SetTrigger("Hited");
     }
+
 }

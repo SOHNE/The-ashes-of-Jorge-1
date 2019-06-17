@@ -3,13 +3,16 @@
 public class ComboManager : MonoBehaviour {
 
     private int maxCombo;
-    private int totalCombo;
+    private int totalDeaths;
     public int MaxCombo => maxCombo;
-    public int TotalCombo => totalCombo;
+    public int TotalDeaths => totalDeaths;
 
-    public void Calc(int newTry) {
-        totalCombo++;
+    public void CalcCombo(int newTry) {
         if (newTry > MaxCombo) { maxCombo = newTry; }
+    }
+
+    public void CalcDeaths(){
+        totalDeaths++;
     }
 
 }

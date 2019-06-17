@@ -13,11 +13,17 @@ using UnityEngine;
 public class CharacterBase : MonoBehaviour {
 
     #region Vars
+    [Header("Sounds")]
+    public AudioClip Hit;
+    public AudioClip Dying;
+
     [Header("Character")]
+    protected bool isEntering;
     public float maxSpeed = 8f;
     public float damageTime = 0.5f;
     public int maxHealth = 10;
     public int damage = 1;
+    protected int original_damage;
     public float jumpForce = 250f;
     public float fallMultiplier = 2.5f;
     public float attackRate = 1f;
@@ -27,6 +33,7 @@ public class CharacterBase : MonoBehaviour {
     public float currentSpeed;
     protected bool jump;
     protected Rigidbody rb;
+    protected CapsuleCollider coll;
     protected GameManager gm;
     protected Animator anim;
     public Animator anim_ {
@@ -38,15 +45,19 @@ public class CharacterBase : MonoBehaviour {
     protected float damageTimer;
     protected float nextAttack;
     protected new AudioSource audio;
+    public bool IsPunching;
+    public bool Avoiding;
     [Header("OnGround")]
     [SerializeField] protected LayerMask groundLayer;
     [SerializeField] protected Vector3 bottomOffset;
     [SerializeField] protected float collisionRadius = .25f;
     [SerializeField] protected bool OnGround => Physics.OverlapSphere(transform.position + bottomOffset, collisionRadius, groundLayer).Length > 0;
-    [Space]
     [Header("Misc")]
-    public bool isFalling;
+    [SerializeField] protected ComboManager comboManager;
     protected GameObject player;
+    [SerializeField] protected LayerMask PlayerLayer = 8;
+    [SerializeField] protected Vector3 BackOff = new Vector3(-1, 1, 0);
+    protected bool BackCheck => Physics.OverlapSphere(transform.position + BackOff, collisionRadius * 3f, PlayerLayer).Length > 0;
     #endregion
 
     #region Code
@@ -57,12 +68,16 @@ public class CharacterBase : MonoBehaviour {
     /// </summary>
     public void Awake() {
         rb = GetComponent<Rigidbody>();
+        coll = GetComponent<CapsuleCollider>();
         anim = GetComponent<Animator>();
         audio = GetComponent<AudioSource>();
         gm = FindObjectOfType<GameManager>();
+        comboManager = FindObjectOfType<ComboManager>();
 
         currentHealth = maxHealth;
         currentSpeed = maxSpeed;
+
+        original_damage = damage;
 
         if (CompareTag("Enemy")) { player = GameObject.FindGameObjectWithTag("Player"); }
     }
@@ -78,13 +93,11 @@ public class CharacterBase : MonoBehaviour {
     /// Function called when character get damage.
     /// </summary>
     public void TookDamage(int damage) {
-        if (isDead) { return; }
+        if (isDead || IsPunching || Avoiding || isEntering) { return; }
         if (CompareTag("Player") && damaged) { return; }
 
-        PlaySong(Resources.Load<AudioClip>("SFX/punch"));
+        PlaySong(Hit);
         anim.Play("Damaged");
-
-        OnDamage(damage);
 
         currentSpeed = 0;
         rb.velocity = Vector3.zero;
@@ -95,23 +108,24 @@ public class CharacterBase : MonoBehaviour {
 
         currentHealth -= damage;
 
+        OnDamage(damage);
+
         if (currentHealth > 0) { return; }
         currentHealth = 0;
 
-        PlaySong(Resources.Load<AudioClip>("SFX/dying"));
+        PlaySong(Dying);
 
         Push();
 
         isDead = true;
         OnDeath();
-        if (CompareTag("Enemy")) { gameObject.layer = 30; } // change layer to dead
+        gameObject.layer = 30; // change layer to dead
     }
 
-    public void Attack(bool kick = false) {
-        if (Time.time < nextAttack || damaged || isDead) { return; }
-        OnAttack(damage);
+    public void Attack(int dmg = 0) {
+        if (damaged || isDead) { return; } // or Time.time < nextAttack
 
-        if (OnGround) { currentSpeed = 0; }
+        OnAttack(dmg);
 
         anim.SetTrigger("Attack");
         nextAttack = Time.time + attackRate;
@@ -126,6 +140,9 @@ public class CharacterBase : MonoBehaviour {
         Quaternion rot = transform.rotation;
         rot.y = facingRight ? 0 : -180;
         transform.rotation = rot;
+
+        BackOff.x *= -1;
+
     }
 
     //
@@ -133,7 +150,7 @@ public class CharacterBase : MonoBehaviour {
     /// Function for audioclip execution
     //
     // Parameters:
-    //   clip:AduioClip
+    // clip:AduioClip
     public void PlaySong(AudioClip clip) {
         audio.clip = clip;
         audio.Play();
@@ -150,8 +167,17 @@ public class CharacterBase : MonoBehaviour {
         anim.SetTrigger("Jump");
     }
 
-    public void Push() {
-        rb.AddRelativeForce(new Vector3(-4.25f, 3.5f, 0), ForceMode.Impulse);
+    public void Push(bool avoid = false) {
+        if (isDead) { return; }
+
+        //Vector3 direction = rb.transform.position - transform.position;
+
+        //int a = !facingRight ? 1 : -1;
+        rb.AddRelativeForce(new Vector3(-4.2f, 3.5f, 0), ForceMode.Impulse);
+
+        if (avoid) { return; }
+        PlaySong(Dying);
+
         anim.Play("Fall");
         isDead = true;
         damaged = false;
@@ -184,8 +210,8 @@ public class CharacterBase : MonoBehaviour {
     /// Gets X and Z floats and apply in the world.
     ///
     /// Parameters:
-    ///   x:float
-    ///   z:float
+    /// x:float
+    /// z:float
     /// </summary>
     protected void MoveHandler(Vector2 move) {
         if ((move.x > 0 && !facingRight) || (move.x < 0 && facingRight)) { Flip(); }
@@ -218,19 +244,26 @@ public class CharacterBase : MonoBehaviour {
             Mathf.Clamp(rb.position.z, -8.75f, 7.35f));
     }
 
-    /* 
+    /*
      * Animator event
      */
 
     /// <summary>
     /// Function called when character stop moving
     /// </summary>
-    public void ZeroSpeed() => currentSpeed = 0;
+    public void ZeroSpeed() {
+        if (isEntering) { PlaySong(Resources.Load<AudioClip>("SFX/thunder")); } else if (gameObject.layer == 30) { gameObject.layer = 12; }
+
+        currentSpeed = 0;
+    }
 
     /// <summary>
     /// Function called when character speed needs a reset
     /// </summary>
-    public void ResetSpeed() => currentSpeed = maxSpeed;
+    public void ResetSpeed() { currentSpeed = maxSpeed; IsPunching = false; Avoiding = false; }
+
+    public void Punch() { IsPunching = true; Avoiding = false; }
+    public void PunchToAvoid() { IsPunching = true; Avoiding = true; }
 
     IEnumerator DamageLimiter(float time) {
         damaged = true;
@@ -239,6 +272,7 @@ public class CharacterBase : MonoBehaviour {
         if (HP > 0 && damaged) {
             damaged = false;
             anim.Play("Idle");
+            currentSpeed = maxSpeed;
         }
     }
 
@@ -255,6 +289,7 @@ public class CharacterBase : MonoBehaviour {
     void OnDrawGizmos() {
         Gizmos.color = Color.red;
         Gizmos.DrawWireSphere(transform.position + bottomOffset, collisionRadius);
+        Gizmos.DrawWireSphere(transform.position + BackOff, collisionRadius * 1.5f);
     }
     #endregion
 }

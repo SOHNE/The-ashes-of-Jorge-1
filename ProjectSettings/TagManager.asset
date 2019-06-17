@@ -12,6 +12,7 @@ TagManager:
   - UIController
   - EnemyPoints
   - Maestro
+  - Demon
   layers:
   - Default
   - TransparentFX

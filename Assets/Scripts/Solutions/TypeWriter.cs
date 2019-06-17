@@ -1,15 +1,15 @@
 ﻿using System.Collections;
 using UnityEngine;
-using TMPro;
+using UnityEngine.UI;
 
 // attach to UI Text component (with the full text already there)
 
 public class TypeWriter : MonoBehaviour {
-    private TextMeshProUGUI txt;
+    private Text txt;
     private string story;
 
     private void Awake() {
-        txt = GetComponent<TextMeshProUGUI>();
+        txt = GetComponent<Text>();
         story = txt.text;
         txt.text = "";
 

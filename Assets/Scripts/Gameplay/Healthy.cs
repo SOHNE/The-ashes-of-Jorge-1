@@ -3,15 +3,14 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Healthy : MonoBehaviour {
-    public int Points;
+    [SerializeField] private int Points = 5;
 
-    private void OnTriggerEnter(Collider other) {
-        if (!other.name.Equals("Player")) { return; }
-        CharacterBase person = other.GetComponent<CharacterBase>();
+    private void OnTriggerStay(Collider other) {
+        Player person = other.GetComponent<Player>();
 
-        if (person.HP <= 0) { return; }
+        if (!person || person.IsMaxLife || person.IsDead) { return; }
 
-        person.Recover(5);
+        person.Recover(Points);
         Destroy(gameObject);
     }
 

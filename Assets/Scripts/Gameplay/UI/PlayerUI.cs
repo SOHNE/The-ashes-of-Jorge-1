@@ -34,22 +34,22 @@ public class PlayerUI : MonoBehaviour {
     public void UpdateLifes() => LR.text = GM.lives.ToString();
 
     #region "Animations Events"
-    public void AnimGO() => anim.Play("Go");
+    public void AnimGO() => anim.PlayInFixedTime("Go");
 
     public void ComboIn() {
         if (combVisible) { return; }
         combVisible = !combVisible;
 
-        anim.Play("Combo");
+        anim.PlayInFixedTime("Combo");
     }
 
     public void ComboOut() {
         if (!combVisible) { return; }
         combVisible = !combVisible;
 
-        anim.Play("ComboOut");
+        anim.PlayInFixedTime("ComboOut");
 
-        comboManager.Calc(player.combo);
+        comboManager.CalcCombo(player.combo);
     }
 
     public void P_ComboReset() {

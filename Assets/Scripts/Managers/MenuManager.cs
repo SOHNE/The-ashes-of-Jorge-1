@@ -1,5 +1,4 @@
 ﻿using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -8,17 +7,21 @@ public class MenuManager : MonoBehaviour {
     public GameObject menu, tuto;
     private AsyncOperation op;
 
+    private void Awake() {
+        Destroy(GameObject.FindGameObjectWithTag("GameController"));
+    }
+
     private void Update() {
         if (!Input.anyKeyDown || !menu.activeInHierarchy) { return; }
-        GetComponent<Animator>().PlayInFixedTime("IN");
+        GetComponent<Animator>().Play("IN");
     }
 
     public void FadeIn() {
         if (!menu.activeInHierarchy) { return; }
-        
+
         menu.SetActive(false);
         tuto.SetActive(true);
-        GetComponent<Animator>().PlayInFixedTime("OUT");
+        GetComponent<Animator>().Play("OUT");
 
         StartCoroutine(Wait());
         StartCoroutine(Load());
@@ -32,8 +35,6 @@ public class MenuManager : MonoBehaviour {
     }
 
     IEnumerator Wait() {
-        yield return new WaitForSeconds(5f);
-        GetComponent<Animator>().PlayInFixedTime("IN");
         yield return new WaitForSeconds(1.25f);
         op.allowSceneActivation = true;
     }

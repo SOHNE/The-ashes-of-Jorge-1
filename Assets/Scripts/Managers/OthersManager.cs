@@ -29,11 +29,14 @@ public class OthersManager : MonoBehaviour {
     }
 
     private void Calculate() {
-        EnemiesNearby = InsertionSort(EnemiesNearby);
+        if (!player.IsDead) {
+            EnemiesNearby = InsertionSort(EnemiesNearby);
+            maxAttackers = MaxAttackers;
+        } else {
+            maxAttackers = 0;
+        }
 
         Attackers = 0;
-
-        maxAttackers = player.IsDead ? 0 : MaxAttackers;
 
         foreach (Enemy raged in EnemiesNearby) {
 
@@ -41,9 +44,9 @@ public class OthersManager : MonoBehaviour {
 
             Attackers++;
 
-            if (push) { raged.isFalling = true; raged.Push(); }
+            //if (push) { raged.Push(); }
         }
-        push = false;
+        //push = false;
     }
 
     public void PushAll() => push = true;

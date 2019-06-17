@@ -28,8 +28,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5143165747950822284}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.91, y: 1.18, z: 0.5139179}
-  m_LocalScale: {x: 1.155, y: 0.719171, z: 1}
+  m_LocalPosition: {x: 0.676, y: 1.18, z: 0}
+  m_LocalScale: {x: 1.62393, y: 0.719171, z: 1}
   m_Children: []
   m_Father: {fileID: 5163025134398037171}
   m_RootOrder: 0
@@ -135,7 +135,7 @@ Transform:
   m_GameObject: {fileID: 8179032853829956496}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1, y: 1.097, z: 1}
   m_Children:
   - {fileID: 2064510097883073013}
   - {fileID: 5374030625141920771}
@@ -252,7 +252,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.5
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -348,25 +348,33 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0b5231f36fc862a45abb1c73b2e60764, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Hit: {fileID: 8300000, guid: 7fac6c3cf43d84edfbe5718ef5881245, type: 3}
+  Dying: {fileID: 8300000, guid: 333b987626f94498dbd06ad6c4285517, type: 3}
   maxSpeed: 3.5
   damageTime: 0.5
   maxHealth: 15
-  damage: 1
+  damage: 2
   jumpForce: 250
   fallMultiplier: 2.5
   attackRate: 0.5
   currentHealth: 0
   currentSpeed: 0
   damaged: 0
+  IsPunching: 0
+  Avoiding: 0
   groundLayer:
     serializedVersion: 2
     m_Bits: 0
   bottomOffset: {x: 0, y: 0, z: 0}
   collisionRadius: 0.25
-  isFalling: 0
+  comboManager: {fileID: 0}
+  PlayerLayer:
+    serializedVersion: 2
+    m_Bits: 0
+  BackOff: {x: -1, y: 1, z: 0}
   standDelay: 0.525
+  HBOffset: {x: 0, y: 3, z: 0}
   PosLife: 2
-  num: 0
   ReviveProb: 0.2
   stopDistance: 1
   Attacking: 0

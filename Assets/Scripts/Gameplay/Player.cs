@@ -12,15 +12,17 @@ public class Player : CharacterBase {
     public OthersManager others;
     public int combo;
     public bool IsJumping => !OnGround;
+    public bool IsMaxLife => HP.Equals(maxHealth);
     public bool IsKicking = false;
-    private float minWidth;
+    private float minWidth_res;
     private HealthBar PHB; //player health bar
     public GameObject bosses;
 
     private void Start() {
         PHB = GameObject.Find("HPB").GetComponent<HealthBar>();
         PHB.MaxHealthPoints = maxHealth;
-        minWidth = Camera.main.ScreenToWorldPoint(new Vector3(0, 0, 20)).x;
+
+        minWidth_res = Camera.main.ScreenToWorldPoint(new Vector3(0, 0, 20)).x;
     }
 
     private void Update() {
@@ -29,6 +31,8 @@ public class Player : CharacterBase {
             Attack();
             IsKicking = !OnGround;
         }
+
+        //if (Input.GetKeyDown(KeyCode.R)) { Recover(50); }
     }
 
     private void FixedUpdate() {
@@ -38,28 +42,31 @@ public class Player : CharacterBase {
 
         Vector2 move = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical"));
         MoveHandler(move);
-        anim.SetBool("Input", !move.x.Equals(0) || !move.y.Equals(0));
+        anim.SetBool("Input", move.x != 0 || move.y != 0);
     }
 
     public void PlayerRespawn() {
-        if (gm.lives < 1) { gm.ChangeScreen(); return; }
+        if (gm.lives < 1) { gm.ChangeScreen(0); return; }
+
+        gameObject.layer = 8; // Layer now is player
 
         GetComponent<CapsuleCollider>().enabled = true;
         rb.isKinematic = false;
 
+        anim.Rebind();
+
         gm.lives--;
         pui.UpdateLifes();
 
-        PHB.Recover(maxHealth);
         currentHealth = maxHealth;
+        PHB.Recover(maxHealth);
 
-        transform.position = new Vector3(minWidth, 10, -4);
+        transform.position = new Vector3(minWidth_res, 10, 0);
         transform.rotation = Quaternion.identity;
 
         isDead = false;
         damaged = false;
 
-        anim.Rebind();
         anim.Play("Jumping");
     }
 
@@ -82,9 +89,7 @@ public class Player : CharacterBase {
     protected override void OnRecover(int points) => PHB.Recover(points);
 
     protected override void OnDeath() {
-        if (bosses.activeInHierarchy) {
-            others.PushAll();
-        }
+
     }
 
     private void OnCollisionEnter(Collision other) {

@@ -1,16 +1,19 @@
 ﻿using UnityEngine;
 
 public class EventHandler : MonoBehaviour {
-
+    public Transform Player;
+    public Maestria Maestro;
     public float minZ, maxZ;
     public GameObject[] enemy;
     public int QttofEnemies;
     public float spawnTime = 3.5f;
-
     private Transform CharacterSpace;
-
     private int currentEnemies;
-
+    private int Pos = 12;
+    private SystemUI SUI;
+    [Header("BossWave")]
+    public GameObject Boss;
+    public GameObject BossUI;
     private GameManager _GM;
 
     /// <summary>
@@ -18,28 +21,35 @@ public class EventHandler : MonoBehaviour {
     /// </summary>
     void Awake() {
         _GM = FindObjectOfType<GameManager>();
+        SUI = GetComponentInParent<SystemUI>();
         CharacterSpace = GameObject.Find("Others").transform;
+        Pos *= Random.Range(0, 2) == 0 ? -1 : 1;
     }
-    public int id;
+
     private void Update() {
         if (currentEnemies < QttofEnemies) { return; }
+        Desblo();
+    }
+
+    public void Desblo() {
         int enemies = GameObject.FindGameObjectsWithTag("Enemy").Length;
 
-        if (enemies <= 0 || (enemies == 1 && FindObjectOfType<Enemy>().HP <= 0)) {
+        if (enemies <= 0 || (enemies == 1 && FindObjectOfType<Enemy>().IsDead)) {
             _GM.Follow();
-            FindObjectOfType<PlayerUI>().AnimGO();
-            Destroy(gameObject);
+            SUI.AnimGO();
             gameObject.SetActive(false);
         }
     }
+
     public void SpawnEnemy() {
 
-        bool positionX = Random.Range(0, 2) == 0 ? true : false;
         Vector3 spawnPosition;
         spawnPosition.z = Random.Range(minZ, maxZ);
 
         Vector3 spawnPos = new Vector3(transform.position.x, 0, spawnPosition.z);
-        spawnPos.x += positionX ? 10 : -10;
+
+        spawnPos.x += Pos;
+        Pos *= -1;
 
         GameObject en = Instantiate(enemy[Random.Range(0, enemy.Length)], spawnPos, Quaternion.identity);
         en.transform.SetParent(CharacterSpace, false);
@@ -51,11 +61,32 @@ public class EventHandler : MonoBehaviour {
         }
     }
 
+    public void SpawnBoss() {
+
+        Vector3 spawnPos = new Vector3(transform.position.x, 0, Player.position.z);
+
+        spawnPos.x += 2.75f;
+
+        GameObject en = Instantiate(Boss, spawnPos, Quaternion.identity);
+        en.transform.SetParent(CharacterSpace, false);
+        Maestro.ResetLoops();
+        Maestro.NewSoundtrack("Music/Boss");
+        en.GetComponent<Matthew>().BossWave = gameObject.GetComponent<EventHandler>();
+
+        currentEnemies++;
+
+
+    }
+
     private void OnTriggerEnter(Collider other) {
         if (!other.CompareTag("Player")) { return; }
 
         _GM.UnFollow();
         GetComponent<MeshCollider>().enabled = false;
-        SpawnEnemy();
+        if (!Boss) {
+            SpawnEnemy();
+        } else {
+            SpawnBoss();
+        }
     }
 }

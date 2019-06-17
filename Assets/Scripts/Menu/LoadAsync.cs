@@ -4,16 +4,17 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class LoadAsync : MonoBehaviour {
-    // private AsyncOperation op;
+    [SerializeField] private string NextScene = string.Empty;
 
-    private void Start() => StartCoroutine(Load());
+    private void Start() { if(!NextScene.Equals(string.Empty)) { StartCoroutine(Load(NextScene)); } }
 
-    IEnumerator Load() {
-        AsyncOperation op = SceneManager.LoadSceneAsync(SceneManager.GetActiveScene().buildIndex + 1);
+    public void Do(string sceneName) => StartCoroutine(Load(sceneName));
+
+    IEnumerator Load(string sceneName) {
+
+        AsyncOperation op = SceneManager.LoadSceneAsync(SceneManager.GetSceneByName(sceneName).buildIndex);
         //op.allowSceneActivation = false;
 
-        do {
-            yield return null;
-        } while (!op.isDone);
+        do { yield return null; } while (!op.isDone);
     }
 }

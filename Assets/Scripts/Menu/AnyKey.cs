@@ -14,9 +14,7 @@ public class AnyKey : MonoBehaviour {
         AsyncOperation op = SceneManager.LoadSceneAsync(SceneManager.GetActiveScene().buildIndex + 1);
         op.allowSceneActivation = false;
 
-        do {
-            yield return null;
-        } while (!op.isDone);
+        do { yield return null; } while (!op.isDone);
 
         //op.allowSceneActivation = true;
         //print(op.allowSceneActivation);

@@ -20,13 +20,16 @@ AnimationClip:
   m_PPtrCurves:
   - curve:
     - time: 0
-      value: {fileID: 2421939865393253795, guid: 615c86e03e2aa434ca45110c22631e31,
+      value: {fileID: -6793497903211281028, guid: 4fb9de9234b424865966e0c1a16caf06,
         type: 3}
     - time: 0.1
-      value: {fileID: -7203199574812706987, guid: 615c86e03e2aa434ca45110c22631e31,
+      value: {fileID: -4728130661690792794, guid: 4fb9de9234b424865966e0c1a16caf06,
         type: 3}
     - time: 0.2
-      value: {fileID: 6977928131377842755, guid: 615c86e03e2aa434ca45110c22631e31,
+      value: {fileID: 2900387657936318305, guid: 4fb9de9234b424865966e0c1a16caf06,
+        type: 3}
+    - time: 0.3
+      value: {fileID: -528563930484251596, guid: 4fb9de9234b424865966e0c1a16caf06,
         type: 3}
     attribute: m_Sprite
     path: 
@@ -47,15 +50,16 @@ AnimationClip:
       customType: 23
       isPPtrCurve: 1
     pptrCurveMapping:
-    - {fileID: 2421939865393253795, guid: 615c86e03e2aa434ca45110c22631e31, type: 3}
-    - {fileID: -7203199574812706987, guid: 615c86e03e2aa434ca45110c22631e31, type: 3}
-    - {fileID: 6977928131377842755, guid: 615c86e03e2aa434ca45110c22631e31, type: 3}
+    - {fileID: -6793497903211281028, guid: 4fb9de9234b424865966e0c1a16caf06, type: 3}
+    - {fileID: -4728130661690792794, guid: 4fb9de9234b424865966e0c1a16caf06, type: 3}
+    - {fileID: 2900387657936318305, guid: 4fb9de9234b424865966e0c1a16caf06, type: 3}
+    - {fileID: -528563930484251596, guid: 4fb9de9234b424865966e0c1a16caf06, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 0.3
+    m_StopTime: 0.4
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
@@ -76,7 +80,14 @@ AnimationClip:
   m_HasMotionFloatCurves: 0
   m_Events:
   - time: 0
-    functionName: ShowLifeBar
+    functionName: ZeroSpeed
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.3
+    functionName: ResetSpeed
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0

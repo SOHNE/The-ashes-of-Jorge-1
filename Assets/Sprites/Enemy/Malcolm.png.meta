@@ -1,0 +1,4037 @@
+fileFormatVersion: 2
+guid: 785668474082d5d47903b255fe58583e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3374033003870222241
+    second: Malcolm_0
+  - first:
+      213: 4013286410151982967
+    second: Malcolm_1
+  - first:
+      213: 7578890690563036934
+    second: Malcolm_2
+  - first:
+      213: -5796799700181680373
+    second: Malcolm_3
+  - first:
+      213: 5822825359470304398
+    second: Malcolm_4
+  - first:
+      213: -4971458164016930825
+    second: Malcolm_5
+  - first:
+      213: 5958858442919723206
+    second: Malcolm_6
+  - first:
+      213: -985221888962789098
+    second: Malcolm_7
+  - first:
+      213: -8748972282940212103
+    second: Malcolm_8
+  - first:
+      213: 8786640219160156156
+    second: Malcolm_9
+  - first:
+      213: -3177691064855942771
+    second: Malcolm_10
+  - first:
+      213: 6467659488560824512
+    second: Malcolm_11
+  - first:
+      213: 6165296422093423008
+    second: Malcolm_12
+  - first:
+      213: -4973818729882845759
+    second: Malcolm_13
+  - first:
+      213: -695670656759031046
+    second: Malcolm_14
+  - first:
+      213: -6813478951147080303
+    second: Malcolm_15
+  - first:
+      213: -3853192253278464785
+    second: Malcolm_16
+  - first:
+      213: -1719952229289861030
+    second: Malcolm_17
+  - first:
+      213: -8077757029194456586
+    second: Malcolm_18
+  - first:
+      213: 8752122984150487822
+    second: Malcolm_19
+  - first:
+      213: -8395253327565382715
+    second: Malcolm_20
+  - first:
+      213: 6647531791775115753
+    second: Malcolm_21
+  - first:
+      213: -8317034336224697263
+    second: Malcolm_22
+  - first:
+      213: 3227921298133637545
+    second: Malcolm_23
+  - first:
+      213: -3932371835291556402
+    second: Malcolm_24
+  - first:
+      213: 986945557363340614
+    second: Malcolm_25
+  - first:
+      213: -6512097947014653136
+    second: Malcolm_26
+  - first:
+      213: 4836556138482774168
+    second: Malcolm_27
+  - first:
+      213: -7284488097905658398
+    second: Malcolm_28
+  - first:
+      213: 8723084455744005975
+    second: Malcolm_29
+  - first:
+      213: 6116274073458605224
+    second: Malcolm_30
+  - first:
+      213: 509092383903491566
+    second: Malcolm_31
+  - first:
+      213: 474318348713799668
+    second: Malcolm_32
+  - first:
+      213: -6326330983643317366
+    second: Malcolm_33
+  - first:
+      213: 6335755584682516711
+    second: Malcolm_34
+  - first:
+      213: -3803761665623238633
+    second: Malcolm_35
+  - first:
+      213: -4622656382824125304
+    second: Malcolm_36
+  - first:
+      213: 1770932855401538748
+    second: Malcolm_37
+  - first:
+      213: 1594040381133651620
+    second: Malcolm_38
+  - first:
+      213: 1266905122676334812
+    second: Malcolm_39
+  - first:
+      213: 4426844287695979032
+    second: Malcolm_40
+  - first:
+      213: 3933751091722182080
+    second: Malcolm_41
+  - first:
+      213: 3246898588796376410
+    second: Malcolm_42
+  - first:
+      213: -4470816720304754613
+    second: Malcolm_43
+  - first:
+      213: 5042954411498627383
+    second: Malcolm_44
+  - first:
+      213: 6612421105860909367
+    second: Malcolm_45
+  - first:
+      213: 3946150568598500617
+    second: Malcolm_46
+  - first:
+      213: 289493657071949559
+    second: Malcolm_47
+  - first:
+      213: 8057609068470771424
+    second: Malcolm_48
+  - first:
+      213: -6671857984669779405
+    second: Malcolm_49
+  - first:
+      213: 9061921721163673047
+    second: Malcolm_50
+  - first:
+      213: 8207507244460679629
+    second: Malcolm_51
+  - first:
+      213: -6901419514678048064
+    second: Malcolm_52
+  - first:
+      213: -3286456891832119497
+    second: Malcolm_53
+  - first:
+      213: 5998376594852709502
+    second: Malcolm_54
+  - first:
+      213: 3826117000310128748
+    second: Malcolm_55
+  - first:
+      213: -2782489909267042727
+    second: Malcolm_56
+  - first:
+      213: -7320872278666449397
+    second: Malcolm_57
+  - first:
+      213: -2138172419080745491
+    second: Malcolm_58
+  - first:
+      213: -2585214659699354692
+    second: Malcolm_59
+  - first:
+      213: 6350408069954506464
+    second: Malcolm_60
+  - first:
+      213: 5690040048086937150
+    second: Malcolm_61
+  - first:
+      213: 381586161313212709
+    second: Malcolm_62
+  - first:
+      213: 472131600457201860
+    second: Malcolm_63
+  - first:
+      213: 7970730844401303471
+    second: Malcolm_64
+  - first:
+      213: -2309525146874840220
+    second: Malcolm_65
+  - first:
+      213: -9055005508327790392
+    second: Malcolm_66
+  - first:
+      213: 7715312409343723590
+    second: Malcolm_67
+  - first:
+      213: -3310582987880892095
+    second: Malcolm_68
+  - first:
+      213: 4618572044433279204
+    second: Malcolm_69
+  - first:
+      213: -7233136213373511049
+    second: Malcolm_70
+  - first:
+      213: 638759928858678780
+    second: Malcolm_71
+  - first:
+      213: -616726713114950902
+    second: Malcolm_72
+  - first:
+      213: -921963707478209040
+    second: Malcolm_73
+  - first:
+      213: 2260077978689263938
+    second: Malcolm_74
+  - first:
+      213: 4239102874910649147
+    second: Malcolm_75
+  - first:
+      213: 5223169808566652601
+    second: Malcolm_76
+  - first:
+      213: 2507908277485497745
+    second: Malcolm_77
+  - first:
+      213: -464622976104060886
+    second: Malcolm_78
+  - first:
+      213: -1599591312254698614
+    second: Malcolm_79
+  - first:
+      213: 5802683692322258938
+    second: Malcolm_80
+  - first:
+      213: -2229529008723102367
+    second: Malcolm_81
+  - first:
+      213: 6423083399691101801
+    second: Malcolm_82
+  - first:
+      213: 1614409540286503439
+    second: Malcolm_83
+  - first:
+      213: 6704274060042398677
+    second: Malcolm_84
+  - first:
+      213: -5466422943086754374
+    second: Malcolm_85
+  - first:
+      213: 2185529020156406170
+    second: Malcolm_86
+  - first:
+      213: -458875231225992928
+    second: Malcolm_87
+  - first:
+      213: -2665499900973771026
+    second: Malcolm_88
+  - first:
+      213: -7315716356534165701
+    second: Malcolm_89
+  - first:
+      213: 6525381438366886858
+    second: Malcolm_90
+  - first:
+      213: -1874040512530633470
+    second: Malcolm_91
+  - first:
+      213: -6889515283940688800
+    second: Malcolm_92
+  - first:
+      213: -4331793986642013791
+    second: Malcolm_93
+  - first:
+      213: 6206044941961216025
+    second: Malcolm_94
+  - first:
+      213: -8643383690784121856
+    second: Malcolm_95
+  - first:
+      213: -6140382150864648755
+    second: Malcolm_96
+  - first:
+      213: -3313062751716474654
+    second: Malcolm_97
+  - first:
+      213: -2947530394301556273
+    second: Malcolm_98
+  - first:
+      213: -8778436592982815356
+    second: Malcolm_99
+  - first:
+      213: -8848084726122793980
+    second: Malcolm_100
+  - first:
+      213: 574560458173053347
+    second: Malcolm_101
+  - first:
+      213: -3291701416241802606
+    second: Malcolm_102
+  - first:
+      213: -6879371355865237756
+    second: Malcolm_103
+  - first:
+      213: 161385473078861993
+    second: Malcolm_104
+  - first:
+      213: -1952278804200089752
+    second: Malcolm_105
+  - first:
+      213: -8106262320830951534
+    second: Malcolm_106
+  - first:
+      213: -2332650162316693114
+    second: Malcolm_107
+  - first:
+      213: 4900117014140941994
+    second: Malcolm_108
+  - first:
+      213: -6404668663035649613
+    second: Malcolm_109
+  - first:
+      213: 2583875032066599261
+    second: Malcolm_110
+  - first:
+      213: 7223870365323749583
+    second: Malcolm_111
+  - first:
+      213: -6364263452228488989
+    second: Malcolm_112
+  - first:
+      213: 2335904973011959374
+    second: Malcolm_113
+  - first:
+      213: 1355226767877494120
+    second: Malcolm_114
+  - first:
+      213: -4799047447255200575
+    second: Malcolm_115
+  - first:
+      213: 4171193186613881678
+    second: Malcolm_116
+  - first:
+      213: -2174765047099135287
+    second: Malcolm_117
+  - first:
+      213: 2535360402476810868
+    second: Malcolm_118
+  - first:
+      213: 8610509224846332965
+    second: Malcolm_119
+  - first:
+      213: -9071152425032048966
+    second: Malcolm_120
+  - first:
+      213: -4444807076860225261
+    second: Malcolm_121
+  - first:
+      213: -258455822212866691
+    second: Malcolm_122
+  - first:
+      213: 48095883540553890
+    second: Malcolm_123
+  - first:
+      213: 7690473189017964733
+    second: Malcolm_124
+  - first:
+      213: 2589748075255335590
+    second: Malcolm_125
+  - first:
+      213: -4894236229487082398
+    second: Malcolm_126
+  - first:
+      213: -2680923665754452500
+    second: Malcolm_127
+  - first:
+      213: 4680006916922667639
+    second: Malcolm_128
+  - first:
+      213: -6043087548823165139
+    second: Malcolm_129
+  - first:
+      213: 994888920781211407
+    second: Malcolm_130
+  - first:
+      213: -3221513877766333613
+    second: Malcolm_131
+  - first:
+      213: -2675870251781053785
+    second: Malcolm_132
+  - first:
+      213: -3971931055040609006
+    second: Malcolm_133
+  - first:
+      213: 7321150417970626200
+    second: Malcolm_134
+  - first:
+      213: 8020604184879615929
+    second: Malcolm_135
+  - first:
+      213: -3939402911076836987
+    second: Malcolm_136
+  - first:
+      213: 2228420145888287573
+    second: Malcolm_137
+  - first:
+      213: -4757384764218391958
+    second: Malcolm_138
+  - first:
+      213: -6170886845873100823
+    second: Malcolm_139
+  - first:
+      213: -3639374889553459702
+    second: Malcolm_140
+  - first:
+      213: 6055123608559715359
+    second: Malcolm_141
+  - first:
+      213: 6390725702769046519
+    second: Malcolm_142
+  - first:
+      213: -7065414453446375363
+    second: Malcolm_143
+  - first:
+      213: 3779141804113448498
+    second: Malcolm_144
+  - first:
+      213: 6243894625070021487
+    second: Malcolm_145
+  - first:
+      213: 8074627223190305840
+    second: Malcolm_146
+  - first:
+      213: -573436932007682213
+    second: Malcolm_147
+  - first:
+      213: 3488713263985974207
+    second: Malcolm_148
+  - first:
+      213: 8687728330521981403
+    second: Malcolm_149
+  - first:
+      213: 7888373203271788722
+    second: Malcolm_150
+  - first:
+      213: -3916894216450819104
+    second: Malcolm_151
+  - first:
+      213: -2993533677734488552
+    second: Malcolm_152
+  - first:
+      213: 2655195080317882926
+    second: Malcolm_153
+  - first:
+      213: -1444874979739408283
+    second: Malcolm_154
+  - first:
+      213: 2371415154224064904
+    second: Malcolm_155
+  - first:
+      213: 840199406187931776
+    second: Malcolm_156
+  - first:
+      213: -2922698377547906852
+    second: Malcolm_157
+  - first:
+      213: 6225091624578710941
+    second: Malcolm_158
+  - first:
+      213: 2976908324830716539
+    second: Malcolm_159
+  - first:
+      213: 7087722100520530137
+    second: Malcolm_160
+  - first:
+      213: 7293116092497187099
+    second: Malcolm_161
+  - first:
+      213: -2076778412521286706
+    second: Malcolm_162
+  - first:
+      213: 1318627243378319051
+    second: Malcolm_163
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Malcolm_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2185
+        width: 54
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb5e4a168eb2ac41a5dba2f7fa18db4
+      internalID: 3374033003870222241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2185
+        width: 55
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8149a299da47dd3419502be0a8c7a790
+      internalID: 4013286410151982967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 2185
+        width: 54
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f77a9254f6cba44a484aedc499f758
+      internalID: 7578890690563036934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_3
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 2185
+        width: 54
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ba6c64339ad8e4690e5e7ed176774b
+      internalID: -5796799700181680373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2085
+        width: 50
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f51eb91aab93924898ddbf31cfee1c8
+      internalID: 5822825359470304398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_5
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 2086
+        width: 45
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ce9a51525bfe341a3f9c163c6819c2
+      internalID: -4971458164016930825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_6
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 2087
+        width: 45
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184589d056d8ec84d94411958595bb91
+      internalID: 5958858442919723206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_7
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 2087
+        width: 47
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817debab458ecee40984e618446db088
+      internalID: -985221888962789098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_8
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2085
+        width: 52
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57df60d56af390e449ca6625fbfe084d
+      internalID: -8748972282940212103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_9
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 2085
+        width: 49
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1d693a7e10d3a49bd28d8cd52045f8
+      internalID: 8786640219160156156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_10
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 2085
+        width: 45
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3ca7d1091c2434abb2d8230c497fd0
+      internalID: -3177691064855942771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_11
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 2085
+        width: 44
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40e20b1be8351a40a4377b48409ec00
+      internalID: 6467659488560824512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1990
+        width: 57
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cca6de797c7eab4fa7c29f14cfb736b
+      internalID: 6165296422093423008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_13
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1996
+        width: 79
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4501493d789d3ce4f89fbef21e384916
+      internalID: -4973818729882845759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_14
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1992
+        width: 76
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf8f128bee154b4889bfb46dd0835ce
+      internalID: -695670656759031046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_15
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1992
+        width: 51
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815d102c62da68e48bc4cf0c1e8a2c9d
+      internalID: -6813478951147080303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_16
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1992
+        width: 55
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6a46142549777408ab1c14a6dc28c8
+      internalID: -3853192253278464785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_17
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1997
+        width: 69
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de81efe42df12e64d8b2ffbe65ce3247
+      internalID: -1719952229289861030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_18
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1995
+        width: 68
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fd376d49cef5346baa3e718c296bfa
+      internalID: -8077757029194456586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_19
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1990
+        width: 49
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daeb8ac2c36e8984ba9a9e64077866e1
+      internalID: 8752122984150487822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1898
+        width: 76
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1c80056831d5a4cbbf31b0ae80059a
+      internalID: -8395253327565382715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_21
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1898
+        width: 81
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d679acb6f4db69e4eb92aa9d1dd31b6f
+      internalID: 6647531791775115753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_22
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1898
+        width: 72
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec13812fd4a0f5438024ddc2bce0064
+      internalID: -8317034336224697263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_23
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1899
+        width: 54
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3a1c5f45320414a9e2105513cd4ac2
+      internalID: 3227921298133637545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_24
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1894
+        width: 63
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f325a612e50f7d499db7c4d74ffd74a
+      internalID: -3932371835291556402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_25
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1897
+        width: 57
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d58f3538f72354bb73922eb384b273
+      internalID: 986945557363340614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_26
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1898
+        width: 54
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7f50abb24784f4dbc5aa1d9c0aa56f
+      internalID: -6512097947014653136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_27
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1898
+        width: 54
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a692687dc76696438f31ac3f2079bf3
+      internalID: 4836556138482774168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_28
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1899
+        width: 48
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8273c4478700a749b58861c32687524
+      internalID: -7284488097905658398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_29
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1800
+        width: 50
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce319cef2e4797647b0f6aba0200d5fc
+      internalID: 8723084455744005975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_30
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1800
+        width: 87
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d50b6cc32d5554c958d4cafe7e218d
+      internalID: 6116274073458605224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_31
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1800
+        width: 85
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0987feccf96eb044288c4fb8b1843909
+      internalID: 509092383903491566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_32
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1800
+        width: 66
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bcf8bce02e53340a47b398968423bf
+      internalID: 474318348713799668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_33
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1716
+        width: 52
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e068ec7225f231b4c824d9f506402a1a
+      internalID: -6326330983643317366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_34
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1716
+        width: 84
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223f31b338ad69c4ea9265698cbf0bf7
+      internalID: 6335755584682516711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_35
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1716
+        width: 83
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8912a03b3f2e8cb47bf2bb42d80583e3
+      internalID: -3803761665623238633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_36
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1716
+        width: 69
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10927925f9f5b324ebc086cc647b7b94
+      internalID: -4622656382824125304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_37
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1716
+        width: 45
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53686a595c9ceb944a105c1d167505cf
+      internalID: 1770932855401538748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_38
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1593
+        width: 54
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6c1225b1923ae4db63daa6b19f474e
+      internalID: 1594040381133651620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_39
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1608
+        width: 58
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7919fcd3aede374fb9cead099354420
+      internalID: 1266905122676334812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_40
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1608
+        width: 58
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955516aabab5faa4b96dc1a183af9634
+      internalID: 4426844287695979032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_41
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1608
+        width: 58
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24d9a8e8a117b84e9aa7681fff93426
+      internalID: 3933751091722182080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_42
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1614
+        width: 50
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfba516fa1fbc2478ff3dd4b1e61319
+      internalID: 3246898588796376410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_43
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1623
+        width: 51
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009bf32aea998e54a8eaf24c13248176
+      internalID: -4470816720304754613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_44
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1630
+        width: 47
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc120d14638cd51468ae64ae4eb9eb9f
+      internalID: 5042954411498627383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_45
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1622
+        width: 52
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b550c9f9a676a4d81dd6ed7308a91d
+      internalID: 6612421105860909367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_46
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1613
+        width: 56
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e415315e190310940a5e890e29a62124
+      internalID: 3946150568598500617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_47
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1608
+        width: 55
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f177730c64acc7d4481adb32da3856be
+      internalID: 289493657071949559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_48
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1608
+        width: 55
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6c0d8d0908e4845b2b6cc0c723567d
+      internalID: 8057609068470771424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_49
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1608
+        width: 55
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac98842f6e04d764bae3b180b43b8d5b
+      internalID: -6671857984669779405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_50
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 1593
+        width: 54
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d49f7fcecf8f64dbdcc7d377938b1b
+      internalID: 9061921721163673047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_51
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1498
+        width: 47
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82cc309398056f045a2696f700e6de01
+      internalID: 8207507244460679629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_52
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1507
+        width: 39
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac475970e19fc334ca9b9695e2102883
+      internalID: -6901419514678048064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_53
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1515
+        width: 36
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b7f8f801b4bba46b996c7520f1ca96
+      internalID: -3286456891832119497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_54
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1511
+        width: 88
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e69f65298589a479f33c0c4de6bf94
+      internalID: 5998376594852709502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_55
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1512
+        width: 84
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: facddec34c41d2b44a80be0bbf209284
+      internalID: 3826117000310128748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_56
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1385
+        width: 52
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60ec21ed4800e04593429474375b18b
+      internalID: -2782489909267042727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_57
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1386
+        width: 52
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb4ac3b35da7b54592883c4248aae81
+      internalID: -7320872278666449397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_58
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1388
+        width: 75
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a0d8a91afa08b468d952577532ac25
+      internalID: -2138172419080745491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_59
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1389
+        width: 72
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097a3e6fa8aead8449b93620f8eefbfd
+      internalID: -2585214659699354692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_60
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1401
+        width: 64
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ccbc77502f6c04c8788310f7c86761
+      internalID: 6350408069954506464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_61
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1388
+        width: 65
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1797f08dcf9f2254cab0404b1cb7a51f
+      internalID: 5690040048086937150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_62
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1387
+        width: 63
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361c625f12785c749bacbc1d17212679
+      internalID: 381586161313212709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_63
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1385
+        width: 52
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd58c006b1abd448b9c58a32daf319c
+      internalID: 472131600457201860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_64
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1281
+        width: 68
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3982a3042b5798419e44e099b5ec1e9
+      internalID: 7970730844401303471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_65
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1281
+        width: 58
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f072a4e0635e7b64fa150a9057d3481e
+      internalID: -2309525146874840220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_66
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1281
+        width: 68
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe25bddd48cca44d90af1bbf8d7fff8
+      internalID: -9055005508327790392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_67
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1281
+        width: 53
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c542afa49b3594ebf5e8c4cf410663
+      internalID: 7715312409343723590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_68
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1281
+        width: 52
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22be959db7926ae4081a544683aba3e6
+      internalID: -3310582987880892095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_69
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1281
+        width: 48
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936b9ec17d9c00147860d781b4ad1478
+      internalID: 4618572044433279204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_70
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1281
+        width: 49
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48777f9c1d140f44908c45ba52fd056
+      internalID: -7233136213373511049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_71
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1282
+        width: 49
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dffd71e3d6389f44859487c1a5f7d74
+      internalID: 638759928858678780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_72
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1283
+        width: 72
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b012808d8c89545b42d4d82432671a
+      internalID: -616726713114950902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_73
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1283
+        width: 63
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf803f4c131c5d140bdf5a85352839ca
+      internalID: -921963707478209040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_74
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1283
+        width: 56
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c777555827c24c4081d0edf5b1f090b
+      internalID: 2260077978689263938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_75
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 1282
+        width: 56
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aecfc3837a41b645befabc1e101e33d
+      internalID: 4239102874910649147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_76
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1188
+        width: 56
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae1394dd72697a44ac11763c9b135e0
+      internalID: 5223169808566652601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_77
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1188
+        width: 51
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcec20fd8b7ffb146b8f242416fdca05
+      internalID: 2507908277485497745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_78
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1188
+        width: 54
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9741097fef06ac549a7f9ab0a59ae7d4
+      internalID: -464622976104060886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_79
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1188
+        width: 54
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a370e4046a4efdf4d8fc6b25a2aabdeb
+      internalID: -1599591312254698614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_80
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1188
+        width: 52
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0840501d1c368f42a240d3cde6d312c
+      internalID: 5802683692322258938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_81
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1188
+        width: 53
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6f29c41cccc3b4d877f39323b71589
+      internalID: -2229529008723102367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_82
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1188
+        width: 51
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c53e1d945edf9489d92f42e9a45189
+      internalID: 6423083399691101801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_83
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1188
+        width: 54
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f276b0477673d42be93e93489d8d11
+      internalID: 1614409540286503439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_84
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1094
+        width: 54
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecceb4c399faadc45ade4aad1d32518b
+      internalID: 6704274060042398677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_85
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1094
+        width: 55
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1674fcf87153548a8207a18a5ee47a
+      internalID: -5466422943086754374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_86
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1094
+        width: 54
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ae51fcf229b93459fc9b251c2b5745
+      internalID: 2185529020156406170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_87
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1094
+        width: 82
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233305732793feb4fa8316dd877042ed
+      internalID: -458875231225992928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_88
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1094
+        width: 77
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f61b56b523f7a1449aacfe4844de6a2
+      internalID: -2665499900973771026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_89
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1094
+        width: 67
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e437a5f65c97744999728d61ed89ecf
+      internalID: -7315716356534165701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_90
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1094
+        width: 56
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6756c2114f4979b4898f0128ca08a7ad
+      internalID: 6525381438366886858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_91
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1094
+        width: 55
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0359b8b6426c2214b8b09d3131233562
+      internalID: -1874040512530633470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_92
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1006
+        width: 59
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f572844fce31d048b81c00c63cc4a95
+      internalID: -6889515283940688800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_93
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1006
+        width: 56
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f48b942453acc94bb4ecff756694b82
+      internalID: -4331793986642013791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_94
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1006
+        width: 50
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd8b115774bae245b7de4a85c4659a1
+      internalID: 6206044941961216025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_95
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1006
+        width: 68
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575c764d3d11cd9459d7a71f453a1eb2
+      internalID: -8643383690784121856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_96
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1006
+        width: 67
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23cfea47a298ee14a80f06dd3fa3e19c
+      internalID: -6140382150864648755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_97
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1006
+        width: 56
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b730af4b2692094e8dec0ef583a61af
+      internalID: -3313062751716474654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_98
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1006
+        width: 54
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e61ac2cb1d123478582d9fc67ce446
+      internalID: -2947530394301556273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_99
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 883
+        width: 69
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985b54d51780c234d83c56b6703eec1b
+      internalID: -8778436592982815356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_100
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 901
+        width: 62
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96a54dc1892012478073199f44afa36
+      internalID: -8848084726122793980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_101
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 927
+        width: 69
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef27a75185734de48805174fed146381
+      internalID: 574560458173053347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_102
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 946
+        width: 84
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec38178a5e8d5c4d89507f8c4dc8226
+      internalID: -3291701416241802606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_103
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 940
+        width: 74
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30aa2844ef3a364408d5ca08e939d800
+      internalID: -6879371355865237756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_104
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 923
+        width: 62
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be5d733a680de848b44c65ca60d4365
+      internalID: 161385473078861993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_105
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 815
+        width: 52
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646c1d31d603ce141b950821a873cb24
+      internalID: -1952278804200089752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_106
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 816
+        width: 89
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2f47cc20598224eadb7a1ac9dcf2ff
+      internalID: -8106262320830951534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_107
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 819
+        width: 94
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5362521d0fbefb4caf2399510c0576f
+      internalID: -2332650162316693114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_108
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 820
+        width: 93
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb34355f24ea5bd4ba408a9f1df5a721
+      internalID: 4900117014140941994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_109
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 822
+        width: 89
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d041258dc6b10418f5715c24a650a8
+      internalID: -6404668663035649613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_110
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 818
+        width: 92
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4d3c4db20cb5941b86617cdb856d0f
+      internalID: 2583875032066599261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_111
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 814
+        width: 92
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a2e95bdb2d08447870257a5936c3bc
+      internalID: 7223870365323749583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_112
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 814
+        width: 97
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e504835f85d07e46bf4650abf2a3c15
+      internalID: -6364263452228488989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_113
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 696
+        width: 56
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6ea78f31c1c464a9772f896868d691
+      internalID: 2335904973011959374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_114
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 696
+        width: 48
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757844f773af06d4a8933c35e5c88194
+      internalID: 1355226767877494120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_115
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 696
+        width: 43
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7c0177a4e4a2144a9bd65fe4dfc0aa
+      internalID: -4799047447255200575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_116
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 742
+        width: 77
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830771ea518eb2943ad1a3696b24f478
+      internalID: 4171193186613881678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_117
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 719
+        width: 51
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493faafd3235c4f4ebe32e86537129ab
+      internalID: -2174765047099135287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_118
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 702
+        width: 51
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f63985576bf54e48b4bd55968096e8e
+      internalID: 2535360402476810868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_119
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 698
+        width: 55
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee1348dd2effa14eaa5227aa2e7c234
+      internalID: 8610509224846332965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_120
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 698
+        width: 60
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807f3f1130d7a9c42950a0feaeb6a76b
+      internalID: -9071152425032048966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_121
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 698
+        width: 55
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea34278576f0d246890746851d6664d
+      internalID: -4444807076860225261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_122
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 601
+        width: 54
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41e9d7a928485742aaa229f37d51571
+      internalID: -258455822212866691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_123
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 601
+        width: 54
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf82ebb38a5925c49ba1cde0beb5750c
+      internalID: 48095883540553890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_124
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 601
+        width: 54
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00438a10ea56794296b95e01cd026b5
+      internalID: 7690473189017964733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_125
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 601
+        width: 54
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6580221ff67b145b03a4fbab6036d0
+      internalID: 2589748075255335590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_126
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 601
+        width: 54
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54be8f95bf819d640b03ae74d9f685c9
+      internalID: -4894236229487082398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_127
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 601
+        width: 54
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65898c02b1ed96c489ce49876837082c
+      internalID: -2680923665754452500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_128
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 517
+        width: 49
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7308dde5ed64f44aac8e8240ed9b95
+      internalID: 4680006916922667639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_129
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 517
+        width: 50
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49dbe49a4c25ff40a771aaddbc85b85
+      internalID: -6043087548823165139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_130
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 459
+        width: 97
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fec64862fb9394ab86c55d1f53c14a
+      internalID: 994888920781211407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_131
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 459
+        width: 97
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda43d7d84ce06c4fbc290bdcb131651
+      internalID: -3221513877766333613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_132
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 461
+        width: 95
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b7910c694d0e44fb4ab729107aeaaf
+      internalID: -2675870251781053785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_133
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 458
+        width: 95
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d06131210636e34184515ef91e6b83a
+      internalID: -3971931055040609006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_134
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 458
+        width: 95
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9aa9ca4e324a4748b0a79c3d2c12e33
+      internalID: 7321150417970626200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_135
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 386
+        width: 97
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9b14fddb35e614bb2d3946931c37d1
+      internalID: 8020604184879615929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_136
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 387
+        width: 95
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4de80390edf5d64791a0765d58a5a4e
+      internalID: -3939402911076836987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_137
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 387
+        width: 102
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb6f671e53357e40a13872879326a13
+      internalID: 2228420145888287573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_138
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 387
+        width: 103
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917bc4d50b2202247ae97948dda5acce
+      internalID: -4757384764218391958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_139
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 387
+        width: 103
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d9c99d3dcfa0949b22d729ecfb7461
+      internalID: -6170886845873100823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_140
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 284
+        width: 52
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4889d1aa500aa4290bc76f11943a26
+      internalID: -3639374889553459702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_141
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 284
+        width: 52
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911449b8e58a0014ea5395b44cf32cf9
+      internalID: 6055123608559715359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_142
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 284
+        width: 50
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b788a3e37a993747b874d1efb3276d2
+      internalID: 6390725702769046519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_143
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 284
+        width: 50
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad95f1229734c84ebaa00dce989cdaf
+      internalID: -7065414453446375363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_144
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 284
+        width: 50
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0852b8bcb4850634c8cb39b635d15e9d
+      internalID: 3779141804113448498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_145
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 284
+        width: 52
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785c207fa0d587640840c8a53672a922
+      internalID: 6243894625070021487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_146
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 197
+        width: 49
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff00fb2ccac60a489ec6d2dfd976fc8
+      internalID: 8074627223190305840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_147
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 198
+        width: 48
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0254bb405ba293f4fbc9de94ae935586
+      internalID: -573436932007682213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_148
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 205
+        width: 53
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286befdd5adb74142b7d7b8aee2b25fe
+      internalID: 3488713263985974207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_149
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 210
+        width: 55
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1d074436cc73d41945764747f65a4c
+      internalID: 8687728330521981403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_150
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 197
+        width: 49
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0863c6818a61ee8469ebb7c8597dea5a
+      internalID: 7888373203271788722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_151
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 98
+        width: 49
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796cfbd7ca69a2d459014f44349870b8
+      internalID: -3916894216450819104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_152
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 98
+        width: 49
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b28c0c32aad15448774519c5013b60
+      internalID: -2993533677734488552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_153
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 107
+        width: 53
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f14d20aad865b48a3166032b5b8f80
+      internalID: 2655195080317882926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_154
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 104
+        width: 49
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301f8909b1135364d9c0b9f0429e1a67
+      internalID: -1444874979739408283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_155
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 94
+        width: 41
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2168e5edf641aa74ebc2c57cf83667c4
+      internalID: 2371415154224064904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_156
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 122
+        width: 83
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd269e9793669c4689c7b2f5ca0d324
+      internalID: 840199406187931776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_157
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 6
+        width: 54
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d2499199cc1bd40a7acc560540db1d
+      internalID: -2922698377547906852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_158
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 6
+        width: 51
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ddda0092598294d829461d5c28ebdc
+      internalID: 6225091624578710941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_159
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 6
+        width: 52
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bb1198a38f5094ea816521bca9952d
+      internalID: 2976908324830716539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_160
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 6
+        width: 54
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b09ea738bd74c4cb2ed0183bea0bac
+      internalID: 7087722100520530137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_161
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 6
+        width: 58
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e6f34cca6f72944a258d327eb88904
+      internalID: 7293116092497187099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_162
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 6
+        width: 58
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbcba10a557aca4ba8e1372b3c873bd
+      internalID: -2076778412521286706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malcolm_163
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 6
+        width: 56
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb60fec4dc13c54ba58fe642ba55cab
+      internalID: 1318627243378319051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9e4189d1e7c3c9944968285ff52cbfa3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
