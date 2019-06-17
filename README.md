@@ -14,7 +14,8 @@ ___
 
 Dyego Marques Souza Costa<br/>
 <sup>Design; Desenho; Personagens; Animação.</sup>
-[Instagram](https://www.instagram.com/dydi.arts/)
+
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/[ICON NAME].svg" />](https://www.instagram.com/dydi.arts/)
 
 Leandro de Gonzaga Peres<br/>
 <sup>Game Design; Programação; Documentação.</sup>
