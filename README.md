@@ -45,8 +45,6 @@ SPACE - Pulo
 
 SETAS - Movimentação
 ```
-## Sound Track
-https://www.youtube.com/watch?v=S7YB1i4Lpno&list=PLTWIu6ULgTgEREloBZaBhRpLiHc-4slHf
 
 ___
 
