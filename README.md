@@ -8,7 +8,9 @@ Uma produção enquanto estudantes de 2º período de
 Jogos Digitais pela Faculdade Senac Goiás, em Goiânia.
 </code>
 </center>
---
+
+---
+
 <b>Em conformidade com o edital de Projeto Integrador II e ao Game Design Document encontrado na pasta '*\___documentos_\_\_*', informamos de antemão que o jogo é apoiado estritamente pelas mecânicas do gênero [Beat em Up](https://pt.wikipedia.org/wiki/Beat_%27em_up) e a estéstica embasada no jogo [Scott Pilgrim vs. the World: The Game](https://en.wikipedia.org/wiki/Scott_Pilgrim_vs._the_World:_The_Game), dispnível para PlaySation 3 e Xbox 360.</b>
 
 [![Unity Version](https://img.shields.io/badge/Unity-2019.1-green.svg?logo=unity&style=flat-square&colorA=000000)](https://store.unity.com/download?ref=personal) [![Licença](https://img.shields.io/badge/Licença-MIT-blue.svg?style=flat-square)](https://github.com/zschzen/The-ashes-of-Jorge/blob/master/LICENSE)
