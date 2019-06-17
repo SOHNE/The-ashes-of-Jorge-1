@@ -19,10 +19,12 @@ Dyego Marques Souza Costa<br/>
 
 Leandro de Gonzaga Peres<br/>
 <sup>Game Design; Programação; Documentação.</sup>
+
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@1.9.28/icons/instagram.svg" />](https://www.instagram.com/zschzen)
 
 Geovani Ildefonso Alves Junior<br/>
 <sup>Game Design; Programação; Documentação.</sup>
+
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@1.9.28/icons/instagram.svg" />](https://www.instagram.com/geov4ni/)
 
 André de Vasconcelos Campos Ribeiro<br/>
