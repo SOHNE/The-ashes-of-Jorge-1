@@ -15,15 +15,15 @@ ___
 Dyego Marques Souza Costa<br/>
 <sup>Design; Desenho; Personagens; Animação.</sup>
 
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/[ICON NAME].svg" />](https://www.instagram.com/dydi.arts/)
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@1.9.28/icons/instagram.svg" />](https://www.instagram.com/dydi.arts/)
 
 Leandro de Gonzaga Peres<br/>
 <sup>Game Design; Programação; Documentação.</sup>
-[Instagram](https://www.instagram.com/zschzen)
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@1.9.28/icons/instagram.svg" />](https://www.instagram.com/zschzen)
 
 Geovani Ildefonso Alves Junior<br/>
 <sup>Game Design; Programação; Documentação.</sup>
-[Instagram](https://www.instagram.com/geov4ni/)
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@1.9.28/icons/instagram.svg" />](https://www.instagram.com/geov4ni/)
 
 André de Vasconcelos Campos Ribeiro<br/>
 <sup>Coleção musical e de efeitos; Documentação.</sup>
