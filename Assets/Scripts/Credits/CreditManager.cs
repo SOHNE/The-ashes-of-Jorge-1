@@ -17,9 +17,7 @@ public class CreditManager : MonoBehaviour {
     IEnumerator Load() {
         loading = true;
         AsyncOperation op = SceneManager.LoadSceneAsync(0);
-        op.allowSceneActivation = false;
 
         do { yield return null; } while (!op.isDone);
-        op.allowSceneActivation = true;
     }
 }
