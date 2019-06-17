@@ -1,6 +1,6 @@
 # The Ashes of Jorge
 ###### Início: 17 de Maio de 2019
-###### Conclusão<sup>1</sup>: 24/25 de Junho de 2019
+###### Conclusão: 17 de Junho de 2019
 
 Uma produção enquanto estudantes de Jogos Digitais na Faculdade Senac Goiás.
 
@@ -15,11 +15,17 @@ ___
 Dyego Marques Souza Costa<br/>
 <sup>Design; Desenho; Personagens; Animação.</sup>
 
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@1.9.28/icons/instagram.svg" />](https://www.instagram.com/dydi.arts/)
+
 Leandro de Gonzaga Peres<br/>
 <sup>Game Design; Programação; Documentação.</sup>
 
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@1.9.28/icons/instagram.svg" />](https://www.instagram.com/zschzen)
+
 Geovani Ildefonso Alves Junior<br/>
 <sup>Game Design; Programação; Documentação.</sup>
+
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@1.9.28/icons/instagram.svg" />](https://www.instagram.com/geov4ni/)
 
 André de Vasconcelos Campos Ribeiro<br/>
 <sup>Coleção musical e de efeitos; Documentação.</sup>
@@ -42,11 +48,8 @@ SPACE - Pulo
 
 SETAS - Movimentação
 ```
-## Sound Track
-https://www.youtube.com/watch?v=S7YB1i4Lpno&list=PLTWIu6ULgTgEREloBZaBhRpLiHc-4slHf
 
 ___
-<sup>1 - Trabalho em andamento.</sup>
 
-[![readme (re)version](https://img.shields.io/badge/%2F~.-lightgrey.svg?style=flat-square&colorA=808080&colorB=808080)![readme version](https://img.shields.io/badge/02%2F06%2F19--lightgrey.svg?style=flat-square&colorA=000000&colorB=ffffff)](https://works.sohne.com.br)
+[![readme (re)version](https://img.shields.io/badge/%2F~.-lightgrey.svg?style=flat-square&colorA=808080&colorB=808080)![readme version](https://img.shields.io/badge/17%2F06%2F19--lightgrey.svg?style=flat-square&colorA=000000&colorB=ffffff)](https://works.sohne.com.br)
 
