@@ -36,7 +36,7 @@ Geovani Ildefonso Alves Junior<br/>
 [<img height="26" width="26" src="https://unpkg.com/simple-icons@1.9.28/icons/instagram.svg" />](https://www.instagram.com/geov4ni/)
 
 André de Vasconcelos Campos Ribeiro<br/>
-<sup>Coleção musical e de efeitos; Documentação.</sup>
+<sup>Coleção musical e de efeitos; Game Design Document; Documentação acerca de gestão de pessoas.</sup>
 
 Victoria Costa Oliveira<br/>
 <sup>Cenário, Ícones.</sup>
